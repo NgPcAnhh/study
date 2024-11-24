@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Speaking Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <button class="menu-button">
+            <img src="picture/menu.png" alt="Menu Icon" class="menu-icon">
+        </button>
+        VIRTUAL SPEAKING ROOM
+    </div>
+
+    <!-- Menu -->
+    <button class="menu-button">
+        <img src="picture/menu.png" alt="Menu" class="menu-icon">
+    </button>
+    <div class="menu-overlay">
+        <div class="menu-content">
+            <a href="#introduction">Introduction</a>
+            <a href="#solution">Solution</a>
+            <a href="#advantage">Advantages</a>
+            <a href="#description">App Description</a>
+            <a href="#app-description">Mock Test Description</a>
+            <a href="#Video">Practicing Video Description</a>
+            <a href="#register-payment">Register and Payment</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        
+    <!-- scroll back -->
+    </div>
+    <button class="back-button" id="scrollToTopBtn">
+        <img src="picture/back.png" alt="Cuộn lên đầu" class="back-icon">
+    </button>
+
+    <script>
+        document.getElementById('scrollToTopBtn').addEventListener('click', () => {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    </script>
+
+    <!-- Header Image -->
+    <div class="image-container" id="introduction">
+        <img src="picture/Picture1.png" alt="Image" class="header-image">
+    </div>
+
+    <!-- Text: Introduction -->
+    <div class="text-section">
+        <p><strong>INTRODUCTION:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>In the virtual speaking room - VSR, users can experience the real exam of the IELTS speaking computer-based test and strengthen their mentality and essential speaking skills to prepare for the real test.</p>
+    </div>
+
+    <!-- Practice Test Image -->
+    <div class="image1">
+        <img src="picture/process.png" alt="Additional Image" class="process">
+    </div>
+
+    <!-- Caption for Practice Test Image -->
+    <div class="text">
+        <p>Image1: Practice test interface </p>
+    </div>
+
+    <!-- Text: Solution -->
+    <div class="text-section" id = 'solution'>
+        <br>
+        <p><strong>Solution:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>It's a solution that saves time, money, effort, and manpower for the speaking practice phase, which normally requires an additional person to act as an examiner. Moreover, the app offers various modes such as full test practice or individual practice for part 1 or part 2+3. Therefore, the app is suitable for both beginners and experienced learners. The freedom to practice without limits helps learners improve their speaking skills significantly.</p>
+        <a href = 'solution.html' class ='teleport'>More</ahref></a>
+    </div>
+
+    <!-- Ending Interface Image and Text -->
+    <div class="image-text-container" id = 'advantage'>
+        <img src="picture/ending.png" alt="Ending Image" class="left-image">
+        <div class="text-content">
+            <p><strong>Advantage:</strong></p>
+            <p>With an easy-to-use, user-friendly interface and nearly 90% of the processes automated and similar to the actual speaking test, it helps users become familiar with and practice so they won’t feel unfamiliar during the official exam.</p>
+            <br>
+            <p><strong>Notice:</strong><br>
+            Please note that the software does not have a grading function because AI CANNOT replace humans in grading speaking tests. For optimal learning and progress, it is recommended to use the recorded clips as materials for self-review or to seek feedback from more experienced individuals !!!</p>
+            <br>
+            <br>
+            <a href = 'advantage.html' class ='teleport'>More</ahref></a>
+        </div>
+    </div>  
+
+    <!-- Caption for Ending Interface Image -->
+    <div class="note">
+        <p>Image2: The end interface</p>
+    </div>  
+
+    <!-- App Description -->
+    <div class="text-section" id ='description'>
+        <p><strong>App Description:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>This application automates the practice process, allowing unlimited practice sessions. All sessions are recorded as audio files for self-review or professional evaluation. It offers various modes: a simulated exam mode (showing only face-to-face and part 2 questions), a full practice mode (displaying all part 1 to part 3 questions with note-taking), and individual part practice modes (part 1 or part 2+3).</p>
+        <a href = 'app-description.html' class ='teleport'>More</ahref></a>
+    </div>
+
+    <!-- Additional Images -->
+    <div class="text-section" id ='app-description'>
+        <br>
+        <p><strong>"Images of the simulated computer-based speaking test"</strong></p>
+    </div>
+    <div class="image3">
+        <img src="picture/simulated_pic1.png" alt="Simulated Image 1" class="process">
+        <br>
+        <img src="picture/simulated_pic2.png" alt="Simulated Image 2" class="process">
+    </div>
+
+    <!-- YouTube Video -->
+    <div class="youtube-video" id ='Video'>
+        <br>
+        <h2>Watch our Introduction Video:</h2>
+        <br>
+        <iframe 
+            src="https://www.youtube.com/embed/VUjAZG3ekSY" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+    <br>
+    <br>
+
+    <div class ='text-section'>
+        <p><strong>Register and Payment.</strong></p>
+        <p>___________________________________________________</p>
+    </div>
+
+    
+    <!-- Register Form $ QR -->
+    <div></div>
+    <div class="container" id = 'register-payment'>
+        <div class="register-form">
+            <h2><strong>Register Form</strong></h2>
+            <p>_________________________</p>
+            <input type="text" placeholder="NAME">
+            <input type="email" placeholder="GMAIL">
+            <input type="tel" placeholder="PHONE NUMBER">
+            <input type="text" placeholder='REFERRAL CODE'>
+            <br>
+            <button onclick="showAlert()">SAVE</button>
+            <script>
+                function showAlert() {
+                    alert("saving information successfully");
+                }
+            </script>
+        </div>
+        <div class="qr-container">
+            <h2><strong>QR Payment</strong></h2>
+            <img src='picture/qr.jpg' alt="QR Image" class="QR">
+        </div>
+    </div>
+
+    <div class ='text-section'>
+        <p><strong>After registering and purchasing, you will get link to download</strong></p>
+        <br>
+        <br>
+        <br>
+    </div>
+
+    <!-- Footer -->
+    <div class="contact-info" id="contact">
+        <h2>Virtual Speaking Room : THE COPYRIGHT IS HELD BY MR.NGUYEN PHUC ANH</h2>
+        <div class="info-container">
+          <div class="contact-details">
+            <p><img src="picture/phone.png" alt="Phone" class="icon"> Contact: +84 833953819</p>
+            <p><img src="picture/zalo.png" alt="Zalo" class="icon"> ZALO: <img src="picture/vietnam.png" alt="Vietnam flag" class="flag"> 0388953819</p>
+            <p><img src="picture/gmail.png" alt="Email" class="icon"> Gmail: phucanhnguyen0408@gmail.com</p>
+            <p><img src="picture/youtube.png" alt="Youtube" class="icon"> Youtube: Virtual Speaking Room</p>
+          </div>
+          <div class="logo">
+            <img src="picture/iconyeloow.png" alt="VSR Logo">
+          </div>
+        </div>
+        <p class="copyright">COPYRIGHT / Design by pcanh</p>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>

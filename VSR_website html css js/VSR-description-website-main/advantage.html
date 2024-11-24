@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Speaking Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <button class="menu-button">
+            <img src="picture/menu.png" alt="Menu Icon" class="menu-icon">
+        </button>
+        VIRTUAL SPEAKING ROOM
+    </div>
+
+    <!-- Menu -->
+    <button class="menu-button">
+        <img src="picture/menu.png" alt="Menu" class="menu-icon">
+    </button>
+    <div class="menu-overlay">
+        <div class="menu-content">
+            <a href="#introduction">Introduction</a>
+            <a href="#solution">Solution</a>
+            <a href="#advantage">Advantages</a>
+            <a href="#description">App Description</a>
+            <a href="#app-description">Mock Test Description</a>
+            <a href="#Video">Practicing Video Description</a>
+            <a href="#register-payment">Register and Payment</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        
+    <!-- scroll back -->
+    </div>
+    <button class="back-button" id="scrollToTopBtn">
+        <img src="picture/back.png" alt="Cuộn lên đầu" class="back-icon">
+    </button>
+
+    <script>
+        document.getElementById('scrollToTopBtn').addEventListener('click', () => {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    </script>
+
+    <!-- Header Image -->
+    <div class="image-container" id="introduction">
+        <img src="picture/Picture1.png" alt="Image" class="header-image">
+    </div>
+
+
+    <!-- Ending Interface Image and Text -->
+    <div class="image-text-container" id = 'advantage'>
+        <img src="picture/ending.png" alt="Ending Image" class="left-image">
+        <div class="text-content">
+            <p><strong>Advantage:</strong></p>
+            <p>With an easy-to-use, user-friendly interface and nearly 90% of the processes automated and similar to the actual speaking test, it helps users become familiar with and practice so they won’t feel unfamiliar during the official exam.</p>
+            <br>
+            <p><strong>Notice:</strong><br>
+            Please note that the software does not have a grading function because AI CANNOT replace humans in grading speaking tests. For optimal learning and progress, it is recommended to use the recorded clips as materials for self-review or to seek feedback from more experienced individuals !!!</p>
+        </div>
+    </div>  
+
+    <!-- Caption for Ending Interface Image -->
+    <div class="note">
+        <p>Image2: The end interface</p>
+    </div>  
+
+
+    <!-- Text: More -->
+    <div class="text-section" id = 'more1'>
+        <br>
+        <p><strong>Advantages:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>With an easy-to-use, user-friendly interface and nearly 90% of the processes automated and similar to the actual speaking test, it helps users become familiar with and practice so they won’t feel unfamiliar during the official exam.</p>
+        <br>
+        <p>The application offers a range of practice modes, including full mock tests and individual sections, allowing users to tailor their preparation according to their specific needs and strengths. This flexibility ensures that users can focus on areas where they need the most improvement and gain confidence in handling different parts of the speaking test.</p>
+        <br>
+        <p>The built-in randomization of questions ensures a diverse practice experience, simulating real test conditions and preparing users to handle unexpected questions. This feature helps in building adaptability and reduces test anxiety by familiarizing users with various question types and formats. Moreover, If users are not ready for the simulated speaking mock test, they can experience the practicing mode with all the displayed questions.</p>
+        <br>
+        <p><strong>Notice:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>Please note that the software does not have a grading function because AI CANNOT replace humans in grading speaking tests. For optimal learning and progress, it is recommended to use the recorded clips as materials for self-review or to seek feedback from more experienced individuals !!!</p>
+        <br>
+        <p>While the application provides a simulated environment and practice opportunities, it does not offer personalized feedback or detailed assessment of performance. For comprehensive evaluation and targeted improvement, users should consider consulting with a language instructor or attending coaching sessions to receive expert guidance.</p>
+        <br>
+        <p>After completing both the practice test and the mock test, the ending interface will display a "Tips" button. Clicking this button will provide specific instructions on how to convert your test recording into a transcription using online tools. You can then use this transcription to check grammar or employ AI tools like ChatGPT or Gemini for grading. <strong>HOWEVER, IT'S IMPORTANT TO REMEMBER THAT THESE AI TOOLS CANNOT EVALUATE LIKE HUMANS, AND THEIR GRADING RESULTS MAY NOT BE ENTIRELY ACCURATE.</strong></p>
+        <br>
+    </div>
+
+
+    <!-- YouTube Video -->
+    <div class="youtube-video" id ='Video'>
+        <br>
+        <h2>Watch our Introduction Video:</h2>
+        <br>
+        <iframe 
+            src="https://www.youtube.com/embed/VUjAZG3ekSY" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+    <br>
+    <br>
+
+    
+
+    <!-- Footer -->
+    <div class="contact-info" id="contact">
+        <h2>Virtual Speaking Room : THE COPYRIGHT IS HELD BY MR.NGUYEN PHUC ANH</h2>
+        <div class="info-container">
+          <div class="contact-details">
+            <p><img src="picture/phone.png" alt="Phone" class="icon"> Contact: +84 833953819</p>
+            <p><img src="picture/zalo.png" alt="Zalo" class="icon"> ZALO: <img src="picture/vietnam.png" alt="Vietnam flag" class="flag"> 0388953819</p>
+            <p><img src="picture/gmail.png" alt="Email" class="icon"> Gmail: phucanhnguyen0408@gmail.com</p>
+            <p><img src="picture/youtube.png" alt="Youtube" class="icon"> Youtube: Virtual Speaking Room</p>
+          </div>
+          <div class="logo">
+            <img src="picture/iconyeloow.png" alt="VSR Logo">
+          </div>
+        </div>
+        <p class="copyright">COPYRIGHT / Design by pcanh</p>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>

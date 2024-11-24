@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Speaking Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <button class="menu-button">
+            <img src="picture/menu.png" alt="Menu Icon" class="menu-icon">
+        </button>
+        VIRTUAL SPEAKING ROOM
+    </div>
+
+    <!-- Menu -->
+    <button class="menu-button">
+        <img src="picture/menu.png" alt="Menu" class="menu-icon">
+    </button>
+    <div class="menu-overlay">
+        <div class="menu-content">
+            <a href="#introduction">Introduction</a>
+            <a href="#solution">Solution</a>
+            <a href="#advantage">Advantages</a>
+            <a href="#description">App Description</a>
+            <a href="#app-description">Mock Test Description</a>
+            <a href="#Video">Practicing Video Description</a>
+            <a href="#register-payment">Register and Payment</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        
+    <!-- scroll back -->
+    </div>
+    <button class="back-button" id="scrollToTopBtn">
+        <img src="picture/back.png" alt="Cuộn lên đầu" class="back-icon">
+    </button>
+
+    <script>
+        document.getElementById('scrollToTopBtn').addEventListener('click', () => {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    </script>
+
+    <!-- Header Image -->
+    <div class="image-container" id="introduction">
+        <img src="picture/Picture1.png" alt="Image" class="header-image">
+    </div>
+
+ 
+    <!-- App Description -->
+    <div class="text-section" id ='description'>
+        <p><strong>App Description:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>This application automates the practice process, allowing unlimited practice sessions. All sessions are recorded as audio files for self-review or professional evaluation. It offers various modes: a simulated exam mode (showing only face-to-face and part 2 questions), a full practice mode (displaying all part 1 to part 3 questions with note-taking), and individual part practice modes (part 1 or part 2+3).</p>
+    </div>
+
+    <!-- Additional Images -->
+    <div class="text-section" id ='app-description'>
+        <br>
+        <p><strong>"Images of the simulated computer-based speaking test"</strong></p>
+    </div>
+    <div class="image3">
+        <img src="picture/simulated_pic1.png" alt="Simulated Image 1" class="process">
+        <br>
+        <img src="picture/simulated_pic2.png" alt="Simulated Image 2" class="process">
+    </div>
+
+    <!-- Text: more -->
+    <div class="text-section" id = 'text'>
+        <p>Basically, the application uses speech recognition technology to identify the speaker. Speech recognition technology only recognize the human voice so đon't worry about the surrounding sound .If they pause for a period of time, the system will recognize that the user has stopped speaking and will proceed to read the next question. In practice, during a speaking test, the examiner will only stop when the candidate stops speaking, and if the candidate stutters for a long time, the examiner will continue to ask questions. If users encounter situations where the examiner interrupts them during practice, they should consider improving their fluency, pronunciation, and speaking speed to match the requirements. Improving during practice will also enhance speaking abilities in real-life situations or during the speaking test.</p>
+        <br>
+        <p>The application has two main modes: simulated speaking mock test and practice. In the simulated speaking mock test mode, users will experience a test that simulates up to 90% of the real exam, helping them to better prepare by becoming familiar with the test format and managing their anxiety. In practice mode, all questions are displayed, allowing users to feel more at ease. This is particularly helpful for those with limited listening skills, as knowing the questions in advance can be beneficial; however, note that in the actual test, no questions will be displayed except for the questions in part 2.</p>
+        <br>
+        <p>The recordings will also be saved after completing the test. Each recording will be named according to the test mode and the start time, making it easier for users to access their data.</p>
+        <br>
+        <p>The images below are screenshots of the interfaces.</p>
+        <br>
+    </div>
+
+    <div class="image4" style="text-align: center;">
+        <img src='interface/Picture1.png' style="width: 300px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture2.png' style="width: 370px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture4.png' style="width: 300px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture8.png' style="width: 300px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture3.png' style="width: 600px; height: 367px; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture5.png' style="width: 600px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture6.png' style="width: 600px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+        <img src='interface/Picture7.png' style="width: 600px; height: auto; border: 2px solid black; display: inline-block; margin: 0 10px 10px 10px;">
+    </div>
+
+    <!-- YouTube Video -->
+    <div class="youtube-video" id ='Video'>
+        <br>
+        <h2>Watch our Introduction Video:</h2>
+        <br>
+        <iframe 
+            src="https://www.youtube.com/embed/VUjAZG3ekSY" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+
+
+
+    <!-- Footer -->
+    <div class="contact-info" id="contact">
+        <h2>Virtual Speaking Room : THE COPYRIGHT IS HELD BY MR.NGUYEN PHUC ANH</h2>
+        <div class="info-container">
+          <div class="contact-details">
+            <p><img src="picture/phone.png" alt="Phone" class="icon"> Contact: +84 833953819</p>
+            <p><img src="picture/zalo.png" alt="Zalo" class="icon"> ZALO: <img src="picture/vietnam.png" alt="Vietnam flag" class="flag"> 0388953819</p>
+            <p><img src="picture/gmail.png" alt="Email" class="icon"> Gmail: phucanhnguyen0408@gmail.com</p>
+            <p><img src="picture/youtube.png" alt="Youtube" class="icon"> Youtube: Virtual Speaking Room</p>
+          </div>
+          <div class="logo">
+            <img src="picture/iconyeloow.png" alt="VSR Logo">
+          </div>
+        </div>
+        <p class="copyright">COPYRIGHT / Design by pcanh</p>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>

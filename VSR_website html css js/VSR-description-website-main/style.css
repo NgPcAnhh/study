@@ -1,0 +1,349 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center; /* Center text content horizontally */
+}
+
+.header {
+    background-color: #ffe500; /* Yellow background */
+    color: #5a3d1c; /* Brown text color */
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    line-height: 60px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.menu-button {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    z-index: 1000;
+    width: 60px;
+    height: 60px;
+}
+
+.menu-icon {
+    width: 100%;
+    height: 100%;
+    display: block;
+}
+
+.back-button {
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    cursor: pointer;
+    padding: 0;
+    margin: 0;
+    z-index: 1000;
+    width: 60px;
+    height: 60px;
+    background: none;
+    border: none;
+    outline: none;
+}
+
+.back-icon {
+    width: 80%;
+    height: 80%;
+}
+
+.menu-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%; /* Chiều rộng toàn màn hình */
+    height: 50%; /* Chiều cao bằng nửa màn hình */
+    background-color: #ffe500;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+    z-index: 999;
+}
+.menu-content {
+    position: absolute;
+    top: 50%;
+    left: 100px;
+    transform: translateY(-50%);
+    background-color:#ffe500;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.menu-content a {
+    color: black;
+    padding: 10px 0;
+    text-decoration: none;
+    font-size: 18px;
+    text-align: left;
+    display: block;
+    transition: color 0.3s ease;
+}
+
+/* Thêm hiệu ứng hover */
+.menu-button:hover + .menu-overlay,
+.menu-overlay:hover {
+    opacity: 1;
+    visibility: visible;
+}
+
+.image-container, .image1 {
+    background-color: #ffffff; /* White background */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px; /* Padding around the image */
+}
+
+.header-image, .process {
+    max-width: 100%; /* Ensure images are responsive */
+    height: auto;
+}
+
+.text-section {
+    color: #000000; /* Black text color */
+    padding: 18px; /* Padding inside the text section */
+    background-color: #ffffff; /* Background color for text sections */
+    text-align: center; /* Justify the text to align both sides */
+    max-width: 800px; /* Set a maximum width for the text container */
+    margin: 0 auto; /* Center the text container horizontally */
+    font-size: 25px; /* Set the font size */
+    line-height: 1.5; /* Adjust line height for readability */
+
+}
+.image-text-container {
+    display: flex; /* Use Flexbox for layout */
+    align-items: center; /* Center items vertically */
+    padding: 20px; /* Padding around the container */
+    background-color:white; /* Optional: Add a background color */
+}
+
+/* Biến căn lề trái và phải cho ảnh */
+.left-image {
+    width: 32%; /* Điều chỉnh chiều rộng của ảnh */
+    height: auto; /* Giữ tỷ lệ khung hình */
+    margin-left: var(--left-image-margin-left, 200px); /* Căn lề trái của ảnh */
+    margin-right: var(--left-image-margin-right, 20px); /* Căn lề phải của ảnh (thay đổi theo nhu cầu) */
+}
+
+/* Biến căn lề trái và phải cho nội dung văn bản */
+.text-content {
+    width: 60%; /* Điều chỉnh chiều rộng của nội dung văn bản */
+    text-align: var(--text-align, center); /* Căn chỉnh văn bản (trái, giữa, phải) */
+    font-size: var(--font-size, 20px); /* Kích thước phông chữ */
+    margin-left: var(--text-margin-left, 70px); /* Căn lề trái của văn bản */
+    margin-right: var(--text-margin-right, 250px); /* Căn lề phải của văn bản */
+}
+
+.note {
+    width: 60%; 
+    text-align: left; 
+    font-size: var(--font-size, 16px); 
+    margin-left: var(--note-margin-left, 380px); 
+}
+
+.image3 {
+    text-align: center; /* Center the images */
+    margin: 20px 0; /* Margin above and below */
+}
+
+.image3 .process {
+    max-width: 75%; /* Ensure images are responsive */
+    height: auto; /* Maintain aspect ratio */
+    margin: 10px; /* Space between images */
+}
+
+/* Style for the YouTube video container */
+.youtube-video {
+    max-width: 1200px; /* Maximum width for larger screens */
+    margin: 20px auto; /* Center the video horizontally and add margin */
+    padding: 10px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.youtube-video iframe {
+    width: 100%; /* Full width for responsive design */
+    height: 800px; /* Height based on aspect ratio */
+    border: none; /* Remove default iframe border */
+    border-radius: 8px;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 600px) {
+    .youtube-video iframe {
+        height: 200px; /* Smaller height for mobile devices */
+    }
+}
+
+
+/* Container to hold both the form and the image */
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Styles for the register form */
+.register-form {
+    width: 300px;
+    padding: 80px;
+    border: 2px solid #000;
+    border-radius: 15px;
+    background-color: #fff;
+    /* Thêm margin-left ở đây để điều chỉnh căn lề trái */
+    margin-left: 200px; 
+  }
+  
+  h2 {
+    margin-top: 0;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  input {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: none;
+    background-color: #ffe500;
+    text-align: center;
+  }
+  
+  button {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    border: none;
+    background-color: #ffe500;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ffd700;
+}
+
+button:active {
+    transform: translateY(2px);
+    box-shadow: 0 1px 2px rgba(0,0,0,0.2);
+} 
+/* Styles for the QR container */
+.qr-container {
+    flex: 1;
+    margin-left: 50px; /* Adjust left margin */
+    margin-right: 150px; /* Adjust right margin */
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.qr-container h2 {
+    margin-bottom: 10px;
+}
+.QR {
+    max-width: 50%; /* Ensure the image fits within the container */
+    height: auto;
+}
+
+.contact-info {
+    background-color: #ffe500;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    max-width: 100%;  /* Changed to 100% to span the full width */
+    margin: 0;
+    padding: 30px;
+    /* Removed border-top and border-bottom */
+  }
+  
+  h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .info-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .contact-details {
+    flex: 1;
+    margin-left: 200px; /* Added margin-left to create space from the left */
+  }
+  
+  .contact-details p {
+    margin: 10px 0;
+    font-size: 18px;
+    display: flex;
+    align-items: center;
+  }
+  
+  .icon, .flag {
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+  }
+  
+  .flag {
+    height: 20px;
+  }
+  
+  .logo {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 200px; 
+    /* Adjusted margin-right to create space on the right */
+    margin-top: 30px;
+  }
+  
+  .logo img {
+    max-width: 150%;
+    max-height: 150%;
+  }
+  
+  .copyright {
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+
+.teleport {
+    display: inline-block;
+    padding: 10px 20px; /* Kích thước của nút */
+    font-size: 16px; /* Kích thước chữ */
+    color: #5a3d1c;; /* Màu chữ */
+    font-weight: bold;
+    background-color: #ffe500; /* Màu nền */
+    text-align: center; /* Canh giữa nội dung */
+    text-decoration: none; /* Xóa gạch chân */
+    border-radius: 8px; /* Bo tròn góc */
+    border: none; /* Không viền */
+    cursor: pointer; /* Thay đổi con trỏ chuột khi hover */
+    transition: background-color 0.3s; /* Hiệu ứng khi hover */
+}
+
+.teleport:hover {
+    background-color: #e64800; /* Màu khi hover */
+}
+

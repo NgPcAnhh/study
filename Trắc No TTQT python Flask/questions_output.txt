@@ -1,0 +1,930 @@
+Câu hỏi:
+Question 1/94 Loại hối phiếu mà không CẦN kí hậu là:
+Phương án:
+A. Hối phiếu đích danh
+B. Hối phiếu theo lệnh
+C. Hối phiếu vô danh
+D. Hối phiếu trả chậm
+Đáp án đúng:
+C. Hối phiếu vô danh
+--------------------------------------------------
+Câu hỏi:
+Question 2/94 Thuật ngữ “chiết khấu” có nghĩa là
+Phương án:
+A. Thanh tóan ngay lập tức
+B. Kiểm tra chứng từ rồi gửi chứng từ đến NH FH L/C yêu cầu thanh toán
+C. Kiểm tra chứng từ và thanh toán trước ngày đáo hạn
+D. Ý kiến khác
+Đáp án đúng:
+C. Kiểm tra chứng từ và thanh toán trước ngày đáo hạn
+--------------------------------------------------
+Câu hỏi:
+Question 3/94 Đồng tiền tính toán, đồng tiền thanh toán trong hợp đồng thương mại phải là ngoại tệ tự do chuyển đổi
+Phương án:
+A. Đúng
+B. Sai
+C. Chưa có đủ căn cứ
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 4/94 Trong mọi hình thức nhờ thu, trách nhiệm của Collecting Bank là:
+Phương án:
+A. Trao chứng từ cho nhà nhập khẩu
+B. Khống chế chứng từ cho đến khi nhà NK trả tiền
+C. Khống chế chứng từ cho đến khi nhà NK kí chấp nhận hối phiếu
+D. Tất cả các câu trên đều ko chính xác
+Đáp án đúng:
+D. Tất cả các câu trên đều ko chính xác
+--------------------------------------------------
+Câu hỏi:
+Question 5/94 Ngân hàng chuyển chứng từ (remitting bank) phải kiểm tra nội dung các chứng từ liệt kê trên yêu cầu nhờ thu nhận đc từ người nhờ thu, là:
+Phương án:
+A. Đúng
+B. Sai
+C. Chưa thể khẳng định
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 6/94 Người quyết định cuối cùng rằng bộ chứng từ có fù hợp với các đk và điều khoản của L/C là
+Phương án:
+A. Issuing bank
+B. Applicant
+C. Negotiating bank
+D. Collecting bank
+Đáp án đúng:
+A. Issuing bank
+--------------------------------------------------
+Câu hỏi:
+Question 7/94 Không thể sử dụng 2 đồng tiền trong cùng 1 hợp đồng thương mại, là:
+Phương án:
+A. Đúng
+B. Sai
+C. Chưa thể khẳng định
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 8/94 Để hạn chế rủi ro khi áp dung thanh tóan nhờ thu, nhà xuất khẩu nên lựa chọn Hối phiếu TRƠN, là
+Phương án:
+A. Đúng
+B. Sai
+C. Chưa có căn cứ
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 9/94 Trong phương thức thanh toán nhờ thu trơn (Clean Collection), nhà xuất khẩu phải xuất trình chứng từ nào qua ngân hàng
+Phương án:
+A. Bill of Lading
+B. Bill of Exchange
+C. Invoice
+D. C/O
+Đáp án đúng:
+B. Bill of Exchange
+--------------------------------------------------
+Câu hỏi:
+Question 10/94 Bộ chứng từ hoàn hảo là cơ sở để
+Phương án:
+A. Nhà xuất khẩu đòi tiền ngân hàng phát hành L/C
+B. Nhà nhập khẩu hoàn trả ngân hàng số tiền đã thanh toán cho người thụ hưởng
+C. NH xác nhận thực hiện cam kết thanh toán
+D. Tất cả các câu trên đều đúng
+Đáp án đúng:
+D. Tất cả các câu trên đều đúng
+--------------------------------------------------
+Câu hỏi:
+Question 11/94 Trong thanh toán tín dụng chứng từ L/C người trả tiền hối phiếu là
+Phương án:
+A. Xuất khẩu
+B. Nhập khẩu
+C. Ngân hàng phát hành
+D. Ngân hàng thông báo
+Đáp án đúng:
+C. Ngân hàng phát hành
+--------------------------------------------------
+Câu hỏi:
+Question 12/94 gày 10/10/2005 Ngân hàng A tiếp nhận 1 hối phiếu đòi tiền kí phát ngày 01/10/2005 có quy định thời hạn thanh toán là: 30 days after sight. Là ngân hàng phát hành L/C, ngân hàng A phải trả tiền:
+Phương án:
+A. 30 ngày kể từ ngày 01/10/2005
+B. 30 ngày kể từ ngày 11/10/2005
+C. 30 ngày kể từ ngày có háo đơn
+D. Phương án khác
+Đáp án đúng:
+B. 30 ngày kể từ ngày 11/10/2005
+--------------------------------------------------
+Câu hỏi:
+Question 13/94 Trong thanh toán nhờ thu người kí phát Hối phiếu là:
+Phương án:
+A. Xuất khẩu
+B. Nhập khẩu
+C. Ngân hàng nhờ thu
+D. Ngân hàng thu hộ
+Đáp án đúng:
+A. Xuất khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 14/94 Người kí trả tiền kì phiếu
+Phương án:
+A. Xuất khẩu
+B. Nhập khẩu
+C. Ngân hàng nhờ thu
+D. Ngân hàng thu hộ
+Đáp án đúng:
+B. Nhập khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 15/94 Trong nghiệp vụ tín dụng chứng từ, tất cả các bên hữu quan chỉ giao dịch căn cứ vào:
+Phương án:
+A. Chứng từ
+B. Hàng hóa
+C. Hóa đơn
+D. Hợp đồng thương mại
+Đáp án đúng:
+A. Chứng từ
+--------------------------------------------------
+Câu hỏi:
+Question 16/94 Trong thương mại quốc tế, nhà xuất khẩu nên sử dụng lại séc nào nhất
+Phương án:
+A. Theo lệnh
+B. Đích danh
+C. Gạch chéo
+D. Bảo lãnh
+Đáp án đúng:
+D. Bảo lãnh
+--------------------------------------------------
+Câu hỏi:
+Question 17/94 Trong thương mại quốc tế khi tỷ giá hối đoái tăng (theo phương pháp yết giá trực tiếp) thì có lợi cho ai?
+Phương án:
+A. Xuất khẩu
+B. Nhập khẩu
+C. Ngân hàng
+D. Tất cả các bên
+Đáp án đúng:
+A. Xuất khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 18/94 Theo URC 522 của ICC, chứng từ nào sau đây là chứng từ thương mại?
+Phương án:
+A. Bank draft
+B. Promissory note
+C. Cheque
+D. Invoice
+Đáp án đúng:
+D. Invoice
+--------------------------------------------------
+Câu hỏi:
+Question 19/94 Bộ chứng từ thanh tóan quốc tế do ai lập?
+Phương án:
+A. Nhà xuất khẩu
+B. Nhà nhập khẩu
+C. Ngân hàng phát hành L/C
+D. Ngân hàng thông báo L/C
+Đáp án đúng:
+A. Nhà xuất khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 20/94 Mục “người nhận hàng” ở vận đơn đường biển trong bộ chứng từ thanh toán nhờ thu là ai ?
+Phương án:
+A. Nhà nhập khẩu
+B. Nhà xuất khẩu
+C. Ngân hàng được chỉ định
+D. Đơn vị vận chuyển
+Đáp án đúng:
+A. Nhà nhập khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 21/94 Các tờ Hối phiếu có thời hạn và số tiền giống nhau và không phải đích danh, loại nào có khả năng được chuyển nhượng cao hơn
+Phương án:
+A. Hối phiếu theo lệnh
+B. Hối phiếu trong thanh toán nhờ thu
+C. Hối phiếu trong thanh toán L/C
+D. Hối phiếu đc bảo lãnh
+Đáp án đúng:
+D. Hối phiếu đc bảo lãnh
+--------------------------------------------------
+Câu hỏi:
+Question 22/94 Theo URC 522 của ICC ctừ nào dưới đây là ctừ tài chính
+Phương án:
+A. Invoice
+B. Contract
+C. Bill of lading
+D. Bill of exchange
+Đáp án đúng:
+D. Bill of exchange
+--------------------------------------------------
+Câu hỏi:
+Question 23/94 L/C loại trả tiền ngay bằng điện, ngân hàng được chỉ định thanh tóan khi trả tiền phải làm gì?
+Phương án:
+A. Kiểm tra bộ chứng từ phù hợp L/C
+B. Kiểm tra Hối phiếu thương mại
+C. Kiểm tra hóa đơn thương mại
+D. Không phải kiểm tra
+Đáp án đúng:
+D. Không phải kiểm tra
+--------------------------------------------------
+Câu hỏi:
+Question 24/94 Trong thương mại quốc tế, khi nào lệnh (giấy) nhờ thu đc nhà Xuất Khẩu lập?
+Phương án:
+A. Trước khi giao hàng
+B. Sau khi giao hàng
+C. Đúng lúc giao hàng
+D. Nhà nhập khẩu nhận được hàng hóa
+Đáp án đúng:
+A. Trước khi giao hàng
+--------------------------------------------------
+Câu hỏi:
+Question 25/94 Ngày kí phát hóa đơn thương mại là ngày nào
+Phương án:
+A. Trước ngày giao hàng
+B. Sau ngày chứng nhận bảo hiểm
+C. Sau ngày vận đơn đường biển
+D. Do người vận chuyển quyết định
+Đáp án đúng:
+A. Trước ngày giao hàng
+--------------------------------------------------
+Câu hỏi:
+Question 26/94 Trong hợp đồng thanh toán chậm nhà xuất khẩu nên chọn Hối phiếu gì?
+Phương án:
+A. Trả ngay
+B. Có kí chấp nhận
+C. Hối phiếu NH
+D. Có bảo lãnh
+Đáp án đúng:
+D. Có bảo lãnh
+--------------------------------------------------
+Câu hỏi:
+Question 27/94 Trong quan hệ thương mại quốc tế khi các bên tham gia hiểu biết và tin tưởng lẫn nhau thì nên sử dụng phương thức thanh tóan nào?
+Phương án:
+A. Chuyển tiền
+B. Nhờ thu
+C. Tín dụng chứng từ
+D. Mở tài khỏan ghi sổ
+Đáp án đúng:
+A. Chuyển tiền
+--------------------------------------------------
+Câu hỏi:
+Question 28/94 Người thiết lập các điều khỏan nhờ thu D/P là ai?
+Phương án:
+A. Nhà xuất khẩu
+B. Nhà nhập khẩu
+C. Ngân hàng nhờ thu
+D. Ngân hàng thu hộ
+Đáp án đúng:
+A. Nhà xuất khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 29/94 Bảo lãnh thanh toán hàng hóa XNK có lợi cho ai nhất?
+Phương án:
+A. Nhà xuất khẩu
+B. Nhà nhập khẩu
+C. Ngân hàng xuất khẩu
+D. Ngân hàng nhập khẩu
+Đáp án đúng:
+A. Nhà xuất khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 30/94 Bảo lãnh thanh toán hàng hóa XNK có rủi ro cho ai nhất?
+Phương án:
+A. Nhà xuất khẩu
+B. Nhà nhập khẩu
+C. Ngân hàng xuất khẩu
+D. Ngân hàng nhập khẩu
+Đáp án đúng:
+D. Ngân hàng nhập khẩu
+--------------------------------------------------
+Câu hỏi:
+Question 31/94 Những ctừ nào có thể do bên thứ 3 cấp theo yêu cầu của L/C “Third party documents acceptable”
+Phương án:
+A. Hóa đơn
+B. Hợp đồng
+C. Giấy đóng gói
+D. C/O chứng nhận xuất xứ
+Đáp án đúng:
+D. C/O chứng nhận xuất xứ
+--------------------------------------------------
+Câu hỏi:
+Question 32/94 NH nước A muốn trả tiền cho NH nước B nhưng giữa 2 NH này chưa thiết lập quan hệ đại lí hỏi việc thanh tóan có thể thực hiện được không?
+Phương án:
+A. Có
+B. Không
+C. Phụ thuộc vào NH A
+D. Phụ thuộc vào NH B
+Đáp án đúng:
+C. Phụ thuộc vào NH A
+--------------------------------------------------
+Câu hỏi:
+Question 33/94 Một khách hàng có 1 tờ sec 20.000USD muốn đổi sang HKD. Biết tỷ giá USD/HKD=6,8514/20. Hỏi khách hàng sẽ nhận đc bao nhiêu HKD?
+Phương án:
+A. 137.038
+B. 137.028
+C. 137.048
+D. Phương án khác
+Đáp án đúng:
+B. 137.028
+--------------------------------------------------
+Câu hỏi:
+Question 34/94 1 khách du lịch có 2000 EUR muốn đổi sang VND với NH biết tỷ giá mua 1EUR=20.240 VND, 1 EUR=20.260 VND. Hỏi khách du lịch sẽ nhận đc số VND là bao nhiêu?
+Phương án:
+A. 40.520.000
+B. 40.480.000
+C. 40.620.000
+D. 40.500.000
+Đáp án đúng:
+B. 40.800.000
+--------------------------------------------------
+Câu hỏi:
+Question 35/94 Một khách hàng đến NH chiết khấu 1 tờ Hối phiếu thu đc 200.000SGD, họ đề nghị NH đổi sang JPY Biết tỷ giá USD/SGD=1,6812/20 USD/JPY=112,24/321 Hỏi khách hàng sẽ nhận đc số tiền bằng JPY là bao nhiêu?
+Phương án:
+A. 13.354.735,15
+B. 13.361.884,37
+C. 13.346.016,65
+D. 13.350.210,50
+Đáp án đúng:
+C. 13.346.016,65
+--------------------------------------------------
+Câu hỏi:
+Question 36/94 Một khách hàng đến NH chiết khấu Hối phiếu thu đc 500.000 HKD, họ muốn đổi sang SGD để thanh tóan hàng NK. Biết tỷ giá: USD/HKD=7,4020/28 USD/SGD=1,7826/32 Hỏi số SGD khách hàng sẽ nhận đc là bao nhiêu?
+Phương án:
+A. 120.400,39
+B. 120.453,93
+C. 120.413,40
+D. 120.420,42
+Đáp án đúng:
+A. 120.400,39
+--------------------------------------------------
+Câu hỏi:
+Question 37/94 Ngân hàng chiết khấu 1 tờ Hối phiếu trị giá 600.000 SGD lãi suất CK là 3% và số tiền CK 3000 SGD hỏi thời gian chiết khấu là bao nhiêu tháng?
+Phương án:
+A. 1.5
+B. 2
+C. 2.5
+D. 1
+Đáp án đúng:
+B. 2
+--------------------------------------------------
+Câu hỏi:
+Question 38/94 Người xuất khẩu khi kiểm tra L/C phát hiện sai sót cần bổ sung sửa đổi thì phải liên hệ đề nghị với ai?
+Phương án:
+A. NH thông báo
+B. NH phát hành
+C. NH chỉ định
+D. Phương án khác
+Đáp án đúng:
+D. Phương án khác
+--------------------------------------------------
+Câu hỏi:
+Question 39/94 Một L/C có những thông tin Date of issue: 2-3-2005 Period of presentation:20-4-2005 Expiry date: 1-5-2005 Hiệu lực L/C được hiểu là ngày nào?
+Phương án:
+A. 1-3-2005
+B. 20-4-2005
+C. 1-5-2005
+D. Từ 2-3-2005 tới 1-5-2005
+Đáp án đúng:
+D. Từ 2-3-2005 tới 1-5-2005
+--------------------------------------------------
+Câu hỏi:
+Question 40/94 KHi nhận được bộ chứng từ thanh tóan L/C Ngân hàng phát hiện có 1 chứng từ không có quy định của L/C thì ngân hàng sẽ xử lí chứng từ này như thế nào
+Phương án:
+A. Thông báo lại cho nhà xuất khẩu và nhập khẩu
+B. Kiểm tra lại bộ chứng từ và gửi đi
+C. Yêu cầu chỉnh sửa bộ chứng từ
+D. Gửi trả lại bộ chứng từ
+Đáp án đúng:
+D. Gửi trả lại bộ chứng từ
+--------------------------------------------------
+Câu hỏi:
+Question 41/94 Một Hối phiếu thương mại kì hạn được người nhập khẩu kí chấp nhận. Hối phiếu đã được chuyển nhượng. Đến hạn thanh toán, người nhập khẩu không trả tiền Hối phiếu với lí do hàng hóa họ nhận được chất lượng kém so với hợp đồng. Hỏi việc làm đó người nhập khẩu là thế nào?
+Phương án:
+A. Đúng
+B. Sai
+C. Tùy vào người xuất khẩu
+D. Phương án khác
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 42/94 Người mở L/C phải hoàn trả tiền cho Ngân hàng phát hành L/C trừ khi người đó thấy rằng
+Phương án:
+A. Hàng hóa sai Hợp Đồng
+B. Hàng hóa giao thiếu
+C. BCT xuất trình không phù hợp với điều kiện trong L/C
+D. Cả A & B
+Đáp án đúng:
+C. BCT xuất trình không phù hợp với điều kiện trong L/C
+--------------------------------------------------
+Câu hỏi:
+Question 43/94 Trên thị trường kỳ hạn
+Phương án:
+A. Khách hàng đồng ý bán đồng ngoại tệ trong tương lai với tỷ giá xác định hôm nay
+B. Khách hàng đồng ý mua đồng ngoại tệ trong tương lai với tỷ giá xác định hôm nay
+C. Khách hàng chỉ trả hôm nay cho một số lượng ngoại tệ cụ thể được nhận trong tương lai
+D. Có 2 phương án đúng
+Đáp án đúng:
+D. Có 2 phương án đúng
+--------------------------------------------------
+Câu hỏi:
+Question 44/94 Khi tỷ giá giữa GBP và USD đọc “ 1 với 62 số 53 điểm” được hiểu là:
+Phương án:
+A. 16,253
+B. 0,6253
+C. 1,06253
+D. Phương án khác
+Đáp án đúng:
+D. Phương án khác
+--------------------------------------------------
+Câu hỏi:
+Question 45/94 Gỉa sử người xuất khẩu không giao hang nhưng xuất trình được bộ chứng từ phù hợp với điều khoản của L/C thì ngân hang phát hành xử lí như thế nào ?
+Phương án:
+A. Không thanh toán
+B. Vẫn thanh toán
+C. Thanh toán 50%
+D. Hỏi nhà nhập khẩu
+Đáp án đúng:
+B. Vẫn thanh toán
+--------------------------------------------------
+Câu hỏi:
+Question 46/94 Tỷ giá xác định sử tương quan giá cả của hang hoá xuất khẩu và hang hoá tiêu thụ trong nước là:
+Phương án:
+A. Tỷ giá kinh doanh của các ngân hang thương mại
+B. Tỷ giá chính thức
+C. Tỷ giá danh nghĩa
+D. Tỷ giá thực
+Đáp án đúng:
+D. Tỷ giá thực
+--------------------------------------------------
+Câu hỏi:
+Question 47/94 Đặc trưng của thị trường ngoại hối là:
+Phương án:
+A. Hoạt động mua bán ngoại tệ diễn ra suốt 24h
+B. Đươc tiêu chuẩn hoá cao
+C. Mang tính toàn cầu
+D. Tất cả các phương án trên
+Đáp án đúng:
+D. Tất cả các phương án trên
+--------------------------------------------------
+Câu hỏi:
+Question 48/94 L/C qui định ngày xuất trình bộ chứng từ “ trong vòng 7 ngày làm việc sau khi giao hàng“. Nếu ngày giao hàng là Thứ hai, 15/04/2013, ngày hết hiệu lực của L/C là 24/04/2013 . Ngày xuất trình bộ chứng từ nào sau đây không bị ngân hàng từ chối:
+Phương án:
+A. 24/04/2013
+B. 20/04/2013
+C. 21/04/2013
+D. 22/04/2013
+Đáp án đúng:
+D. 22/04/2013
+--------------------------------------------------
+Câu hỏi:
+Question 49/94 Ai chắc chắn là người hưởng lợi ĐẦU TIÊN của hối phiếu
+Phương án:
+A. Người ký phát hối phiếu
+B. Người thanh toán hối phiếu
+C. Người thụ hưởng hối phiếu
+D. Phương án khác
+Đáp án đúng:
+A. Người ký phát hối phiếu
+--------------------------------------------------
+Câu hỏi:
+Question 50/94 Cho biết các tỷ giá sau: USD/VND: 15772/15776; EUR/USD: 1,1935/1,2108. Vậy, tỷ giá mua và tỷ giá bán của EUR/VND làn lượt sẽ là :
+Phương án:
+A. 1,3026; 1,3218
+B. 1,8829; 1,9097
+C. 1,3029; 1,3215
+D. 1,8824; 1,9102
+Đáp án đúng:
+B. 1,8829; 1,9097
+--------------------------------------------------
+Câu hỏi:
+Question 51/94 Ông A mua GBP kỳ hạn 6 tháng 62,500 GBP với tỷ giá kỳ hạn 1GBP = 1,75 USD. Tại thời điểm đáo hạn hợp đồng ký hạn, tỷ giá giao ngay USD/GBP = 0.5405
+Phương án:
+A. Lỗ 625USD
+B. Lỗ 66,29USD
+C. Lãi 6.250USD
+D. Lỗ 6.250USD
+Đáp án đúng:
+D. Lỗ 6.250USD
+--------------------------------------------------
+Câu hỏi:
+Question 52/94 B/E đích danh phải có câu
+Phương án:
+A. Pay to Mr. X only
+B. Pay to the order of Mr. X
+C. Pay to the holder
+D. Phương án khác
+Đáp án đúng:
+A. Pay to Mr. X only
+--------------------------------------------------
+Câu hỏi:
+Question 53/94 Tên hàng ghi bằng L/C là “robusta coffee” nhưng trên các chứng từ lại ghi “ robuta coffee”
+Phương án:
+A. NH có quyền từ chối BCT
+B. NH yêu cầu người xuất khẩu sữa lại tên hàng
+C. NH phải hỏi ý kiến người NK
+D. Phương án khác
+Đáp án đúng:
+A. NH có quyền từ chối BCT
+--------------------------------------------------
+Câu hỏi:
+Question 54/94 Cho biết GBP/USD = 1,6132; USD/EUR = 0.6903, Tỷ giá EUR/GBP sẽ là :
+Phương án:
+A. 2.3370
+B. 0.8980
+C. 0.4279
+D. 1.1136
+Đáp án đúng:
+B. 0.8980
+--------------------------------------------------
+Câu hỏi:
+Question 55/94 BCT thanh toán trong L/C quy định “ signed commerial invoice in triplicate “ khi xuất trình BCT cần phải có
+Phương án:
+A. HĐ thương mại 2 bản gốc
+B. HĐ thương mại 4 bản gốc
+C. HĐ thương mại 3 bản gốc
+D. Phương án khác
+Đáp án đúng:
+C. HĐ thương mại 3 bản gốc
+--------------------------------------------------
+Câu hỏi:
+Question 56/94 Biểu diễn tỷ giá gián tiếp tại một quốc gia khi ?
+Phương án:
+A. Đồng tiền nội tệ là đồng tiền yết giá
+B. Đồng tiền ngoại tệ là đồng tiền định giá
+C. Đồng tiền ngoại tệ là đồng tiền yết giá
+D. 2 phương án đúng
+Đáp án đúng:
+D. 2 phương án đúng
+--------------------------------------------------
+Câu hỏi:
+Question 57/94 Điều kiện nào rủi ro hơn đối với nhà xuất khẩu
+Phương án:
+A. D/A
+B. D/P
+C. D/P x days sight
+D. L/C
+Đáp án đúng:
+A. D/A
+--------------------------------------------------
+Câu hỏi:
+Question 58/94 Tỷ giá được đưa vào thị trường ngày 20/10/1990 như sau : USD/JPY = 105,35/25 thì tỷ giá mua và bán của USD/JPY là bao nhiêu ?
+Phương án:
+A. 105,25/105,35
+B. 105,35/105,25
+C. 105,35/106,25
+D. Phương án khác
+Đáp án đúng:
+C. 105,35/106,25
+--------------------------------------------------
+Câu hỏi:
+Question 59/94 Nếu một nhà xuất khẩu được chuyển giao các chứng từ về hàng hoá trực tiếp đến người mua nhưng người bán muốn người mua phải có một sử bảo đảm thanh toán đối với người bán nếu người mua không thanh toán vào ngày đến hạn, L/C mà người bán cần là :
+Phương án:
+A. L/C có đảm bảo thanh toán
+B. L/C dự phòng
+C. L/C chuyển nhượng
+D. L/C tuần hoàn
+Đáp án đúng:
+A. L/C có đảm bảo thanh toán
+--------------------------------------------------
+Câu hỏi:
+Question 60/94 Giao ngay là nghiệp vụ sử dụng tý giá:
+Phương án:
+A. Tỷ giá tại thời điểm giao dịch
+B. Mua hiện tại bán tương lai
+C. Bán tương lai mua hiện tại
+D. Tỷ giá được hình thành sau một khoảng thời gian
+Đáp án đúng:
+A. Tỷ giá tại thời điểm giao dịch
+--------------------------------------------------
+Câu hỏi:
+Question 61/94 Trước khi thông báo thư tín dụng đến người thụ hưởng, ngân hàng thông báo có trách nhiệm:
+Phương án:
+A. Thực hiện thanh toán dựa trên các chứng từ phù hợp
+B. Kiểm tra hình thức bồi hoàn bằng điện là có hiệu lực
+C. Lưu ý với ngân hàng mở thư tín dụng đã được thong báo
+D. Kiểm tra những điều kiện của thư tín dụng có được rõ ràng chưa
+Đáp án đúng:
+D. Kiểm tra những điều kiện của thư tín dụng có được rõ ràng chưa
+--------------------------------------------------
+Câu hỏi:
+Question 62/94 Công ty Sacom sẽ lấy bao nhiêu VND khi lấy 40.000EUR biết rằng tỷ giá giao ngay trên thị trường USD/VND=15730/61; EUR/USD=1,2815/18
+Phương án:
+A. 806.319.800 VND
+B. 630.440.000 VND
+C. 808.080.000 VND
+D. 629.200.000 VND
+Đáp án đúng:
+A. 806.319.800 VND
+--------------------------------------------------
+Câu hỏi:
+Question 63/94 GBP/ NZD : 1,8512 / 1,8536; GBP/AUD:1,4403 / 1,4415 . Nếu anh/chị mua 100000 NZD thì cần bao nhiêu AUD ?
+Phương án:
+A. 128420 AUD
+B. 77870 AUD
+C. 77700 AUD
+D. 128700 AUD
+Đáp án đúng:
+B. 77870 AUD
+--------------------------------------------------
+Câu hỏi:
+Question 64/94 Một ngân hàng mà nó tăng cường trách nhiệm đối với 1 thư tín dụng cùng với ngân hàng phát hành được gọi là :
+Phương án:
+A. Ngân hàng thong báo thư tín dụng
+B. Ngân hàng thương lượng
+C. Ngân hàng xác nhận
+D. Ngân hàng bồi hoàn
+Đáp án đúng:
+C. Ngân hàng xác nhận
+--------------------------------------------------
+Câu hỏi:
+Question 65/94 Một L/C ghi “ Credit is available by a draft drawn on the applicant “ là
+Phương án:
+A. Được phép
+B. Không được phép
+C. Được phép, nếu người thụ hưởng đồng ý
+D. Đáp án khác
+Đáp án đúng:
+B. Không được phép
+--------------------------------------------------
+Câu hỏi:
+Question 66/94 Nếu ngày hết hạn hiệu lực của L/C rơi vào ngày lễ thì
+Phương án:
+A. Ngày hết hạn hiệu lực là ngày làm việc ngay trước ngày lễ
+B. Ngày hết hạn hiệu lực là ngầ làm việc đầu tiên ngay sau đó
+C. Ngày hết hạn hiệu lực được kéo dài một thời gian đúng bằng kì nghỉ
+D. Phương án khác
+Đáp án đúng:
+B. Ngày hết hạn hiệu lực là ngầ làm việc đầu tiên ngay sau đó
+--------------------------------------------------
+Câu hỏi:
+Question 67/94 Nếu L/C không đề cập đến việc giao hàng từng phần có cho phép hay không, câu nào dưới đây được xem là đúng
+Phương án:
+A. Giao hàng từng phần được phép
+B. Giao hàng từng phần không được phép
+C. Chiếu theo chị thị của Ngân hàng mở L/C
+D. Chiếu theo chỉ thị từ người thụ hưởng
+Đáp án đúng:
+C. Chiếu theo chị thị của Ngân hàng mở L/C
+--------------------------------------------------
+Câu hỏi:
+Question 68/94 Tý giá hối đoái là :
+Phương án:
+A. Gía cả trao đổi giữa hai đồng tiền
+B. Tỷ giá mua và bán một đồng tiền
+C. Gía cả trao đổi các đồng tiền mạnh
+D. Tất cả đều đúng
+Đáp án đúng:
+D. Tất cả đều đúng
+--------------------------------------------------
+Câu hỏi:
+Question 69/94 Yết giá giao ngay của hơp đồng EUR là EUR/USD=1.1236/42 vậy % chênh lệch giá mua bán là:
+Phương án:
+A. 0,053%
+B. 0,01%
+C. 0.12%
+D. 0,45%
+Đáp án đúng:
+A. 0,053%
+--------------------------------------------------
+Câu hỏi:
+Question 70/94 Trong nội dung của L/C, “ Amount tolerance: 5/10” nghĩa là
+Phương án:
+A. Cho phép số lượng hàng hoá có dung sai là +/-10%
+B. Cho phép số tiền thanh toán thực tế lớn hơn giá trị của L/C 5%
+C. Cho phép số tiền thanh toán thực tế nhỏ hơn giá trị của L/C 10%
+D. Phương án khác
+Đáp án đúng:
+A. Cho phép số lượng hàng hoá có dung sai là +/-10%
+--------------------------------------------------
+Câu hỏi:
+Question 71/94 Mã ngoại tệ dung để công bố tỷ giá được quy định có:
+Phương án:
+A. 2 chữ cái viết in hoa
+B. 3 chữ cái viết in hoa
+C. 4 chữ cái viết in hoa
+D. 1 chữ cái viết in hoa
+Đáp án đúng:
+A. 2 chữ cái viết in hoa
+--------------------------------------------------
+Câu hỏi:
+Question 72/94 Một khách hàng đến ngân hàng chiết khấu 1 tờ hối phiếu thu được 200.000SGD, họ đề nghị NH đổi sang JPY. Hỏi khách hàng sẽ nhận được số tiền bằng JPY là bao nhiêu? Biết tỷ giá USD/SGD = 1.6812/20; USD/JPY = 112,24/321
+Phương án:
+A. 13.350.210,50
+B. 13.346.016,65
+C. 13.354.735,15
+D. Phương án khác
+Đáp án đúng:
+B. 13.346.016,65
+--------------------------------------------------
+Câu hỏi:
+Question 73/94 Trong các đồng tiền sau, đồng tiền nào là tiền tệ quốc tế
+Phương án:
+A. USD
+B. EUR
+C. SDR
+D. 2 phương án đúng
+Đáp án đúng:
+D. 2 phương án đúng
+--------------------------------------------------
+Câu hỏi:
+Question 74/94 Tiền tệ thanh toán là
+Phương án:
+A. Đồng tiền được sử dụng để tính toán giá cả và thanh toán giá cả hợp đồng
+B. Đồng tiền được sử dụng để thanh toán hợp đồng
+C. Phương án khác
+Đáp án đúng:
+B. Đồng tiền được sử dụng để thanh toán hợp đồng
+--------------------------------------------------
+Câu hỏi:
+Question 75/94 Trong thanh toán quốc tế, trình tự ưu tiên pháp lý được sắp xếp theo thứ tự tăng dần như sau
+Phương án:
+A. Luật quốc tế, luật quốc gia, thông lệ và tập quán quốc tế
+B. Luật quốc gia, luật quốc tế, thông lệ và tập quán quốc tế
+C. Thông lệ và tập quán quốc tế, luật quốc tế, luật quốc gia
+D. Thông lệ và tập quán quốc tế, luật quốc gia, luật quốc tế
+Đáp án đúng:
+A. Luật quốc tế, luật quốc gia, thông lệ và tập quán quốc tế
+--------------------------------------------------
+Câu hỏi:
+Question 76/94 Điều kiện tiền tệ trong thanh toán quốc tế để phục vụ mục đích gì
+Phương án:
+A. Đảm bảo an toàn cho người mua
+B. Đảm bảo an toàn cho người bán
+C. Đảm bảo an toàn cho ngân hàng
+D. Phương án khác
+Đáp án đúng:
+D. Phương án khác
+--------------------------------------------------
+Câu hỏi:
+Question 77/94 Mã swift là gì
+Phương án:
+A. Mã định danh quốc gia XNK
+B. Mã định danh giao dịch thương mại quốc tế
+C. Mã định danh ngân hàng quốc tế
+D. Phương án khác
+Đáp án đúng:
+C. Mã định danh ngân hàng quốc tế
+--------------------------------------------------
+Câu hỏi:
+Question 78/94 CHASUS33XXX đây là mã swift của ngân hàng tại quốc gia nào
+Phương án:
+A. Anh Quốc
+B. Hoa Kỳ
+C. Việt Nam
+D. Trung Quốc
+Đáp án đúng:
+B. Hoa Kỳ
+--------------------------------------------------
+Câu hỏi:
+Question 79/94 Phát biểu nào sau đây là đúng khi lãi suất trong nước tăng
+Phương án:
+A. Vốn ngoại tệ ngắn hạn sẽ chảy vào trong nước, tỷ giá hối đoái tăng
+B. Vốn ngoại tệ ngắn hạn sẽ chảy vào trong nước, tỷ giá hối đoái giảm
+C. Người dân gửi tiền tiết kiệm nhiều hơn, tỷ giá hối đoái tăng
+D. Phương án khác
+Đáp án đúng:
+B. Vốn ngoại tệ ngắn hạn sẽ chảy vào trong nước, tỷ giá hối đoái giảm
+--------------------------------------------------
+Câu hỏi:
+Question 80/94 Nhân tố ảnh hưởng tới tỉ giá hối đoái
+Phương án:
+A. Lãi suất
+B. Lạm phát
+C. BOP
+D. Tất cả các đáp án
+Đáp án đúng:
+D. Tất cả các đáp án
+--------------------------------------------------
+Câu hỏi:
+Question 81/94 Phát biểu nào sau đây không chính xác về chấp nhận hối phiếu
+Phương án:
+A. Việc chấp nhận hối phiếu phải là vô điều kiện
+B. Việc chấp nhận hối phiếu phải được thể hiện bằng chữ chấp nhận hoặc các chữ tương tự của người bị ký
+C. Việc chấp nhận hối phiếu phải được người bị ký phát hối phiếu thực hiện bằng văn bản chính thức
+D. Hối phiếu phải được xuất trình để được chấp nhận
+Đáp án đúng:
+C. Việc chấp nhận hối phiếu phải được người bị ký phát hối phiếu thực hiện bằng văn bản chính thức
+--------------------------------------------------
+Câu hỏi:
+Question 82/94 Ký hậu hối phiếu là
+Phương án:
+A. Người hưởng lợi hối phiếu ký vào mặt sau của tờ hối phiếu để chuyển nhượng quyền hưởng lợi cho 1
+B. Người ký phát hối phiếu ký vào mặt sau của tờ hối phiếu để chuyển nhượng
+C. Chuyển hối phiếu từ người này sang người khác
+D. cả 3 đáp án
+Đáp án đúng:
+D. cả 3 đáp án
+--------------------------------------------------
+Câu hỏi:
+Question 83/94 Ký hậu để trắng là
+Phương án:
+A. Ký hậu không hạn chế quyền hạn của người được ký hậu
+B. Ký hậu mà không ghi tên người được ký hậu
+C. Ký hậu mà không cần ký tên
+D. Cả 3 đáp án
+Đáp án đúng:
+D. Cả 3 đáp án
+--------------------------------------------------
+Câu hỏi:
+Question 84/94 Đâu là ký hậu bị hạn chế
+Phương án:
+A. Ghi trả theo lệnh của X
+B. Chỉ trả cho X
+C. Không ghi trả cho ai mà chỉ ký tên
+D. Phương án khác
+Đáp án đúng:
+A. Ghi trả theo lệnh của X
+--------------------------------------------------
+Câu hỏi:
+Question 85/94 Thế nào là mệnh lệnh trả tiền vô điều kiện
+Phương án:
+A. Lệnh không được đặt ra cho những điều kiện cho việc thanh toán
+B. Lệnh không phụ thuộc vào hoặc được điều chỉnh bởi các văn bản khác
+C. Lệnh không quy định quyền và nghĩa vụ của những người liên quan trong hối phiếu được điều chỉnh bởi
+D. Tất cả các phương án
+Đáp án đúng:
+D. Tất cả các phương án
+--------------------------------------------------
+Câu hỏi:
+Question 86/94 Yếu tố nào không bắt buộc khi phát hành hối phiếu
+Phương án:
+A. Tiêu đề
+B. Số hiệu
+C. Ngày tháng ký phát
+D. Chữ ký của người ký phát
+Đáp án đúng:
+B. Số hiệu
+--------------------------------------------------
+Câu hỏi:
+Question 87/94 Yếu tố nào sau đây là yếu tố bắt buộc khi phát hành hối phiếu
+Phương án:
+A. Số hiệu
+B. Địa điểm ký phát
+C. Chữ ký của người thụ hưởng
+D. Tiêu đề
+Đáp án đúng:
+D. Tiêu đề
+--------------------------------------------------
+Câu hỏi:
+Question 88/94 Ký hậu chuyển nhượng có điều kiện thì hối phiếu được xem là
+Phương án:
+A. Vô giá trị
+B. Có giá trị
+C. Tùy từng trường hợp
+Đáp án đúng:
+A. Vô giá trị
+--------------------------------------------------
+Câu hỏi:
+Question 89/94 Cách thức ký hậu hối phiếu như thế nào
+Phương án:
+A. Viết lên trên hối phiếu
+B. Viết lên mảnh giấy gán với hối phiếu
+C. 2 phương án sai
+D. 2 phương án đúng
+Đáp án đúng:
+D. 2 phương án đúng
+--------------------------------------------------
+Câu hỏi:
+Question 90/94 Bên nhận và thanh toán hối phiếu có quyền truy đồi các bên có trách nhiệm với mình
+Phương án:
+A. Toàn bộ số tiền đã thanh toán
+B. Tiền lãi tính trên số tiền đã thanh toán
+C. Bất kể chi phí phát sinh
+D. Tất cả các phương án
+Đáp án đúng:
+D. Tất cả các phương án
+--------------------------------------------------
+Câu hỏi:
+Question 91/94 Chứng từ vận tải đích danh là chứng từ
+Phương án:
+A. Ghi rõ tên người chuyên chở và kèm theo các chữ ký của họ
+B. Ghi rõ tên hàng hóa và dịch vụ được gửi đi
+C. Ghi rõ nơi gởi hàng đi hoặc nơi nhận để gửi và nơi nhận hàng
+D. Cả 3 đáp án
+Đáp án đúng:
+D. Cả 3 đáp án
+--------------------------------------------------
+Câu hỏi:
+Question 92/94 Thế nào là vận đơn đường biển không hoàn hảo
+Phương án:
+A. Vận đơn ngân hàng chấp nhận thanh toán
+B. Vận đơn mà người chuyên chở có ghi chú xấu về tình trạng hàng hóa hay bao bì
+C. Không được chấp nhận thanh toán, trừ khi có quy định riêng
+D. 2 phương án đúng
+Đáp án đúng:
+D. 2 phương án đúng
+--------------------------------------------------
+Câu hỏi:
+Question 93/94 Mã thẻ Visa này có đúng hay không 4022 0400 8351 5561
+Phương án:
+A. Đúng
+B. Sai
+Đáp án đúng:
+B. Sai
+--------------------------------------------------
+Câu hỏi:
+Question 94/94 Mã thẻ Visa này có đúng không 4000 0807 0620 0009
+Phương án:
+A. Đúng
+B. Sai
+Đáp án đúng:
+B. Sai
+--------------------------------------------------

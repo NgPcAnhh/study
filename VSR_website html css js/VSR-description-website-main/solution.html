@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Virtual Speaking Room</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Header -->
+    <div class="header">
+        <button class="menu-button">
+            <img src="picture/menu.png" alt="Menu Icon" class="menu-icon">
+        </button>
+        VIRTUAL SPEAKING ROOM
+    </div>
+
+        
+    <!-- scroll back -->
+    </div>
+    <button class="back-button" id="scrollToTopBtn">
+        <img src="picture/back.png" alt="Cuộn lên đầu" class="back-icon">
+    </button>
+
+    <script>
+        document.getElementById('scrollToTopBtn').addEventListener('click', () => {
+            window.scrollTo({top: 0, behavior: 'smooth'});
+        });
+    </script>
+
+        <!-- Header Image -->
+    <div class="image-container" id="introduction">
+        <img src="picture/Picture1.png" alt="Image" class="header-image">
+    </div>
+
+    <!-- Text: Solution -->
+    <div class="text-section" id = 'solution'>
+        <br>
+        <p><strong>Solution:</strong></p>
+        <p>_____________________________________________________</p>
+        <p>It's a solution that saves time, money, effort, and manpower for the speaking practice phase, which normally requires an additional person to act as an examiner. Moreover, the app offers various modes such as full test practice or individual practice for part 1 or part 2+3. Therefore, the app is suitable for both beginners and experienced learners. The freedom to practice without limits helps learners improve their speaking skills significantly.</p>
+    </div>
+
+    <!-- Text: more -->
+    <div class="text-section" id = 'solution'>
+        <p>Self-study plays an important role for both new and seasoned learners. Therefore, the mission of the application is to be a tool that supports convenient self-study. With just a computer running Windows OS and properly functioning microphone and speakers, users can study, practice, and improve on their own.</p>
+        <br>
+        <p>Setting up a speaking mock test typically requires at least one person to act as an examiner who reads questions to simulate the speaking test process. This application solves that problem, allowing users to communicate and practice their responses with an automated examiner. With a completely random set of questions in the format of the speaking test (computer-based), users not only hone their speaking skills but also their mental preparedness, reflexes, ability to handle various situations, and the ability to quickly generate ideas. At the end of the test, recordings of the conversation and the entire test process will be available. Users can use these recordings to review their speaking abilities or use them as material for professional assessment and feedback (highly recommended).</p>
+        <br>
+        <p>By not relying on finding a partner to play the role of the examiner, users can practice indefinitely, which greatly enhances their speaking skills and reflexes due to the simulated speaking environment similar to the real test. As long as the user is diligent, improvement, and eventually developing it into a habit or instinct, is entirely possible.</p>
+        <br>
+        <p>We wish candidates a great experience with the service and hope they will soon achieve their desired results !!!</p>
+        <br>
+    </div>
+
+    <!-- YouTube Video -->
+    <div class="youtube-video" id ='Video'>
+        <br>
+        <h2>Watch our Introduction Video:</h2>
+        <br>
+        <iframe 
+            src="https://www.youtube.com/embed/VUjAZG3ekSY" 
+            title="YouTube video player" 
+            frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+    <br>
+    <br>
+
+
+    <!-- Footer -->
+    <div class="contact-info" id="contact">
+        <h2>Virtual Speaking Room : THE COPYRIGHT IS HELD BY MR.NGUYEN PHUC ANH</h2>
+        <div class="info-container">
+          <div class="contact-details">
+            <p><img src="picture/phone.png" alt="Phone" class="icon"> Contact: +84 833953819</p>
+            <p><img src="picture/zalo.png" alt="Zalo" class="icon"> ZALO: <img src="picture/vietnam.png" alt="Vietnam flag" class="flag"> 0388953819</p>
+            <p><img src="picture/gmail.png" alt="Email" class="icon"> Gmail: phucanhnguyen0408@gmail.com</p>
+            <p><img src="picture/youtube.png" alt="Youtube" class="icon"> Youtube: Virtual Speaking Room</p>
+          </div>
+          <div class="logo">
+            <img src="picture/iconyeloow.png" alt="VSR Logo">
+          </div>
+        </div>
+        <p class="copyright">COPYRIGHT / Design by pcanh</p>
+      </div>
+    <script src="script.js"></script>
+</body>
+</html>
