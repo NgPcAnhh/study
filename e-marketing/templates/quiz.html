@@ -1,0 +1,51 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="quiz-container">
+    <div class="main-content">
+        <div id="score-display">
+            Điểm: <span id="score">0</span>/<span id="total-questions">{{ questions|length }}</span>
+        </div>
+        
+        {% for question in questions %}
+        <div class="question-card" id="question-{{ question.id }}" {% if not loop.first %}style="display: none"{% endif %}>
+            <h3>Câu hỏi {{ loop.index }}/{{ questions|length }}</h3>
+            <p class="question-text">{{ question.question }}</p>
+            
+            <div class="options">
+                {% for option in question.options %}
+                <label class="option">
+                    <input type="radio" name="q{{ question.id }}" value="{{ option }}">
+                    <span>{{ option }}</span>
+                </label>
+                {% endfor %}
+            </div>
+            
+            <div class="feedback" style="display: none">
+                <p class="result"></p>
+                <p class="explanation"></p>
+            </div>
+            
+            <button class="check-btn" onclick="checkAnswer({{ question.id }})">Kiểm tra</button>
+            <button class="next-btn" style="display: none" onclick="nextQuestion({{ question.id }})">Câu tiếp theo</button>
+        </div>
+        {% endfor %}
+    </div>
+    
+    <div class="question-navigator">
+        <h4>Danh sách câu hỏi</h4>
+        <div class="question-list">
+            {% for question in questions %}
+            <button class="nav-btn" onclick="jumpToQuestion({{ question.id }})">
+                {{ loop.index }}
+            </button>
+            {% endfor %}
+        </div>
+    </div>
+</div>
+
+<!-- Thêm nút về trang chủ -->
+<div class="home-button-container">
+    <a href="{{ url_for('index') }}" class="home-button">Về trang chủ</a>
+</div>
+{% endblock %} 

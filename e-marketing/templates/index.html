@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container">
+    <h1>Trắc nghiệm E-Marketing</h1>
+    <form action="{{ url_for('quiz') }}" method="POST">
+        <div class="form-group">
+            <label for="num_questions">Số lượng câu hỏi (hoặc nhập "all" cho tất cả):</label>
+            <input type="text" id="num_questions" name="num_questions" required>
+        </div>
+        <button type="submit">Bắt đầu</button>
+    </form>
+</div>
+{% endblock %} 

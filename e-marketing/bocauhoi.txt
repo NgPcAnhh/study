@@ -1,0 +1,730 @@
+Câu 1: E – marketing  có tên thể thay  thế bằng  khái  niệm  nào ?
+['A. Email  marketing', 'B. Marketing  hiện đại', 'C. Marketing  số', 'D. Digital  Marketing']
+Đáp án đúng: C. Marketing  số
+Giải thích: E-marketing hay marketing  số là những khái niệm thường được sử dụng thay thế lẫn nhau. Emarketing có thể được định nghĩa đơn giản là “việc áp dụng phương tiện kỹ thuật số, dữ liệu và công nghệ tích hợp với truyền thông truyền thống để đạt được các mục tiêu marketing”
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Lợi ích lớn nhất  của marketing  trực tuyến  là?
+['A. Tính  tương  tác cao', 'B. Tiết kiệm  chi phí', 'C. Tốc độ nhanh', 'D. Khả năng  marketing  toàn cầu']
+Đáp án đúng: B. Tiết kiệm  chi phí
+Giải thích: Lợi ích lớn  nhất của marketing  trực tuyến chính là một trong những phương tiện rẻ nhất. Chỉ cần một khoản tiền nhỏ đã đưa công ty tiếp cận thị trường quốc tế, thậm chí có thể đặt các doanh nghiệp vào vị trí trung tâm thị trường thế giới. Thay vì cần một đội ngũ những nhà marketing thì công ty chỉ cần thuê một vài nhân viên quản lí quá trình marketing trực tuyến cũng đã tiết kiệm khá nhiều chi phí cho doanh nghiệp. Ưu điểm của E -marketing: Tính tương tác cao, tiết kiệm chi phí, tốc độ nhanh, khả năng marketing toàn cầu, kiểm tra hiệu quả  dễ dàng
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Nhược  điểm  của E – marketing  là?
+['A. Phương  tiện kỹ thuật', 'B. Phương  tiện bán hàng', 'C. Phương  tiện an toàn,  bảo mật', 'D. Cả ba phương  án trên']
+Đáp án đúng: D. Cả ba phương  án trên
+Giải thích: * Phương  diện kỹ thuật  1 Marketing  trực tuyến đòi hỏi khách hàng phải sử dụng các kỹ thuật mới và không phải tất cả mọi đối tượng khách hàng có thể sử dụng chúng. Nếu cơ sở hạ tầng còn yếu kém, đường truyền tốc độ chậm cũng là một tác nhân gây khó khăn khiến người tiêu dùng không có nhiều cơ hội tiếp cận với mạng internet để tìm thông tin, mua hàng trực tuyến, tham giá đấu giá trực tuyến, ...v.v. Ngoài ra, nếu công ty xây dựng website lớn và phức tạp để quảng bá sản phẩm, nhiều khách hàng sẽ gặp khó khăn khi sử dụng website cũng như tải thô ng tin về với đường truyền chậm hay vào các thiết bị di động. Như vậy marketing trực tuyến khó có thể ảnh hưởng đến người tiêu dùng ở thị trường đó. * Phương  diện bán hàng Không giống như việc bán sản phẩm theo cách thông thường, đối với marketing trực tuyến , khách hàng không thể chạm, nếm, dùng thử hay cảm nhận sản phẩm trước khi mua trực tuyến, do đó việc thiếu lòng tin đối với sản phẩm là điều không thể chối cãi. * Phương  diện an toàn,  bảo mật Trang web của doanh nghiệp đã thật sự  an toàn hay chưa? Liệu khách hàng có biết điều này? Ngày nay, việc một số cá nhân, tổ chức sử dụng Internet để lừa đảo khiến vấn đề bảo mật được đặt lên hàng đầu. Thực tế, có nhiều người không dám sử dụng thẻ tín dụng của họ để mua hàng trực tuyến, do đó c ác doanh nghiệp cần phải có chính sách bảo mật cao nhằm xây dựng lòng tin của khách hàng, họ sẵn sàng sử dụng thẻ để mua trực tuyến.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Các công  cụ marketing  trực tuyến  chia thành  mấy nhóm  chính?
+['A. 6', 'B. 7', 'C. 8', 'D. 9']
+Đáp án đúng: A. 6
+Giải thích: Chaffey  và Smith  (2017)  đã chia các công  cụ marketing  trực tuyến  thành  sáu nhóm  chính: 1. Marketing  bằng  công  cụ tìm kiếm 2. PR trực tuyến 3. Marketing  liên kết 4. Quảng  cáo hiển thị 5. Email  marketing 6. Marketing  qua các phương  tiện truyền  thông  xã hội
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Kết nối mọi người  vào mạng  máy tính là quá trình  phát  triển  nào của E – marketing?
+['A. Web 1.0  2', 'B. Web  2.0', 'C. Web  3.0', 'D. Web  4.0']
+Đáp án đúng: A. Web 1.0
+Giải thích: Website 1.0 là website chỉ tương tác một chiều, có nghĩa là người dùng chỉ lên đó đọc thông tin từ website  mà không có tương tác qua lại người dùng dùng và website cũng như những người dùng khác với nhau. Điển hình nhất cho loại website này chính là những trang website tin tức hay trang giới thiệu doanh nghiệp, tổ chức.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Kết nối con người  với con người  thông  qua các mạng  xã hội là quá trình  phát  triển  nào của E – marketing?
+['A. Web  1.0', 'B. Web 2.0', 'C. Web  3.0', 'D. Web  4.0']
+Đáp án đúng: B. Web 2.0
+Giải thích: Web 2.0 tham gia vào việc tạo nội dung thông qua chia sẻ và cộng tác, chẳng hạn như phương tiện truyền thông xã hội và viết blog. Các cá nhân có thể nhận được sự giúp đỡ của nhiều người dùng trong khu vực hoặc bất cứ nơi nào trên toàn cầu về một vấn đề thông qua truy vấn một trang web trợ giúp.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Twitter,  YouTube,  Flickr  và Facebook  là sự phát  triển  đáng  chú ý của?
+['A. Web  1.0', 'B. Web 2.0', 'C. Web  3.0', 'D. Web  4.0']
+Đáp án đúng: B. Web 2.0
+Giải thích: Web  2.0 kết nối con người  với con người  thông  qua các mạng  xã hội
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: Trong  Web  2.0 hai công  cụ thay đổi lớn cho Internet  là?
+['A. YouTube  và Facebook', 'B. Facebook  và Tiktok', 'C. Wikipedia  và Facebook', 'D. Twitter  và YouTube 3']
+Đáp án đúng: C. Wikipedia  và Facebook
+Giải thích: Web  2.0 kết nối con người  với con người  thông  qua các mạng  xã hội. Trong  Web  2.0, hai công cụ thay đổi lớn cho Internet là Wikipedia và Facebook.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: Chú trọng  vào trí tuệ nhân  tạo và máy học là quá trình  phát  triển  nào của E – marketing?
+['A. Web  1.0', 'B. Web  2.0', 'C. Web 3.0', 'D. Web  4.0']
+Đáp án đúng: C. Web 3.0
+Giải thích: Web 3.0, là thế hệ tiếp theo của công nghệ internet. Web 3.0 chú trọng vào trí tuệ nhân tạo và máy học. Nó hứa hẹn tạo ra một mạng internet  công bằng và minh bạch hơn, trong đó bất kỳ ai cũng có thể tham gia mà không sợ mất quyền riêng tư và bảo mật.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: Internet  phi tập trung  là ?
+['A. Web  1.0', 'B. Web  2.0', 'C. Web 3.0', 'D. Web  4.0']
+Đáp án đúng: C. Web 3.0
+Giải thích: Internet  phi tập trung,  hay Web  3.0, là  thế hệ tiếp theo của công  nghệ  internet.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: Web  3.0 trở nên hấp dẫn hơn bao giờ hết với người  tiêu dùng  nhờ việc gì?
+['A. Môi trường  hợp tác, trong  đo mọi người  đều bình đẳng', 'B. Hứa hẹn tạo ra một  internet  công  bằng  và minh  bạch', 'C. Toàn  quyền  với dữ liệu hành  vi của mình  trên website', 'D. Có thể kiếm  tiền thông  qua hành  vi truy cập website  của mình']
+Đáp án đúng: D. Có thể kiếm  tiền thông  qua hành  vi truy cập website  của mình
+Giải thích: Nhờ sự  phát triển của tiền mã hóa mà  khiến  cho Web  3.0 trở nên  hấp dẫn hơn bao giờ hết khi người dùng có thể kiếm được tiền thông qua những hành vi truy cập website của mình. Ví dụ như website sẽ trả một token cho bạn nếu bạn truy cập website mỗi ngày, đọc hết một bài post, xem hết một video,...và người dùng có thể dùng chính những token này  để tip cho những nhà sáng tạo nội dung để họ tích cực hơn trong việc sáng tạo ra những nội dung có nhiều giá trị cho người dùng.  4
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: Sự khác  biệt marketing  trực tuyến  và ngoại  tuyến?
+['A. Tốc độ, thời gian, không gian, đa dạng hóa sản phẩm; giảm khác biệt về văn hoá, luật pháp, kinh tế.', 'B. Trở ngại của khâu  giao dịch trung  gian đã được  loại bỏ.', 'C. Tiếp cận thị trường  trực tuyến,  hàng  hoá và dịch vụ số hoá.', 'D. Tất cả các đáp án trên']
+Đáp án đúng: D. Tất cả các đáp án trên
+Giải thích: - Tốc độ:Thông tin  về sản  phẩm  dịch vụ được tung  ra thị  trường nhanh  hơn, Khách  hàng  tiếp cận thông tin cũng nhanh hơn, Giao dịch được tiến hành trong một số trường hợp cũng nhanh hơn (đối với hàng hoá số hoá, việc giao hàng được thực hiện nhanh và thuận tiện hơn), Thông tin phản hồi từ phía khách hàng cũng nhanh hơn - Thời  gian:  Hoạt  động  liên tục không  bị gián đoạn - Không  gian:  Vượt  qua mọi trở ngại về khoảng  cách địa lý - Đa dạng  hoá sản phẩm - Giảm  sự khác  biệt về văn hoá, luật pháp,  kinh tế - Trở ngại của khâu  giao dịch trung  gian đã được  loại bỏ - Tiếp cận thị trường  trực tuyến - Hàng  hoá và dịch vụ số hoá
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: Điền  từ còn thiếu  và chỗ trống  “ Phân  tích môi trường  là ……  mọi thông  tin về môi trường  bên ngoài  của doanh  nghiệp  cũng  như các nguồn  lực và quy trình  bên trong  để điều chỉnh  chiến  lược của doanh  nghiệp  đó.”
+['A. Thu thập và phân  tích', 'B. Phân  tích và đánh  giá', 'C. Thu thập và đánh  giá', 'D. Thu thập và điều chỉnh']
+Đáp án đúng: C. Thu thập và đánh  giá
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Yếu tố nào được  đánh  giá trong  “phân  tích môi trường”  ?
+['A. Khách  hàng  và đối thủ cạnh  tranh', 'B. Phân  tích thị trường  và môi trường  vĩ mô', 'C. Đánh  giá nội bộ', 'D. Cả 3 phương  án trên']
+Đáp án đúng: D. Cả 3 phương  án trên
+Giải thích: - Khách  hàng:  Đặc điểm,  cách sử dụng  công  nghệ, hành  vi, nhu  cầu và mong  muốn - Phân  tích thị trường: Các trung  gian, những người  có ảnh hưởng, các  đối tác tiềm  năng, các yếu tố trực tuyến ảnh hưởng đến hành vi mua hàng, các cơ hội và mối đe dọa - Đối thủ cạnh  tranh:  trực tiếp, gián tiếp cũng  như các doanh  nghiệp  trong  ngành  và ngoài ngành nghệ. - Môi trường  vĩ mô: ảnh hưởng  của yếu tố xã hội, luật pháp,  môi trường,  chính  trị và công  - Đánh  giá nội bộ : về hiệu quả của các phương  pháp  marketing  số hiện có, điểm  mạnh  và điểm  yếu của doanh  nghiệp
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Định  hình  hành  trình  và tác động  tới quyết  định  mua hàng  cuối cùng  của khách  hàng?
+['A. Điểm  tiếp xúc', 'B. Giá cả', 'C. Chất  lượng  sản phẩm', 'D. Cả ba đáp án trên']
+Đáp án đúng: A. Điểm  tiếp xúc
+Giải thích:   6 Điểm tiếp xúc: Định hình hành trình và tác động tới quyết định mua hàng cuối cùng của khách hàng. Với việc sử dụng công nghệ số ngày càng rộng rãi, các điểm tiếp xúc số mở rộng hơn cả các kênh kỹ thuật số và có thể ảnh hưởng đến quyết định mua hàng trước, trong và sau khi mua sắm của khách hàng.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Sắp xếp hành  trình  khách  hàng:  (1) Cân nhắc,  (2) Nhận  thức,  (3) Trải  nghiệm  sản phẩm,  (4) Mua  sản phẩm.
+['A. (1), (2), (3), (4)', 'B. (2), (1), (4), (3)', 'C. (4), (3), (1), (2)', 'D. (3), (2), (4), (1)']
+Đáp án đúng: B. (2), (1), (4), (3)
+Giải thích: 1. Nhận  thức:  Kích  thích  và truyền  cảm hứng 2. Cân nhắc:  Tăng  thiện  cảm 3. Mua sản phẩm:  Online  hoặc  tại cửa hàng 4. Trải nghiệm  sản phẩm:  Tương  tác với sản phẩm
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Phân  tích hành  vi khách  hàng  có thể được  xem xét từ mấy khía cạnh?
+['A. 2', 'B. 3', 'C. 4', 'D. 5']
+Đáp án đúng: A. 2
+Giải thích: Phân  tích hành  vi khách  hàng  có thể được  xem xét từ hai khía cạnh: - Phân  tích nhu cầu và khoảng  cách : Hiểu số lượng tiềm năng và thực tế của khách truy cập đối  trên các nền  tảng trực tuyến và xa hơn  là mức độ mà chúng  chuyển  đổi thành  những kết  quả mang tính chiến thuật và chiến lược, ví dụ: doanh thu, khách hàng tiềm năng (leads) - Phân  tích hành  vi của người  tiêu dùng  số: Tức là muốn hiểu nhu cầu, đặc điểm và trải nghiệm số hoặc hành vi của người tiêu dùng mục tiêu. Các biến này thường được gọi chung là cái nhìn sâu sắc về khách  hàng.  Dựa trên phân  tích này, có thể tạo ra các phân  khúc  khách  hàng  sẽ được sử dụng để phát triển các phương pháp nhắm mục tiêu.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Phân  tích nhu cầu và chuyển  đổi nhà marketing  cần đánh  giá gì từ những  khách hàng?
+['A. Nhu cầu và  nhận  thức 7', 'B. Phân  khúc  khác  hàng', 'C. Số lượng  và tỷ lệ', 'D. Quan  hệ và  kênh  khách  hàng']
+Đáp án đúng: C. Số lượng  và tỷ lệ
+Giải thích: Phân tích nhu cầu và chuyển đổi trong marketing: nhà marketing số cũng cần đánh giá số lượng  và tỷ lệ những khách hàng: - có quyền  truy cập vào các kênh  số; - sử dụng các dịch vụ trực tuyến có thể ảnh hưởng đến quyết định mua hàng, chẳng hạn như các trang web so sánh giá, mạng xã hội và blog của chuyên gia; - bị ảnh hưởng bởi việc sử dụng các kênh này nhưng mua hàng bằng kênh khác như một phần của hành vi người mua đa kênh; - mua hoặc sử  dụng  các dịch vụ kênh  số khác.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Ý nghĩ a của kế hoạch  marketing  là gì?
+['A. Đánh  giá hành  vi khách  hàng', 'B. Kế hoạch  chi tiêu', 'C. Định  hướng  tương  lai', 'D. Mô hình chuyển  đổi']
+Đáp án đúng: D. Mô hình chuyển  đổi
+Giải thích: Ý nghĩa của kế hoạch marketing : Mô hình chuyển đổi là một phần của phân tích tình huống và thiết lập mục tiêu, các nhà marketing số có kinh nghiệm xây dựng các mô hình chuyển đổi về hiệu quả marketing trên web của họ.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: Mô hình  chuyển  đổi đa kênh  rất phực  tạp vì nó cần đến cả hành  vi ?
+['A. Trực  tiếp và gián tiếp', 'B. Trực  tuyến  và ngoại  tuyến', 'C. Bên trong  và bên ngoài', 'D. Mua sắm và tiêu dùng']
+Đáp án đúng: B. Trực  tuyến  và ngoại  tuyến
+Giải thích: Việc lập mô hình chuyển đổi rất phức tạp vì nó cần tính đến cả hành vi trực tuyến và ngoại tuyến. Ví dụ: một nhà quảng cáo có thể sử dụng Google Ads để quảng bá sản phẩm của mình, nhưng một số người mua sắm sẽ mua hàng trực tuyến trong khi những người khác  sẽ thích sử dụng các kênh khác để mua hàng, ví dụ: sử dụng điện thoại hoặc mua tại cửa hàng. 8
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: Vì sao web và mạng  xã hội là một phần  quan  trọng  của quá trình  nghiên  cứu các sản phẩm?
+['A. Doanh  nghiệp  quảng  cáo tốt hơn', 'B. Người  mua sẽ mua được  hàng  rẻ hơn', 'C. Người  mua sẽ truy cập tt để tìm hiểu thông  tin về sản phẩm  định', 'D. Giúp  sản phẩm/dịch  vụ phát triển tốt hơn']
+Đáp án đúng: C. Người  mua sẽ truy cập tt để tìm hiểu thông  tin về sản phẩm  định
+Giải thích: Nhiều  người mua sẽ truy  cập trực tuyến  trước tiên  để tìm hiểu  thông tin  về sản  phẩm/dịch  vụ định mua, vì vậy web và mạng xã hội là: - Một phần quan trọng của quá trình nghiên cứu, vì người dùng Internet hiện dành nhiều thời gian hơn để nghiên cứu các sản phẩm. - Được sử dụng ở mọi giai đoạn của quy trình nghiên  cứu từ lần quét đầu tiên đến so sánh chi tiết và kiểm tra lần cuối các thông số kỹ thuật trước khi mua. Vì vậy, các công ty phải suy nghĩ cẩn thận về cách họ có thể tối đa hóa giá trị của các nhận xét và  đánh  giá tích cực, đồng  thời củng cố  nhận  thức của người tiêu dùng  thông qua  chất lượng sản phẩm và trải nghiệm dịch vụ cả trực tuyến và ngoại tuyến.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: Động  lực lớn nhất  đối với người  mua sắm trực tuyến?
+['A. Chi phí rẻ', 'B. Sản  phẩm  phong phú', 'C. Tiện lợi', 'D. Tránh  giao tiếp xã hội']
+Đáp án đúng: C. Tiện lợi
+Giải thích: Tỷ lệ người dùng Internet mua các loại sản phẩm khác nhau thay đổi đáng kể dựa trên các đặc điểm  và hồ sơ nhân  khẩu  học của người  tiêu dùng,  danh  mục sản phẩm  và trải nghiệm  trước  đây của người  mua hàng.  Cũng đã có nhiều  dự đoán  về sự  phát triển của  bán lẻ  trực tuyến  và cách  nó có thể thúc đẩy nhu cầu giao dịch trực tuyến. Sự tiện lợi vẫn là động lực lớn nhất đối với người mua sắm trực tuyến
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: Biến  nào sau đây không  thuộc  nhóm  tiêu thức  nhân  khẩu  học ảnh hưởng  đến hành  vi trực tuyến  ?
+['A. Tuổi  tác', 'B. Thu nhập  9', 'C. Giới tính', 'D. Công  nghệ']
+Đáp án đúng: D. Công  nghệ
+Giải thích: Các biến nhân khẩu học: Bất kỳ thuộc tính cá nhân nào có xu hướng duy trì trạng thái tĩnh trong suốt cuộc đời của một cá nhân hoặc phát triển chậm theo thời gian. Cá c yếu tố chính trong hồ sơ nhân khẩu học của người tiêu dùng đã được chứng minh là có ảnh hưởng đến hành vi trực tuyến bao gồm các  biến số như: thu nhập, giáo dục, chủng tộc, tuổi  tác; giới tính; và lối  sống, cấu trúc  văn hóa và xã hội ảnh hưởng đến hành v i trực tuyến.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: Khía  cạnh  nào sau đây không  thuộc  biến tâm lý và hành  vi?
+['A. Trải nghiệm', 'B. Nhận  thức', 'C. Niềm  tin', 'D. Thái độ']
+Đáp án đúng: A. Trải nghiệm
+Giải thích: Các biến tâm lý và hành vi: Bất kỳ khía  cạnh nào trong nhận thức, niềm tin và thái độ của người tiêu dùng đều có thể ảnh hưởng đến hành vi trực tuyến và đặc biệt là ý định mua sắm của người tiêu dùng, đều có thể được định nghĩa là một biến tâm lý/hành vi.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 13: Kênh  nào là kênh  chính  để người  tiêu dùng  chia sẻ, giới thiệu  và phản  hồi về sản phẩm  và dịch vụ, các lựa chọn  và trải nghiệm  của họ?
+['A. Kênh  phản  hồi sản phẩm', 'B. Mạng  xã hội', 'C. Kênh  phân  phối', 'D. Kênh  bán hàng']
+Đáp án đúng: B. Mạng  xã hội
+Giải thích: Mạng xã hội ngày càng có ảnh hưởng trong việc nắm bắt và chia sẻ trải nghiệm của người tiêu dùng và là kênh chính để người tiêu dùng chia sẻ, giới thiệu và phản hồi về sản phẩm và dịch vụ, các lựa chọn và trải nghiệm của họ. Tiềm năng của mạng xã hội trong việc thể hiện cảm xúc cá nhân là rất lớn.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 14: Điền  từ còn thiếu  vào chỗ trống:  “Chân  dung  khách  hàng  là một công  cụ có thể giúp hiểu các…..  của khách  hàng  trực tuyến.”
+['A. Đặc điểm  và hành  vi', 'B. Ngoại  hình và tính cách  10', 'C. Nhu cầu và mức chi tiêu', 'D. Hành  vi và tính  cách']
+Đáp án đúng: A. Đặc điểm  và hành  vi
+Giải thích: Chân dung người tiêu dùng (personas) là những hồ sơ hư cấu đại diện cho một đối tượng mục tiêu cụ thể. Personas là một công cụ có thể giúp hiểu các đặc điểm và hành vi của khách hàng trực tuyến, sau đó tạo thông tin liên lạc phù hợp hơn vớ i đối tượng của bạn. Tạo personas là một kỹ thuật hiệu quả để các chiến lược trực tuyến lấy khách hàng làm trung tâm, phát triển hình ảnh của công ty và các chiến dịch, đồng thời là một phần quan trọng của phân tích thị trường.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 15: Quy trình  mua hàng  gồm mấy bước?
+['A. 5', 'B. 6', 'C. 4', 'D. 7']
+Đáp án đúng: B. 6
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 16: Sắp xếp quá trình  mua hàng:  (1) Tìm kiếm  thông  tin, (2) Nhận  biết yêu cầu, (3) Hành động,  (4) Quyết  định,  (5) Sau mua hàng,  (6) Đánh  giá.
+['A. (1), (2), (3), (4), (5), (6)', 'B. (2), (1), (6), (4), (3), (5)', 'C. (5), (1), (3), (4), (6), (2)', 'D. (2), (1), (3), (5), (4), (6)']
+Đáp án đúng: B. (2), (1), (6), (4), (3), (5)
+Giải thích: Quá trình  mua hàng  được  Chaffey  và Smith  (2017)  mô tả như sau: 1. Nhận biết nhu cầu: Người tiêu dùng chưa nhận biết được nhu cầu. Công ty tạo ra nhận thức về nhu cầu đố i với sản phẩm hoặc dịch vụ cho người tiêu dùng 2. Tìm kiếm thông tin: Người tiêu dùng đã nhận thức được nhu cầu và xác định chi tiết được nhu cầu. Công ty chỉ ra đặc điểm vị trí, lợi ích và thương hiệu của mình 3. Đánh giá: Người tiêu dùng tìm kiếm nhà cung cấp  và đánh giá. Công ty thu thập khách hàng tiềm năng 4. Quyết  định:  Người  tiêu dùng  lựa chọn. Công  ty hỗ trợ quyết  định mua hàng 5. Hành  động  (mua  hàng  hoặc  sử dụng  dịch vụ trực tuyến):  Người  tiêu dùng  mua hàng. Công ty hỗ trợ mua hàng 6. Sau mua hàng:  Người  tiêu dùng  đánh  giá trải nghiệm  và phản  hồi sau khi mua hàng. Công ty hỗ trợ sử dụng sản phẩm và duy trì hoạt động kinh doanh. 11
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 17: Quảng  cáo PPC,  PR trực tuyến,  đề xuất trên MXH  hướng  đến mục tiêu truyền  thông nào?
+['A. Tăng  nhận  thức', 'B. Hỗ trợ quyết  định mua hàng', 'C. Định  vị thương  hiệu', 'D. Thúc  đẩy mua hàng']
+Đáp án đúng: A. Tăng  nhận  thức
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 18: Công  cụ tìm kiếm  (SEO  và PPC),  tiếp thị liên kết hướng  đến mục tiêu truyền  thông nào?
+['A. Tăng  nhận  thức', 'B. Hỗ trợ quyết  định mua hàng', 'C. Định  vị thương  hiệu', 'D. Thúc  đẩy mua hàng']
+Đáp án đúng: C. Định  vị thương  hiệu
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 19: Các tập hợp,  thư mục dữ liệu và trung  gian tiếp thị hướng  đến mục tiêu truyền  thông nào?
+['A. Hỗ trợ quyết  định mua hàng', 'B. Thúc  đẩy mua hàng', 'C. Tăng  nhận  thức', 'D. Tạo danh  sách khách  hàng  tiềm năng']
+Đáp án đúng: D. Tạo danh  sách khách  hàng  tiềm năng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 20: Tìm kiếm,  chỉ dẫn người  mua,  thông  tin sản phẩm,  đánh  giá và xếp hạng  của người tiêu dùng  hướng  đến mục tiêu truyền  thông  nào?
+['A. Hỗ trợ quyết  định mua hàng', 'B. Hỗ trợ sử  dụng  và duy  trì hoạt động  kinh doanh', 'C. Tăng  nhận  thức', 'D. Tạo danh  sách khách  hàng  tiềm năng']
+Đáp án đúng: A. Hỗ trợ quyết  định mua hàng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 21: Email  nhắc  nhở,  hệ thống  thanh  toán mặc định  hướng  đến mục tiêu truyền  thông nào?
+['A. Hỗ trợ quyết  định mua hàng', 'B. Thúc  đẩy mua hàng', 'C. Tăng  nhận  thức', 'D. Tạo danh  sách khách  hàng  tiềm năng   12']
+Đáp án đúng: B. Thúc  đẩy mua hàng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 22: Website  được  cá nhân  hóa và tương  tác hướng  đến mục tiêu truyền  thông  nào?
+['A. Hỗ trợ quyết  định mua hàng', 'B. Hỗ trợ sử dụng  và duy trì hoạt động  kinh doanh', 'C. Tăng  nhận  thức', 'D. Tạo danh  sách khách  hàng  tiềm năng ']
+Đáp án đúng: B. Hỗ trợ sử dụng  và duy trì hoạt động  kinh doanh
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 23: Các sản phẩm  thông  minh  có bao nhiêu  yếu tố cốt lõi ?
+['A. 2', 'B. 3', 'C. 4', 'D. 5']
+Đáp án đúng: B. 3
+Giải thích:  13  Các sản phẩm  thông  minh  có ba yếu  tố cốt lõi: 1) Thành  phần  vật lý; 2) Thành  phần  thông minh 3) Khả năng  kết nối
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 24: Áp lực cạnh  tranh  bao gồm những  gì?
+['A. Sức mạnh  thương  lượng  từ người  mua;  Sức mạnh  thương  lượng  từ nhà cung  ứng', 'B. Mối đe dọa  từ các sản  phẩm  và dịch  thay thế; mối đe dọa từ  đối thủ mới', 'C. Cường  độ của sự cạnh tranh', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: Năm  áp lực cạnh  tranh  bao gồm: 1. Sức mạnh  thương  lượng  từ người  mua:  khách  hàng  đánh  giá sản  phẩm  và so  sánh giá cả khi họ mua hàng qua các kênh kỹ thuật số 2. Sức mạnh  thương  lượng  từ nhà cung  ứng:  Các mối quan hệ thương mại truyền thống đang bị thách thức trong thị trường số. Điều này mang lại cho các nhà cung ứng khả năng thương lượng cao, nhất là khi các tính năng của sản phẩm thông minh trở nên phổ biến hơn. General Motors TM , Audi TM và các nh à sản xuất ô tô lớn khác đã phải cùng nhau sử dụng hệ điều hành Google Android trên các dòng ô tô mới (Porter và Heppelmann, 2014) 3. Mối đe dọa từ các sản phẩm  và dịch vụ thay thế: Các sản phẩm và dịch vụ số thông minh đang tạo ra những cơ hội thay thế mới v ì chúng có thể gia tăng thêm nhiều tính năng cho sản phẩm 4. Mối đe dọa từ đối thủ mới:  Những công ty mới tham gia thị trường có thể hưởng lợi từ chi phí vận hành thấp, không phải mất chi phí phát triển, chi phí duy trì mạng lưới phân phối để bán sản phẩm. Tu y nhiên, lại cần phải dẫn đầu thị trường trong việc thực hiện marketing và dịch vụ khách hàng. 5. Cường  độ của sự cạnh  tranh:  quyết định bởi số lượng người chơi trên thị trường, quy mô tương đối, cấu trúc chi phí và giá cả, chi phí chuyển đổi khi khách hàng t hay đổi, mục tiêu chiến lược và các rào cản rút lui. Ví dụ: Home Connect AppTM
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 25: “Sự phân  tích có cấu trúc về các dịch vụ trực tuyến,  khả năng  và hiệu suất của một tổ chức  trong  các việc thu hút, chuyển  đổi, duy trì và phát  triển  khách  hàng”  là gì?
+['A. Sức mạnh  đối thủ cạnh  tranh', 'B. Bản chất thị trường  trực tuyến  14', 'C. Chuẩn  đối sánh', 'D. Trải nghiệm  khách  hàng']
+Đáp án đúng: C. Chuẩn  đối sánh
+Giải thích: Chuẩn đối sánh (Benchmarking ) là sự phân tích có cấu trúc về các dịch vụ trực tuyến, khả năng và hiệu suất của một tổ chức trong các việc thu hút, chuyển đổi, duy trì và phát triển khách hàng. Chuẩn  đối sánh bao gồm các quan  điểm  khác nhau  phục vụ  các mục  đích khác nhau: - Khả năng nội bộ: gồm nguồn lực, cấu trúc và quy trình được đối chiếu với các khả năng hướng tới khách hàng bên ngoài của websites. - Các khía cạnh khác nhau của vòng đời khách hàng: thu hút khách hàng, chuyển đổi sang duy trì - Từ định tính đến định lượng: từ đánh giá định tính của khách hàng thông qua khảo sát các nhóm tập trung đến phân tích định lượng của kiểm toán viên độc lập đối với dữ liệu - Trong  và ngoài  ngành:  so sánh với các doanh  nghiệp  tương  tự trong  ngành  và rà soát ngoài ngành đối với những ngành có xu hướng tiến bộ hơn. - Đo lường tài chính đến phi tài chính: báo cáo tài chính của công ty hoặc nộp thuế, các khía cạnh khác như nguồn lực, đổi mới và học hỏi. - Từ trải nghiệm người dùng đến đánh giá của chuyên gia: đánh giá thực tế của khách hàng về nội dung và khả năng sử dụng của sản phẩm cho đến đánh giá của chuyên gia.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 26: Yếu tố nào sau đây không  phải  khả năng  nội bộ?
+['A. Nguồn  lực', 'B. Cấu trúc', 'C. Quy trình', 'D. Doanh  thu']
+Đáp án đúng: D. Doanh  thu
+Giải thích: Khả năng  nội bộ: gồm nguồn  lực, cấu trúc và quy trình  được  đối chiếu  với các khả năng hướng tới khách hàng bên ngoài của websites.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 27: “Những  công  ty có thể giúp  một doanh  nghiệp  xúc tiến, bán và phân  phối sản phẩm hoặc  dịch vụ của mình.”  là gì ?
+['A. Nhà bán buôn,  bán lẻ', 'B. Công  ty phân  phối', 'C. Trung  gian marketing 15', 'D. Tất cả đáp án trên']
+Đáp án đúng: C. Trung  gian marketing
+Giải thích: Các trung gian marketing là những công ty có thể giúp một doanh nghiệp xúc tiến, bán và phân phối sản phẩm hoặc dịch vụ của mình Các kênh kỹ thuật số đã dẫn đến cấu trúc kênh mới cho chuỗi cung ứng và các loại nhà cung ứng mới, cung cấp các dịch vụ chuyên biệt cho toàn bộ ngành kỹ thuật số. Các nhà cung ứng mới đóng  vai trò  trung  gian và cung  cấp nhiều  loại dịch vụ chuyên  biệt như phát triển trang  web,  quản  lý và tích hợp công nghệ.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 28: B2B là gì?
+['A. Buy to buy', 'B. Business  to business', 'C. Buy to business', 'D. Business  to buy']
+Đáp án đúng: B. Business  to business
+Giải thích: B2B là viết tắt của “Business To Business”, được dùng để chỉ hình thức kinh doanh, giao dịch trực tiếp giữa doanh nghiệp và doanh nghiệp. B2B bao gồm thươn g mại điện tử và một số giao dịch trực tiếp có giá trị lớn đòi hỏi phải gặp mặt trong thực tế.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 29: B2C  là gì?
+['A. Business  to consumer', 'B. Buy to consumer', 'C. Business  to consumption', 'D. Buy to consumption']
+Đáp án đúng: A. Business  to consumer
+Giải thích: B2C là viết tắt của cụm từ “Business  To Consumer”, được dùng như một thuật ngữ mô tả giao dịch giữa các doanh nghiệp với  người tiêu  dùng.  B2C chủ yếu được  dùng để chỉ  các nhà bán lẻ trực tuyến bán sản phẩm và dịch vụ cho người tiêu dùng thông qua việc sử dụng môi trường mạng Internet.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 30: Các nhà marketing  mở rộng  khả năng  hiển thị hoặc  phạm  vi tiếp cận trực tuyến,  họ cần được  đại diện bởi nhiều  bên trung  gian thông  qua việc sử dụng  gì?
+['A. Tài trợ, quảng  cáo, trực tuyến,  PR, tiếp cận người  có ảnh hưởng,  marketing  bằng nội dung  và tìm kiếm.', 'B. Truyền  thông,  tài trợ, quảng  cáo trực tuyến,  PR, tiếp cận người  có ảnh hưởng, marketing bằng nội dung và tìm kiếm.', 'C. Tài trợ, quảng  cáo, trực tuyến,  PR, tiếp cận người  có ảnh hưởng.', 'D. Marketing  bằng  nội dung  và tìm kiếm.']
+Đáp án đúng: A. Tài trợ, quảng  cáo, trực tuyến,  PR, tiếp cận người  có ảnh hưởng,  marketing  bằng nội dung  và tìm kiếm.
+Giải thích: Các trung gian trực tuyến hỗ trợ doanh nghiệp và người tiêu dùng, phục vụ trao đổi thông tin giữa B2B và B2C. Để các nhà marketing mở rộng khả năng hiển thị hoặc phạm vi tiếp cận trực tuyến, họ cần được đại diện bởi nhiều bên trung gian thông q ua việc sử dụng tài trợ, quảng cáo trực tuyến, PR, tiếp cận người có ảnh hưởng, marketing bằng nội dung và tìm kiếm.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 31: “Nhà  xuất bản Pearson  hiện có tùy chọn  bán sách  điện tử trực tiếp, giúp  loại bỏ việc trả phí phân  phối cho người  bán buôn  hoặc  bán lẻ ở giữa.”  Việc  làm trên được  gọi là gì?
+['A. Kênh  phân  phối', 'B. Tái trung  gian', 'C. Bỏ trung  gian', 'D. Kết hợp trung  gian']
+Đáp án đúng: C. Bỏ trung  gian
+Giải thích: Cấu trúc kênh  là sự tham  gia của  các đối tác trong  một kênh  phân  phối. - Loại  bỏ trung  gian:  Mối quan hệ giữa một công ty và các đối tác kênh của nó có thể bị thay đổi đáng kể bởi các cơ hội mà các kênh kỹ thuật số mang lại như web, mạng di động và mạng xã hội. Điều này xảy ra do Internet cung cấp một phương tiện giúp bỏ qua một số đối tác kênh. - Tái trung  gian:  người mua sản phẩm vẫn có nhu cầu hỗ trợ trong việc lựa chọn sản phẩm, dẫn đến việc tạo ra các trung gian mới.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 32: Mô hình  kinh  doanh  do Osterwald  và Pigneur  (2010)  gồm bao nhiêu  thành  phần chính?
+['A. 5', 'B. 7', 'C. 8', 'D. 9']
+Đáp án đúng: D. 9
+Giải thích: Mô hình kinh doanh  Canvas  (Business  Model  Canvas)  là một công  cụ đồ họa được  phát triển bởi Alexander Osterwalder và Yves Pigneur, giúp tổng hợp và mô tả cách một doanh nghiệp hoạt động. 17 Chiến  lược  tăng  trưởng Đối tác chính (Tiếp cận các nguồn  tài nguyên và các hoạt động trọng điểm, giảm rủi ro và giảm sự bất ổn, lợi ích có được từ nền kinh tế theo quy mô hay cải thiện  chất lượng)  Hoạt  động  chính (Sản xuất, dịch vụ, mạng lưới/môi giới)  Các đề xuất giá trị (Sản phẩm và dịch vụ mới hoặc cải tiến, tùy biến, nhãn hiệu, giá cả, giảm chi phí, tiện lợi, giảm  thiểu  rủi ro) Quan  hệ khách hàng (Bao  gồm dịch vụ sau bán hàng, hỗ trợ kỹ thuật, đồng  sáng tạo) Phân  khúc khách  hàng (Thị trường đại chúng,  thị trường ngách  (niche),  cơ sở đa dạng hóa khách hàng,…)  Tài nguyên chính (Dạng vật chất bao gồm vật liệu, năng lượng, con người,  tài chính)  Kênh  khách hàng (Bán hàng trực tiếp và gián tiếp) Cấu trúc chi phí (Mô hình định hướng  chi phí so với mô hình định hướng giá trị)  Các dòng  doanh  thu (Doanh  số bán hàng,  phí sử dụng,  cho vay, cho thuê, cấp phép, phí môi giới, quảng cáo) Các chiến  lược so sánh
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 33: “Mô  tả cụ thể các kỹ thuật  khác  nhau  để tạo thu nhập  cho một doanh  nghiệp.”  là mô hình  gì?
+['A. Mô hình kinh doanh', 'B. Mô hình B2C', 'C. Mô hình doanh  thu', 'D. Mô hình B2B']
+Đáp án đúng: C. Mô hình doanh  thu
+Giải thích: Mô hình doanh thu (revenue model ) mô tả cụ thể các kỹ thuật khác nhau để tạo thu nhập cho một doanh nghiệp. Ngoài thu nhập từ việc bán sản phẩm hoặc dịch vụ, các loại mô hình doanh thu trực tuyến gồm: Tài trợ cho nội dung trên trang web, Doanh thu liên kết, Doanh thu phí giao dịch, Đăng ký quyền truy cập (subscription), Trả tiền quyền truy cập cho mỗi lần view/download.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 34: Trong  các yếu tố sau đây, yếu tố nào không  thuộc  về môi trường  Marketing  vĩ mô của doanh  nghiệp?
+['A. Kinh  tế', 'B. Luật pháp', 'C. Xã hội', 'D. Đối thủ cạnh  tranh.']
+Đáp án đúng: D. Đối thủ cạnh  tranh.
+Giải thích: Phân  tích môi trường  vĩ mô gồm: 1. Ảnh hưởng  của yếu tố công  nghệ 2. Ảnh hưởng  của yếu tố kinh tế 3. Ảnh hưởng  của yếu tố chính  trị 4. Ảnh hưởng  của yếu tố luật pháp 5. Ảnh hưởng  của yếu tố xã hội
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 35: Điền  từ còn thiếu  vào chỗ trống:  “Tên  miền  là một phần  ….. thương  hiệu của công  ty cần phải được  bảo vệ khỏi  việc lạm dụng  của các công  ty khác.”
+['A. Tài sản', 'B. Bảo mật', 'C. Nhận  diện', 'D. Đặc trưng']
+Đáp án đúng: A. Tài sản
+Giải thích: “Tên miền” thường đề cập đến tên của máy chủ web  và thường được chọn giống với tên của công ty và phần mở rộng sẽ cho biết loại của nó. Tên miền là một phần tài sản thương hiệu của công ty cần phải được bảo vệ khỏi việc lạm dụng của các công ty khác - đối thủ có thể đăng ký các biến thể gần giống tên miề n thương hiệu của doanh nghiệp.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 36: Ngôn  ngữ đánh  dấu siêu văn bản là gì?
+['A. HTML', 'B. XML', 'C. Javascript', 'D. APIs']
+Đáp án đúng: A. HTML
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 37: Ngôn  ngữ đánh  dấu có thể mở rộng  là gì?
+['A. HTML', 'B. XML', 'C. Javascript', 'D. APIs']
+Đáp án đúng: B. XML
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 38: “Web  có thể lập” là gì?
+['A. HTML  19', 'B. XML', 'C. Javascript', 'D. APIs']
+Đáp án đúng: D. APIs
+Giải thích: * HTML - Nội dung trang web được phần mềm trình duyệt định dạng và hiển thị bằng HTML (hoặc XHTML) - Ngôn ngữ đánh dấu siêu văn bản - Đảm bảo rằng bất kỳ trang web  nào được viết theo các định nghĩa trong tiêu chuẩn sẽ xuất hiện giống nhau trong mọi trình duyệt web. * XML - Khắc  phục  tính thiếu  khả năng  mô tả dữ liệu trên các trang  web của HTML - XML  cung  cấp dữ liệu chứa trong  các trang  mạnh  hơn nhiều  (Ngôn  ngữ đánh  dấu mở rộng) * JavaScript Được sử dụng bởi hầu hết các công nghệ marketing khác nhau hoặc các dịch vụ Điện toán đám mây/Marketing đám mây, cung cấp sự tương tác và nắm bắt thông tin chi tiết từ người dùng web * APIs Được gọi là 'Web  có thể lập trình', được sử dụng để đạt được lợi thế cạnh tranh cho doanh nghiệp Ví dụ, Facebook và Twitter sử dụng API để giúp các trang web khác có thể “nhúng” (embed) nội dung vào trang web của họ.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 39: Cơ sở hạ tầng khóa  công  khai là gì?
+['A. PKI', 'B. TTP', 'C. CA', 'D. SSL']
+Đáp án đúng: A. PKI
+Giải thích: TTP – trusted  third  party  – hệ thống  chứng  chỉ bên thứ ba đáng  tin cậy CA – certificate authorities – cơ quan cấp chứng chỉ SSL - Secure  Sockets  Layer  protocol  – giao thức lớp cổng  bảo mật   20
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 40: Quá trình  lan tỏa – chấp  nhận  công  nghệ  mới này đã được  Rogers  phân  loại những người  thử nghiệm  sản phẩm  mới thành  mấy nhóm?
+['A. 4', 'B. 5', 'C. 3', 'D. 6']
+Đáp án đúng: B. 5
+Giải thích: Quá trình lan tỏa – chấp nhận công nghệ mới này đã được Rogers đã phân loại những người thử nghiệm sản phẩm mới thành 5 nhóm: những người đổi mới, những người chấp nhận sớm, đa số chấp nhận sớm, đa số chấp nhận muộn, và những người tụt hậu.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 41: Chu kỳ cường  điệu gồm bao nhiêu  giai đoạn  về sự trưởng  thành , áp dụng  và ứng dụng  phổ biến trong  kinh  doanh  của một công  nghệ  ?
+['A. 4', 'B. 5', 'C. 3', 'D. 6']
+Đáp án đúng: B. 5
+Giải thích: Chu kỳ cường điệu gồm 5 giai đoạn về sự trưởng thành, áp dụng và ứng dụng phổ biến trong kinh doanh của một công nghệ cụ thể: - Giai đoạn  1- Công  nghệ  kích hoạt:  Giai đoạn đầu tiên của chu kỳ được quảng cáo rầm rộ là “sự kích hoạt công nghệ” hoặc bước đột phá, ra mắt sản phẩm hoặc các sự kiện tạo ra sự quan tâm của dư luận và báo chí.  21  - Giai đoạn  2- Đỉnh  điểm  của sự thổi phồng  kỳ vọng:  Trong giai đoạn tiếp theo, sự điên cuồng của công chúng thường tạo ra sự nhiệt tình thái quá và những kỳ vọng không thực tế. Có thể có một số ứng dụng thành công của công nghệ này, nhưng thường có nhiều thất bại hơn. - Giai đoạn  3- Máng  vỡ mộng: Các công  nghệ  rơi vào “máng vỡ  mộng”  vì chúng  không đáp ứng được kỳ vọng và nhanh chóng trở nên lỗi thời. Do đó, báo chí thường từ bỏ chủ đề này và không nhắc tới công nghệ này nữa. - Giai đoạn  4- Con dốc giác ngộ: Mặc dù  báo chí có thể  đã ngừng đưa tin v ề công nghệ  này, một số doanh  nghiệp  vẫn tiếp tục vượt qua  ‘con dốc của sự giác ngộ’ và tiếp tục thử nghiệm để  hiểu được lợi ích và ứng dụng thực tế của công nghệ. - Giai đoạn  5- Cao nguyên  năng  suất:  Một công nghệ đạt đến 'cao nguyên năng suất' khi những  lợi ích của nó  được chứng  minh và chấp  nhận  rộng rãi. Công  nghệ ngày  càng  trở nên  ổn định và phát triển ở thế hệ thứ hai và thứ ba. Chiều cao của cao nguyên thay đổi tùy theo việc công nghệ có được áp dụng rộng rãi hay chỉ mang lại lợi ích cho một thị trườ ng ngách.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 42: Yếu tố nào sau đây không  phải  ảnh hưởng  của yếu tố kinh  tế?
+['A. Cơ sở hạ tầng của Internet', 'B. Tăng  trưởng  kinh tế', 'C. Lãi suất và tỷ giá hối đoái', 'D. Toàn  cầu hóa']
+Đáp án đúng: A. Cơ sở hạ tầng của Internet
+Giải thích: Ảnh hưởng  của yếu tố kinh tế: * Tăng  trưởng  kinh  tế: - Khi có sự tăng trưởng kinh tế trong thời kỳ bùng nổ, công ty nên chuẩn bị để đáp ứng với nhu cầu gia tăng các sản phẩm và dịch vụ. Trong thời kỳ ế ẩm, doanh số bán hàng có thể giảm do khách hàng đánh giá lại nhu cầu và yêu cầu chi tiêu của họ - Nếu không dự đoán chính  xác tình trạng thay đổi của nền kinh tế, họ có thể gặp khó khăn hoặc bỏ lỡ cơ hội. * Lãi suất và tỷ giá hối đoái: - Lãi suất là một công cụ tiền tệ quan trọng được chính phủ sử dụng cùng với các ngân hàng và tổ chức tài chính để quản lý nền kinh tế của một quốc gia. Các nền kinh tế phương Tây có xu hướng hạ lãi suất trong thời kỳ khó khăn để kích thích hoạt động kinh tế và khuyến khích vay/cho vay, với hy vọng rằng họ có thể tránh được suy thoái - Biến động tỷ giá hối đoái có nghĩa là giá mà người tiêu dùng ở một quốc gia trả cho một sản phẩm chia cho số tiền mà nhà cung cấp ở nước ngoài nhận được để bán sản phẩm đó. 22 * Toàn  cầu hóa: - Thế giới đã trở nên dễ tiếp cận hơn. Trong thế giới số, toàn cầu hóa phản ánh động thái hướng tới thương mại qu ốc tế trong một thị trường toàn cầu duy nhất và làm mờ đi những khác biệt về văn hóa và xã hội giữa các quốc gia - Marketer cần nhận thức được ý nghĩa của việc giao dịch trên thị trường toàn cầu để cân nhắc xem có nên phát triển các chiến dịch marketing, xây  dựng thương hiệu riêng hay áp dụng phương pháp tiêu chuẩn hóa nào hay không và cũng không nên bỏ qua nhu cầu và mong muốn của thị trường địa phương.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 43: Yếu tố nào sau đây không  phải  ảnh hưởng  của yếu tố chính  trị?
+['A. Chiến  lược URL', 'B. Kiểm  soát chính  trị và dân chủ', 'C. Quản  trị Internet', 'D. Thuế']
+Đáp án đúng: A. Chiến  lược URL
+Giải thích: Ảnh hưởng  của yếu tố chính  trị: * Kiểm  soát chính  trị và dân chủ - Môi trường chính trị có nhiều yếu tố ảnh hưởng đến môi trường thương mại, như thuế, đầu tư, quản lý  doanh  nghiệp và các  vấn đề công cộng.  Các yếu  tố chính trị đan  xen chặt chẽ với  các lực lượng kinh tế - Các động thái chính trị được ban hành thông qua các cơ quan chính phủ có thể kiểm soát việc sử dụng Internet tại quốc gia đó. * Quản  trị Internet - Là các biện pháp kiểm soát được đưa ra để quản lý sự phát triển của Internet và việc sử dụng Internet - Tính chất toàn cầu của Internet khiến chính phủ khó kiểm soát trực tuyến hơn, dẫn tới sự  ra đời của ICANN - Tính bình đẳng của Internet là tôn trọng quyền t ruy cập Internet như nhau giữa các nhà cung cấp dịch vụ viễn thông, không phân biệt giữa những người dùng khác nhau dựa trên phân loại hoặc số lượng nội dung, nền tảng của họ. * Thuế - Internet có thể làm giảm đáng kể doanh thu thuế cho chính quyền quốc gia ho ặc địa phương nếu luật thuế hiện hành không điều chỉnh về mô hình mua hàng 23 - Quyền tài phán về thuế xác định quốc gia nào nhận được thu nhập thuế từ một giao dịch. Quyền đánh thuế được phân chia giữa quốc gia nơi doanh nghiệp nhận thu nhập cư trú (quốc gia ‘cư trú’) và quốc gia nơi doanh nghiệp tạo ra thu nhập đó (quốc gia ‘nguồn’)
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 44: Các vấn đề pháp  lý nào quan  trọng  nhất  đối với các nhà marketing  số:
+['A. Luật bảo vệ dữ  liệu và quyền  riêng  tư; Luật khuyết  tật và phân  biệt đối xử', 'B. Thương  hiệu và bảo hộ thương  hiệu;  Quyền  sở hữu trí tuệ', 'C. Luật quảng  cáo trực tuyến;  Luật hợp đồng', 'D. Tất cả các đáp án trên']
+Đáp án đúng: D. Tất cả các đáp án trên
+Giải thích: Marketer  nên tuân thủ luật pháp và tuân thủ các tiêu chuẩn đạo đức dù tốc độ đổi mới công nghệ diễn ra nhanh chóng khiến luật pháp thường không rõ ràng. Marketer  cần xem xét 6 vấn đề pháp  lý quan  trọng  nhất đối với digital  marketing: 1. Luật bảo vệ dữ liệu và quyền  riêng  tư 2. Luật khuyết  tật và phân  biệt đối xử 3. Thương  hiệu và bảo hộ thương  hiệu 4. Quyền  sở hữu trí tuệ 5. Luật quảng  cáo trực tuyến 6. Luật hợp đồng.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 45: Điền  từ còn thiếu  vào chỗ trống:  “ Tác động  của yếu tố xã hội rộng  lớn hơn ảnh hưởng  ….., đặc biệt là những  thay  đổi về dân số.”
+['A. Nhân  khẩu  học', 'B. Văn hóa', 'C. Lối sống', 'D. Đạo đức']
+Đáp án đúng: A. Nhân  khẩu  học
+Giải thích: - Tác động của yếu tố xã hội rộng lớn hơn ảnh hưởng nhân khẩu học, đặc biệt là những thay đổi về dân số. Quy mô và tốc độ tăng dân số có ý nghĩa đối với chiến lược và kế hoạch marketing số. Lần đầu tiên trong lịch sử thế giới, hơn 50% dân số sống ở thành thị . - Những thay đổi về dân số rất quan trọng đối với marketing vì chúng tạo ra các cơ hội thị trường mới. Hiện tại, marketing mới nổi ở Nga, Ấn Độ, Brazil và Trung Quốc đại diện cho sự tăng trưởng của thị trường 24 - Tác động xã hội của Intern et cũng khiến nhiều người lo ngại vì Internet có khả năng làm nổi bật sự khác biệt về chất lượng cuộc sống, cả trong một xã hội, một quốc gia hay giữa các quốc gia khác nhau. Điều này có thể làm nổi bật “sự loại trừ xã hội”, trong đó một bộ phận của xã hội  bị cô lập hoàn toàn. Chiến lược e -marketing là việc xác định những năng lực và sáng kiến mang tầm chiến lược nhằm hỗ trợ các mục tiêu marketing và kinh doanh mà một công ty nên triển khai bằng cách khai thác phương tiện truyền thông số, dữ liệu và công nghệ marketing, từ đó tăng cường tương tác đa kênh với khán giả của họ bằng các thiết bị và nền tảng số.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: Các điểm  chạm  truyền  thống  bao gồm gì?
+['A. Dịch  vụ web, email  và điện thoại  di động', 'B. Thư,  fax, email', 'C. Gặp trực tiếp, điện thoại  và thư', 'D. Trực tuyến  và ngoại  tuyến']
+Đáp án đúng: C. Gặp trực tiếp, điện thoại  và thư
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Các điểm  chạm  trong  môi trường  số bao gồm gì?
+['A. Dịch  vụ web, email  và điện thoại  di động', 'B. Thư,  fax, email', 'C. Gặp trực tiếp, điện thoại  và thư', 'D. Trực tuyến  và ngoại  tuyến']
+Đáp án đúng: A. Dịch  vụ web, email  và điện thoại  di động
+Giải thích: Điểm chạm khách hàng là  vị trí mà các  kênh truyền  thông của công ty  tương tác  trực tiếp  với khách hàng và người mua tiềm năng. Các điểm chạm truyền thống bao gồm gặp mặt trực tiếp (tại cửa hàng hoặc với đại diện bán hàng), điện thoại và thư. Các điể m chạm trong môi trường số bao gồm dịch vụ web, email và cả điện thoại di động.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Michael  Porter  đã đề xuất bao nhiêu  nguyên  tắc có thể giúp  duy trì được  vị trí chiến lược đặc biệt cho doanh  nghiệp?
+['A. 5', 'B. 6', 'C. 7', 'D. 8']
+Đáp án đúng: B. 6
+Giải thích: Lập kế hoạch marketing là một trình tự hợp lý của hàng loạt các hoạt động gồm thiết lập các mục tiêu marketing và hình thành các kế hoạch để đạt được chúng 1. Bắt đầu với mục tiêu đúng  đắn, dựa trên giá trị kinh tế thực tế. 2. Xác định một giá trị đề xuất, là  đề xuất duy nhất nhưng  quan  trọng  là khả  thi 26 3. Làm những  điều khác biệt, tạo ra chuỗi  giá trị khác biệt. 4. Sẵn sàng đánh  đổi, điều chỉnh  các hoạt động  của công  ty để vượt  trội hơn đối thủ. 5. Tạo sự phù hợp giữa những  gì công  ty làm với những  gì công  ty muốn  đạt được  và các nguồn lực sẵn có của công ty 6. Thiết  lập tính liên tục, các quyết  định hoạch  định cần tuân theo các mục tiêu ban đầu đề ra.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Khung  lập kế hoạch  SOSTAC  là?
+['A. Bối cảnh  – Mục tiêu – Chiến  lược – Chiến  thuật  – Hành  động  – Kiểm  soát', 'B. Điều  kiện – Mục tiêu – Chiến  lược – Chiến  thuật  – Hành  động  – Kiểm  tra', 'C. Bối cảnh  – Mục tiêu – Chiến  lược – Chiến  thuật  – Hành  động  – Kiểm  tra', 'D. Điều  kiện – Mục tiêu – Chiến  lược – Chiến  thuật  – Hành  động  – Kiểm  soát']
+Đáp án đúng: Mục tiêu, Strategy - Chiến lược, Tactics - Chiến thuật, Action - Hành động và Control - Kiểm soát.
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Việc  nào sau đây không  nằm trong  phân  tích bối cảnh?
+['A. Kiểm  tra nội bộ', 'B. Nghiên  cứu khách  hàng', 'C. Phân  tích nguồn  lực', 'D. Nghiên  cứu khoa  học công  nghệ']
+Đáp án đúng: D. Nghiên  cứu khoa  học công  nghệ
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Cấp độ nào sau đây không  đánh  giá kiểm  tra nội bộ?
+['A. Hiệu  quả kinh doanh', 'B. Hiệu  quả khai thác dữ liệu', 'C. Hiệu  quả marketing', 'D. Hiệu  quả marketing  số']
+Đáp án đúng: B. Hiệu  quả khai thác dữ liệu
+Giải thích: - Hiệu  quả kinh  doanh:  Đóng  góp tài chính  hoặc  thương  mại từ các kênh  kỹ thuật  số - Hiệu quả marketing: Xem xét lượng khách hàng tiềm năng (leads); doanh thu; tỷ lệ duy trì khách hàng, sự hài lòng và lòng trung thành, thị phần của thị trường trực tuyến,  vị trí thương hiệu; dịch vụ khách hàng - Hiệu quả marketing số: Đo lường cụ thể bằng các phương tiện truyền thông số dựa trên số lượng,  chất lượng,  giá trị và chi phí của  các lượt truy cập  vào trang  web,  nền tảng di động  hay mạng xã hội. 27
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Điền  từ vào chỗ trống:  “Hồ sơ của khách  hàng  có thể ảnh hưởng  mạnh  mẽ đến ….. họ tương  tác với các kênh  kỹ thuật  số và cũng  mang  lại ý nghĩa  marketing  quan  trọng  cho doanh nghiệp.”
+['A. Nhận  thức và hành  động', 'B. Địa điểm,  thời gian và cách  thức', 'C. Mong  muốn,  nhận  thức và hành  động', 'D. Địa điểm,  thời gian và hành  động']
+Đáp án đúng: B. Địa điểm,  thời gian và cách  thức
+Giải thích: - Liên quan  đến nhiều  thứ hơn là chỉ sử dụng  nhân  khẩu  học. Nó còn bao gồm cả nhu cầu khách hàng, thái độ trải nghiệm, khả năng sử dụng công nghệ và Internet hàng - Hồ sơ của khách hàng ảnh hưởng mạnh mẽ đến địa điểm, thời gian và cách thức họ tương tác với các kênh kỹ thuật số
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: Phân  tích nguồn  lực nên bao gồm gì?
+['A. Nguồn  tài chính  và nguồn  nhân lực', 'B. Nguồn  lực cơ sở hạ tầng công  nghệ', 'C. Dữ liệu và tài  nguyên  insight', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: Phân  tích nguồn  lực liên  quan  đến việc  đánh giá khả  năng  cung  cấp các dịch vụ  số của  doanh nghiệp. Phân tích nguồn lực nên bao gồm: - Nguồn  tài chính:  Các thành  phần  chi phí để vận hành  các nền tảng trực tuyến  của doanh nghiệp, bao gồm phát triển, quảng cáo và bảo trì trang web - Dữ liệu và tài nguyên:  Chất  lượng  dữ liệu và các công  cụ để phân  tích hiệu suất của các kênh kỹ thuật số cũng như các đặc điểm và hành vi của người tiêu dùng - Nguồn nhân lực: Bao gồm cả các tài nguyên dịch vụ, tức là trả lời các câu hỏi của khách hàng và gửi hàng hóa, phối hợp giữa phòng ban và đơn vị kinh doanh - Điểm  mạnh  và điểm  yếu: Phân  tích SWOT
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: Mô hình  SWOT  là gì?
+['A. Điểm  mạnh  – Điểm  yếu – Cơ hội – Thách  thức', 'B. Điểm  mạnh  – Điểm  yếu – Nhận  thức – Hành  động', 'C. Cơ hội – Thách  thức – Nhận  thức – Hành  động  28', 'D. Nhận  thức – Hành  động  – Điểm  yếu – Điểm  mạnh']
+Đáp án đúng: A. Điểm  mạnh  – Điểm  yếu – Cơ hội – Thách  thức
+Giải thích: Phân tích SWOT là một cách hữu ích để tóm tắt các cơ hội và mối đe dọa bên ngoài và là hoạt động cốt lõi cho phân tích môi trường vi mô của doanh nghiệp. Về cơ bản, phân tích SWOT tức là phân tích 4 yếu tố: Strengths (Điểm mạnh), Weaknesses (Điểm yếu), Opp ortunities (Cơ hội), Threats (Thách thức). Thông thường, các chiến lược hữu dụng nhất sẽ kết hợp được Điểm mạnh với Cơ hội, hoặc chống lại các Mối đe dọa thông qua Điểm mạnh
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: SMART  là gì?
+['A. Specific  (chi tiết) - Measurable  (có thể đo lường  được)  – Achievable  (khả thi) – Realistic  (thực  tế) – Time  (thời  gian)', 'B. Secret  (bí mật) - Measurable  (có thể đo lường  được)  – Achievable  (khả thi) – Realistic (thực tế) – Time (thời gian)', 'C. Specific  (chi tiết) - Measurable  (có thể đo lường  được)  – Achievable  (khả thi) – Revenue (thu nhập) – Turnover (Doanh số)', 'D. Secret  (bí mật) - Measurable  (có thể đo lường  được)  – Achievable  (khả thi) – Realistic (thực tế) – Turnover (Doanh số)']
+Đáp án đúng: A.	Specific (chi tiết) - Measurable (có thể đo lường được) – Achievable (khả thi) – Realistic (thực tế) – Time (thời gian) 
+Giải thích: SMART  là một từ viết tắt dễ nhớ được  sử dụng  để đánh  giá mức độ phù hợp của các mục tiêu. SMART  là viết tắt của: - Chi tiết: Mục tiêu có đủ chi tiết để đo lường  các vấn đề và cơ hội trong  thế giới thực không? - Đo lường được: Mục tiêu có thể áp dụng thuộc tính định lượng hoặc định tính để tạo chỉ số không? - Khả thi: Thực  hiện mục tiêu có cải thiện được hiệu suất không? Nếu mục tiêu không thay đổi hành vi của nhân viên để giúp họ cải thiện hiệu suất, thì mục tiêu không khả thi -Thực  tế: Thông  tin có thể được  áp dụng  cho vấn đề cụ thể mà người  quản  lý gặp phải không? - Có giới hạn thời gian:  Mục tiêu có thể bị ràng buộc  bởi thời gian không?
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: “Một  kỹ thuật  được  sử dụng  để kiểm  tra xem doanh  nghiệp  có đang  sử dụng  đúng loại mục tiêu và thước  đo hay không.”  là phương  pháp  gì?
+['A. Phương  pháp  SMART 29', 'B. Phương  pháp  VQVC', 'C. Phương  pháp  5S', 'D. Phương  pháp  C2B']
+Đáp án đúng: B. Phương  pháp  VQVC
+Giải thích: VQVC là một kỹ thuật được sử dụng để kiểm tra xem doanh nghiệp có đang sử dụng đúng loại mục tiêu và thước đo hay không - Volume measures (Đo lưu lượng): Các hệ thống phân tích số như Google Analytics có các thước đo cụ thể về lưu lượng. Unique visit (lượt truy cập duy nhất), Visit(lượt truy cập), Page view (lượt xem trang),... - Quality measures (Đo lường chất lượng): Đánh giá chất lượng của khách truy cập và đánh giá trải nghiệm của họ. Bounce  rate (tỷ lệ thoát), Duration (khoảng thời gian), Pages per visit (các trang mỗi lần truy cập),... - Value measures (Thước đo giá trị): Hiệu quả truyền thông và đóng góp thương mại của e - marketing. Revenue per visit (doanh thu trên mỗi lượt truy cập), Page value (giá trị trang) - Cost measures (Đo lường chi phí): Chi phí tạo ra và quảng cáo nội dung và trải nghiệm. Contribution objective (sự đóng góp), Cost per acquision (chi phí mỗi lần hành động của khách hàng), Conversion objective (chuyển đổi khách hàng), Retention objective (mục tiêu duy trì) …
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: Khung  5S là gì?
+['A. Subsidy(Trợ  cấp),Speak(Nói),Supply(Cung),Save  (Tiết  kiệm)  và Sizzle  (Hâm nóng) nóng)', 'B. Sell (Bán),  Share  (Chia  sẻ), Serve  (Phục  vụ), Save  (Tiết  kiệm)  và Sizzle  (Hâm ', 'C. Sell (Bán),  Speak  (Nói),  Serve  (Phục  vụ), Save (Tiết  kiệm)  và Sizzle  (Hâm  nóng) ', 'D. Sell (Bán),  Speak  (Nói),  Serve  (Phục  vụ), Scarcity  (Hiếm)  và Sizzle  (Hâm  nóng)']
+Đáp án đúng: C.	Sell (Bán), Speak (Nói), Serve (Phục vụ), Save (Tiết kiệm) và Sizzle (Hâm nóng) (Đáp án đúng)
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 13: Khung  7S là gì?
+['A. Sell (Bán), Structure (Cấu trúc), Systems (Hệ thống), Style (Phong cách), Shared Values (Giá trị chia sẻ), Skills (Kỹ năng)  và Staff (Nhân sự).', 'B. Strategy (Chiến lược), Serve (Phục vụ), Sizzle (Hâm nóng), Style (Phong cách), Shared Values (Giá trị chia sẻ), Skills (Kỹ năng), Staff (Nhân sự).  30', 'C. Strategy  (Chiến  lược),  Structure  (Cấu  trúc),  Systems  (Hệ thống),  Style  (Phong cách), Save (Tiết kiệm), Skills (Kỹ năng), Staff (Nhân sự).', 'D. Strategy  (Chiến  lược),  Structure  (Cấu  trúc)  và Systems  (Hệ thống),  Style  (Phong cách),  Shared  Values  (Giá trị chia sẻ), Skills  (Kỹ năng)  và Staff (Nhân  sự).']
+Đáp án đúng: D. Strategy (Chiến lược), Structure (Cấu trúc) và Systems (Hệ thống), Style (Phong cách), Shared Values (Giá trị chia sẻ), Skills (Kỹ năng) và Staff (Nhân sự).
+Giải thích: Trong mô hình 7S (McKinsey), các nhân tố “cứng” và “mềm” được kết hợp với nhau, trong đó các nhân tố cứng hướng tới các vấn đề mà một doanh nghiệp có thể gây ảnh hưởng trực tiếp. + Các nhân  tố cứng  trong  mô hình 7S bao gồm Chiến  lược (Strategy),  Cấu trúc (Structure) và Hệ thống (Systems). + Các nhân tố mềm là Phong cách (Style), Giá trị chia sẻ (Shared Values), Kỹ năng (Skills) và Nhân sự (Staff).
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 14: Thẻ cân bằng  cấu trúc có mấy nhóm  thẻ chính?
+['A. 2', 'B. 4', 'C. 6', 'D. 5']
+Đáp án đúng: B. 4
+Giải thích: Thẻ điểm cân bằng là một khung mô hình để thiết lập và giám sát hiệu quả kinh doanh. Các chỉ số được cấu trúc thành 4 nhóm thẻ điểm chính bao gồm: thẻ điểm khách hàng, thẻ điểm quy trình nội bộ, thẻ điểm tài chính và thẻ điểm học hỏi và phát triển.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 15: Điền  từ còn thiếu  vào chỗ trống:  “ Xây dựng  chiến  lược  là ….. các chiến  lược để đạt được  các mục tiêu chiến  lược.”
+['A. Tạo, đánh  giá và lựa chọn', 'B. Tạo, mở rộng và lựa chọn', 'C. Nhận  thức,  tạo và đanh  giá 31 ', 'D. Nhận  thức,  lựa chọn  và tạo']
+Đáp án đúng: A. Tạo, đánh  giá và lựa chọn
+Giải thích: - Xây dựng chiến lược là tạo, đánh giá và lựa chọn các chiến lược để đạt được các mục tiêu chiến lược - Động lực chính của việc phát triển chiến lược e -marketing là đưa ra các quyết định đúng đắn về việc nhắm mục tiêu có chọn lọc và các hình thức phân phối giá trị  khác nhau cho các kênh trực tuyến khác nhau - Chiến  lược e-marketing  chính  là chiến  lược kênh  marketing.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 16: “Một  nhóm  người  có cấu trúc lỏng lẻo chuyên  nghiên  cứu và phát  triển  các cơ hội đổi mới và lợi ích kinh  doanh.”  là gì?
+['A. Người  tiêu dùng', 'B. Skunkworks', 'C. Nhà phân  phối', 'D. Trung  gian']
+Đáp án đúng: B. Skunkworks
+Giải thích: Cách tiếp cận với sự hỗ trợ tính linh hoạt của chiến lược thông qua nghiên cứu và phát triển liên tục được gọi là Skunkworks, phòng thí nghiệm số hoặc trung tâm đổi mới trong các doanh nghiệp lớn hơn. Skunkworks là một nhóm người có cấu trúc lỏng lẻo chuyên nghiên cứu và phát triển các cơ hội đổi mới và lợi ích kinh doanh.                  32
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: Hỗn hợp marketing  hay được  gọi rộng  rãi là gì?
+['A. 5S', 'B. 7S', 'C. 4P', 'D. 7P']
+Đáp án đúng: C. 4P
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: 4P gồm những  gì?
+['A. Sản phẩm,  Khách  hàng,  Giá cả và Địa điểm', 'B. Sản phẩm,  Giá cả, Địa điểm  và Xúc tiến hỗn hợp', 'C. Khách  hàng, Giá  cả, Địa điểm  và Xúc tiến hỗn hợp', 'D. Doanh  nghiệp,  Sản phẩm,  Khách  hàng  và Giá cả.']
+Đáp án đúng: B. Sản phẩm,  Giá cả, Địa điểm  và Xúc tiến hỗn hợp
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: 7P gồm những  gì?
+['A. Sản phẩm,  Giá cả, Địa điểm,  Xúc tiến hỗn hợp, Con người,  Quy trình  và Bằng chứng  vật lý', 'B. Doanh  nghiệp,  Sản phẩm,  Khách  hàng,  Giá cả, Con người,  Quy trình  và Bằng chứng vật lý', 'C. Sản phẩm,  Giá cả, Địa điểm,  Xúc tiến hỗn hợp, Con người,  Công  nghệ  và Bằng chứng vật lý.', 'D. Doanh  nghiệp,  Sản phẩm,  Xúc tiến hỗn hợp, Giá cả, Con người,  Công  nghệ  và Bằng chứng vật lý']
+Đáp án đúng: A. Sản phẩm,  Giá cả, Địa điểm,  Xúc tiến hỗn hợp, Con người,  Quy trình  và Bằng chứng  vật lý
+Giải thích: Marketing hỗn hợp hay còn được gọi rộng rãi là 4P gồm sản phẩm, giá cả, địa điểm và xúc tiến hỗn hợp ban đầu được đề xuất bởi Jerome McCarthy (1 960) Vào những năm 1980, 4Ps đã bị thách thức vì không đề cập đến tầm quan trọng của dịch vụ khách hang, mở rộng thành 7P, bao gồm ba yếu tố khác (hỗn hợp dịch vụ) phản ánh tốt hơn việc cung cấp dịch vụ là yếu tố con người, quy trình và bắng chứng vật lý. + Sản phẩm:  xem xét các cơ hội thay đổi sản phẩm  cốt lõi hoặc  sản phẩm  mở rộng cho môi trường kỹ thuật số. + Giá: tập trung vào các tác động của việc thiết lập giá trong thị trường e -marketing, các mô hình và chiến lược định giá mới. + Địa điểm:  xem xét các tác động  của việc phân  phối đối với tiếp thị kỹ thuật  số.  33  + Xúc tiến hỗn hợp: tìm hiểu trước các kỹ thuật xúc tiến để biết chi tiết hơn về các kỹ thuật mới trong những chương sau. + Con người, quy trình và bằng chứng vật lý: Xem xét các tác động của môi trường emarketing đến những yếu tố này chủ yếu từ khía cạnh xây dựng mối quan hệ với khách hàng.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Các tác động  chính  của công  nghệ  kỹ thuật  số đối với yếu tố sản phẩm  của marketing hỗn hợp là gì?
+['A. Tạo ra các tùy chọn để thay đổi sản phẩm cốt lõi; Tạo ra các tùy chọn để cung cấp các sản phẩm kỹ thuật số.', 'B. Tạo ra các tùy chọn  để thay đổi sản phẩm  mở rộng;  Thực  hiện nghiên  cứu trực tuyến.', 'C. Thay  đổi tốc độ phát triển sản phẩm  mới; Thay  đổi tốc độ khuếch  tán sản phẩm mới.', 'D. Tất cả đáp án trên.']
+Đáp án đúng: D. Tất cả đáp án trên.
+Giải thích: Các tác động  chính  của công  nghệ  kỹ thuật  số đối với yếu tố sản phẩm  của marketing  hỗn hợp: 1. Thay  đổi sản phẩm  cốt lõi - Sản xuất đại trà theo nhu cầu của khách  hàng  (Mass  customization:  cá thể hóa theo số đông) - Cung  cấp thông  tin về sản phẩm  cho khách  hàng.  Ví dụ: những  nhà bán sách có thể cung cấp review  sách trực tuyến,  bán sách trực tuyến,  công  ty du lịch có virtual  tour,...) - Gộp các sản phẩm  số và sản phẩm  truyền  thống - Internet  là nền tảng cung  cấp thông  tin về các khía cạnh  cốt lõi của sản phẩm. 2. Bổ sung  các sản phẩm  số Các nhà xuất bản, công  ty truyền  thông,  truyền  hình linh hoạt trong  việc bổ sung các lựa chọn sản phẩm số ở những mức giá khác nhau: - Subsription:  mô hình lợi nhuận  truyền  thống  của các nhà xuất bản, subsribe  trong  3 tháng,  6 tháng, 1 năm - Pay – per – view:  trả phí cho mỗi lần download.  Ví dụ: Lonely  Planet  cho phép  visitors download các hướng dẫn du lịch ở mức giá rẻ hơn mua bản in hoàn chỉnh   34 - Ad – supported content : các nhà xuất bản, các trang tin tức cho phép các công ty khác đặt quảng cáo trên trang web của họ. - Guardian, Daily Telegraph và the Independent là những trang tin tức dẫn đầu về số lượng subsribe trực tuyến. 3. Thay  đổi các sản phẩm  mở rộng - Khi khách  hàng  mua một chiếc  laptop,  khách  hàng  sẽ nhận  được  cùng  theo những  sản phẩm mở rộng: hướng dẫn sử dụng, đóng gói, bảo hiểm, hỗ trợ kỹ thuật. - Testimonials - Customer  list - Customer  comments - Money  – back offer Các site trực tuyến  nên cung  cấp thông  tin về sản phẩm  tương  tự như đội ngũ bán hàng telesales hoặc face – to – face. 4. Thực  hiện nghiên  cứu trực tuyến - Online  focus  group - Online  questionnaire  survey - Customer  feedback  hoặc  support  forums - Web analytics: dữ liệu phản hồi thu thập được từ email marketing, search engine, website có thể được sử dụng để đánh giá khách hàng và sở thích sản phẩm. 5. Tốc độ phát triển  sản phẩm  mới - Thông  qua thực hiện các nghiên  cứu thị trường  trực tuyến,  doanh  nghiệp  có thể kiểm  chứng các ý tưởng mới và khám phá những sự lựa chọn sản phẩm khác nhau. - Internet  cho phép  các công  ty tạo ra mạng  lưới đối tác để ra mắt các sản phẩm  mới. 6. Tốc độ phân  bổ sản phẩm  mới - Thông  tin về sản  phẩm  mới có thể được lan  truyền  thông  qua các “connector” trên  mạng  xã hội. Lan truyền theo hình thức “word – of – mouth” - Tầm quan  trọng  của việc kiếm  chứng  và nghiên  cứu thị trường  để ra mắt sản phẩm  hiệu quả - Lựa chọn  bối cảnh  vật lý, xã hội  và tinh thần phù hợp với sản phẩm  ra mắt.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Các tác động  chính  của Internet  đối với khía cạnh  giá cả của marketing  hỗn hợp là gì?
+['A. Tăng  tính minh  bạch  về giá  cả; Tăng  áp lực giảm  giá  35', 'B. Tiếp cận cách định giá mới', 'C. Tái cơ cấu hoặc  đưa ra chính  sách định giá thay thế.', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: - Tăng tính minh bạch về giá: Tính minh bạch về giá được kích hoạt thông qua các dịch vụ so sánh giá kỹ thuật số, Shopping.com, booking.com, traveloka.com - Áp lực giảm giá: Sự cạnh tranh gây ra bởi sự minh bạch về giá cả và số lượng đối thủ cạnh tranh gia tăng là nguyên nhân chính dẫn đến áp lực giảm giá. Nh ãn hàng cũng không phải trả chi phí cho các cửa hàng đang hoạt động và mạng lưới phân phối nhà bán lẻ - Các phương pháp định giá mới: đấu giá chuyển tiếp (B2C), đấu giá ngược (B2B), định giá động. Ví dụ, khách hàng mới có thể tự động được giảm giá khi mua 3 mặt hàng trở lên - Chính sách giá thay thế: Internet cung cấp các tùy chọn mới như thanh toán cho mỗi lần sử dụng, cho thuê với chi phí cố định mỗi tháng, thỏa thuận thuê và đi kèm với các sản phẩm khác
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Tác động  chính  của marketing  số đối với khía cạnh  phân  phối của hỗn hợp là gì?
+['A. Thay  đổi nơi  mua hàng', 'B. Tạo cấu trúc kênh  mới; Tạo xung  đột kênh  mới', 'C. Sự ra đời của các tổ  chức ảo', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: – Thay  đổi nơi mua hàng: + Internet  là môi trường ảo  toàn cầu  vượt qua  ranh giới  địa lý và  Các vấn đề  liên quan đến phân phối, hậu cần, thời điểm diễn ra các giao dịch bán hàng rất quan trọng + Việc mua hàng trực tuyến sẽ diễn ra tại nhà bán lẻ thông qua quan hệ đối tác với nhà cung cấp dịch vụ thanh toán an toàn trực tuyến như Worldpa y TM, PayPal – Tạo cấu trúc kênh  mới: Không trung gian (disintermediation), Tái trung gian (reintermediation), Biện pháp xử lý đối tác (countermediation) – Tạo xung  đột kênh  mới:  Internet  đe dọa các thỏa thuận phân phối với các đối tác hiện tại. Để đánh giá xung đột kênh, cần phải xem xét các hình thức kênh khác nhau mà Internet có thể sử dụng: + Một kênh  giao tiếp duy nhất + Một kênh  phân  phối đến các trung  gian  36 + Một kênh  bán hàng  trực tiếp cho khách  hàng + Bất kỳ sự kết hợp nào ở trên – Sự ra đời của các tổ chức  ảo: Xu hướng ảo hóa các doanh nghiệp vì chúng cho phép việc quản lý và điều phối các giao dịch kinh doanh được thực hiện một cách hiệu quả với chi phí thấp hơn.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: “PR trực tuyến  và tiếp cận người  ảnh hưởng,  blog,  bản tin điện tử, bản tin, mạng  xã hội, liên kết và chiến  dịch lan truyền”  là tác động  của công  cụ truyền  thông  nào đến môi trường  số?
+['A. Quảng  cáo', 'B. Bán hàng', 'C. Quan  hệ công  chúng', 'D. Xúc tiến bán hàng']
+Đáp án đúng: C. Quan  hệ công  chúng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: “Các  khuyến  khích  như phiếu  thưởng,  phần  thưởng,  chương  trình  khách  hàng  thân thiết  trực tuyến.”  là tác động  của công  cụ truyền  thông  nào đến môi trường  số?
+['A. Xúc tiến bán hàng', 'B. Sự tài trợ', 'C. Triển  lãm', 'D. Thư trực tiếp']
+Đáp án đúng: A. Xúc tiến bán hàng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: “Marketing  xã hội, lan truyền,  liên kết, gửi email  cho bạn bè.” là tác động  của công  cụ truyền  thông  nào đến môi trường  số?
+['A. Triển  lãm', 'B. Sự tài trợ', 'C. Bao bì', 'D. Marketing  số']
+Đáp án đúng: D. Marketing  số
+Giải thích:  Các công  cụ truyền  thông  Tác động  của môi trường  trực tuyến Quảng  cáo Quảng  cáo hiển thị hình ảnh tương  tác, quảng  cáo tìm kiếm  trả tiền cho mỗi lần nhấp  chuột,  quảng  cáo được  nhắm  mục tiêu trong  mạng  xã hội Bán hàng Nhân  viên bán hàng  ảo, bán hàng  trên trang  web,  bán hàng  được  hỗ trợ, bao gồm cả livechat,  và marketing  liên kết Quan  hệ công  chúng  PR trực tuyến  và tiếp cận người  ảnh hưởng,  blog,  bản tin điện tử, bản tin, mạng  xã hội, liên kết và chiến  dịch lan truyền 37 Xúc tiến bán Các khuyến  khích  như phiếu  thưởng,  phần  thưởng,  chương  trình  khách hàng  thân thiết trực tuyến Sự tài trợ Tài trợ cho một sự kiện,  trang  web hoặc  dịch vụ trực tuyến Triển  lãm Hội thảo trên web, triển  lãm ảo và phân  phối sách trắng Thư trực tiếp Chọn  tham  gia email  bằng  cách sử dụng  bản tin điện tử Bao bì Các chuyến  tham  quan  ảo, bao bì thực được  hiển thị trực tuyến Marketing truyền  miệng  Marketing  xã hội, lan truyền,  liên kết, gửi email  cho bạn bè
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: Các yếu tố con người,  quy trình  và bằng  chứng  vật lý của marketing  hỗn hợp có liên quan  chặt chẽ với nhau  và thường  được  nhóm  lại thành  gì?
+['A. Yếu tố khách  hàng', 'B. Yếu tố dịch vụ', 'C. Yếu tố công  nghệ', 'D. Yếu tố tiền tệ']
+Đáp án đúng: B. Yếu tố dịch vụ
+Giải thích: Các yếu tố con người, quy trình và bằng chứng vật lý của marketing  hỗn hợp có liên quan chặt chẽ với nhau và thường được nhóm lại thành "các yếu tố dịch vụ". Chúng có ý nghĩa quan trọng vì mức độ cảm nhận về dịch vụ sẽ ảnh hưởng đến lòng trung thành của khách hàng và xác suất họ đề xuất dịch vụ.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: Ứng dụng  điển hình của các công  cụ marketing  số lên các yếu tố dịch vụ là gì?
+['A. Thay  thế', 'B. Tính  bổ sung', 'C. Tính  chuyển  đổi', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: Ứng dụng  điển hình của các công  cụ marketing  số lên các yếu tố dịch vụ này là: - Thay  thế: Triển  khai công  nghệ  thay thế con người  như chatbot,  email  automation,  ... - Tính  bổ sung:  Triển  khai công  nghệ kết  hợp với con người  như Call center - Tính chuyển  đổi: Tối ưu  hoá nền tảng và công  cụ số cho một hoạt  động  vận hành  nào đó, ví dụ như đặt hàng online   38
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: Sắp xếp giai đoạn  kế hoạch  để quản  lý chất lượng  và dịch vụ: (1)Điều  hướng  email; (2) Xác định  yêu cầu trợ giúp  của khách  hàng;  (3) Theo  sát; (4) Tiếp  nhận  email  và xác nhận; (5) Tạo ra các phản  hồi.
+['A. (1); (2); (3); (4); (5)', 'B. (2); (4); (1); (5); (3)', 'C. (3); (4); (1); (5); (2)', 'D. (2); (4); (1); (3); (5)']
+Đáp án đúng: B. (2); (4); (1); (5); (3)
+Giải thích: Chiến lược con người: Xem xét sự tham gia của nhân viên trong quá trình mua hàng được thay đổi như  thế nào, thông qua vai trò mới như  trả lời email, tr ò chuyện trực tuyến, hoặc thông qua việc nhân viên được thay thế bằng các dịch vụ trả lời trực tuyến tự động Giai đoạn  1: Xác định yêu cầu trợ giúp của khách  hang Giai đoạn 2: Tiếp nhận email và xác nhận Giai đoạn 3: Điều hướng email Giai đoạn  4: Tạo ra các phản  hồi Giai đoạn 5: Theo sát
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 13: “Hãng  hàng  không  giá rẻ easyJet  khuyến  khích  khách  hàng  sử dụng  các kênh  trực tuyến  thay  vì liên hệ bằng  giọng  nói với trung  tâm cuộc  gọi để đặt hàng  và dịch vụ khách hàng.”  là kênh  ưu tiên gì?
+['A. Kênh  ưu tiên của khách  hàng', 'B. Kênh  ưu tiên của doanh  nghiệp', 'C. Kênh  ưu tiên của sản phẩm', 'D. Kênh  ưu tiên của trung  gian']
+Đáp án đúng: B. Kênh  ưu tiên của doanh  nghiệp
+Giải thích: Chiến  lược tiếp xúc khách  hàng:  Sự dung  hòa giữa việc cung  cấp dịch vụ khách  hàng  có chất lượng với việc nhấn mạnh vào sự lựa chọn của khách hàng và giảm thiểu chi phí tiếp xúc với khách hàng + Kênh  ưu tiên của khách  hàng:  Thích  gọi điện hơn tự phục vụ  trên web hay email + Kênh ưu tiên của doanh nghiệp: Thích các kênh trực tuyến hơn. Ví dụ, hãng hàng không giá rẻ easyJet khuyến khích khách hàng sử dụng các kênh trực tuyến thay vì liên hệ bằng giọng nói với trung tâm cuộc gọi để đặt hàng và dịch vụ khách hàng. Sự lựa chọn c ủa khách hàng vẫn có sẵn, nhưng công ty sử dụng trang web để ảnh hưởng đến việc lựa chọn kênh. 39 + Cung cấp dịch vụ khách hàng và hỗ trợ bán hàng thông qua Livechat ngày càng phổ biến, vd Liveperson của EE.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 14: Điền  từ còn thiếu  vào chỗ trống:  “Trong  e-marketing,  yếu tố bằng  chứng  vật lý trở thành  trải nghiệm  của khách  hàng  về công  ty thông  qua ….. và các ….. khách  hàng  khác.”
+['A. trang  web/ điểm  chạm', 'B. thông  tin/ điểm  chạm', 'C. trang  web/  nhu cầu', 'D. thông  tin/ nhu cầu']
+Đáp án đúng: A. trang  web/ điểm  chạm
+Giải thích: Trong e -marketing, yếu tố bằng chứng vật lý trở thành trải nghiệm của khách hàng về công ty thông qua trang web và các điểm chạm khách hàng khác, ví dụ, email, mạng xã hội của doanh nghiệp, tính dễ sử dụng hoặc khả năng điều hướng của trang web , tốc độ tải trang, chất lượng hình ảnh, tính hữu ích.                             40
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: Có bao nhiêu  thay  đổi chính  trong  các đặc tính của hoạt động  truyền  thông  khi doanh nghiệp  chuyển  từ phương  tiện truyền  thông  truyền  thống  sang  phương  tiện truyền  thông  số?
+['A. 6', 'B. 4', 'C. 5', 'D. 8']
+Đáp án đúng: D. 8
+Giải thích: 08 thay đổi chính trong các đặc tính của hoạt động truyền thông khi doanh nghiệp chuyển từ phương tiện truyền thông truyền thống sang phương tiện truyền thông số. 1. Từ “đẩy”  tới “kéo” 2. Đối thoại  tương  tác 3. Cá thể hoá theo số đông  (mass  customization)  và cá nhân  hoá (personalization) 4. Truyền  thông  đa chiều  (many -to-many  communications) 5. Tính  chủ động  (lean  – forward) 6. Thay  đổi bản chất của các công  cụ marketing  truyền  thống 7. Tăng  số lượng  các trung  gian truyền  thông 8. Tính  tích hợp
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Báo in, TV và đài phát  thanh  là phương  tiện truyền  thông  gì?
+['A. Phương  tiện truyền  thông  đẩy', 'B. Phương  tiện truyền  thông  kéo', 'C. Phương  tiện truyền  thông  tương  tác', 'D. Phương  tiện truyền  thông  đối thoại']
+Đáp án đúng: A. Phương  tiện truyền  thông  đẩy
+Giải thích: Phương tiện  truyền thông  đẩy: Các  phương tiện  truyền thông  truyền thống  như báo in, TV  và đài phát thanh, đưa tin một chiều từ công ty đến khách hàng
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Marketing  số là phương  tiện truyền  thông  gì?
+['A. Phương  tiện truyền  thông  đẩy', 'B. Phương  tiện truyền  thông  kéo  41', 'C. Phương  tiện truyền  thông  tương  tác', 'D. Phương  tiện truyền  thông  đối thoại']
+Đáp án đúng: B. Phương  tiện truyền  thông  kéo
+Giải thích: Phương  tiện truyền  thông  kéo: Những  hoạt động  marketing  số như marketing  nội dung, marketing  qua công cụ tìm kiếm và marketing qua các phương tiện truyền thông xã hội.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Tác động  chính  của e-marketing  để kết nối gì?
+['A. Kết nối người  tiêu dùng  với doanh  nghiệp', 'B. Kết nối thương  hiệu với người  tiêu dùng', 'C. Kết nối người  tiêu dùng  với nhau', 'D. Tất cả đáp án trên']
+Đáp án đúng: C. Kết nối người  tiêu dùng  với nhau
+Giải thích: Đối thoại  tương  tác Tác động  chính  của e -marketing  không  phải là tìm  ra những  cách mới để kết nối thương  hiệu với người tiêu dùng, mà là kết nối người tiêu dùng với nhau Nhãn hàng nên tận dụng lợi ích được lắng nghe ý kiến của khách hàng từ những cuộc đối thoại  này. VD:  Threadless.com.  Cửa hàng  áo phông  trực tuyến  này chỉ bán những  thiết kế mà người dùng đã đăng tải lên và chỉ sản xuất những thiết kế nhận được nhiều phiếu bầu chọn nhất từ người dùng
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Nhược  điểm  khi thực  hiện truyền  thông  đa chiều?
+['A. Khách  hàng  có quá nhiều  nguồn  thông  tin', 'B. Mất nhiều  thời gian,  chi phí để thực hiện', 'C. Mất quyền  kiểm  soát và giám  sát nguồn  thông  tin', 'D. Mất cân bằng  truyền  thông  số và truyền  thông  truyền  thống']
+Đáp án đúng: C. Mất quyền  kiểm  soát và giám  sát nguồn  thông  tin
+Giải thích: Phương tiện kỹ thuật số cũng cho phép liên lạc nhiều chiều. Qua những kênh này, khách hàng có thể tương tác với nhau qua web/blog cá nhân hoặc trên các trang cộng đồng trực tuyến độc lập. => Doanh nghiệp mất quyền kiểm soát và giám sát cá c nguồn thông tin, nhưng lại mở ra nhiều cơ hội tiếp cận với những influencers để mở rộng phạm vi tiếp cận.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: “Không  lập kế hoạch  trước  các chiến  dịch mà chuyển  sang  một cách  tiếp cận năng động,  nhanh  nhẹn  hơn”  gọi là gì?
+['A. Marketing  theo thời gian thực', 'B. Marketing  phi kế hoạch 42', 'C. Marketing  hỗn hợp', 'D. Marketing  truyền  thống']
+Đáp án đúng: A. Marketing  theo thời gian thực
+Giải thích: Real - time marketing: Không lập kế hoạch trước các chiến dịch mà chuyển sang một cách tiếp cận năng động, nhanh nhẹn hơn gọi là marketing theo thời gian thực, tin tức cập nhật trong vài phút, không phải vài ngày => Các ý tưởng được lan truyền một cách nhanh chóng, doanh nghiệp phát triển (hoặc tinh chỉnh) sản phẩm/dịch vụ ngay lập tức, dựa trên phản hồi từ khách hàng/các sự kiện tr ên thị trường.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Có bao nhiêu  bước  lập kế hoạch  cho chiến  dịch e-marketing?
+['A. 4', 'B. 5', 'C. 7', 'D. 6']
+Đáp án đúng: D. 6
+Giải thích: Sáu bước lập  kế hoạch  cho chiến  dịch e-marketing: Bước  1: Thiết  lập mục tiêu và theo dõi các công  cụ truyền  thông  marketing Bước 2: Insight chiến dịch Bước 3:  Phân  đoạn  khách  hàng  và khách  hàng  mục tiêu Bước  4: Chào  hàng,  sáng tạo và phát triển thông  điệp của chiến  dịch Bước  5: Lập ngân  sách và lựa chọn  các phương  tiện truyền  thông  phù hợp chiến  dịch Bước 6: Tính tích hợp trong kế hoạch truyền thông tổng thể
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: “Số lần nhấp  chuột,  phiên  của khách  truy cập và số lượng  khách  truy cập.”  là thước đo gì?
+['A. Các thước  đo khối lượng', 'B. Các thước  đo chất lượng', 'C. Các thước đo  chi phí truyền  thông', 'D. Các thước  đo chi phí chuyển  đổi']
+Đáp án đúng: A. Các thước  đo khối lượng
+Giải thích: Các thước đo khối lượng: Bao gồm số lần nhấp chuột, phiên của khách truy cập và số lượng khách truy cập. Lưu lượng truy cập thường được đo bằng số lần nhấp qua hoặc lượt truy cập vào một trang  web (phiên  của khách  truy cập) hoặc số  lượng  khách  truy cập tốt hơn. Khách  truy cập duy 43 nhất thích sử dụng lượt xem hoặc lượt truy cập trang làm thước đo hiệu quả. Khách truy cập duy nhất là khách truy cập cá nhân vào một trang web được đo lường thông qua cookie hoặc  địa chỉ IP trên một máy tính cá nhân
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: “Tỷ lệ chuyển  đổi thành  hành  động  và tỷ lệ thoát”  là thước  đo gì?
+['A. Các thước  đo khối lượng', 'B. Các thước  đo chất lượng', 'C. Các thước đo  chi phí truyền  thông', 'D. Các thước  đo chi phí chuyển  đổi']
+Đáp án đúng: B. Các thước  đo chất lượng
+Giải thích: Các thước đo chất lượng: Bao gồm tỷ lệ chuyển đổi thành hành động và tỷ lệ thoát: Các thước đo lưu lượng truy cập không cho biết liệu khán giả được giới thiệu đến trang web có tương tác với nó hay rời đi ngay lập tức hay không, vì vậy chúng tôi cần các biện pháp chất lượng để cho chúng tôi thấy điều này.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: “Chi  phí mỗi lượt click”  là thước  đo gì?
+['A. Các thước  đo khối lượng', 'B. Các thước  đo chất lượng', 'C. Các thước  đo chi phí truyền  thông', 'D. Các thước  đo chi phí chuyển  đổi']
+Đáp án đúng: C. Các thước  đo chi phí truyền  thông
+Giải thích: Các thước đo chi phí truyền thông: Bao gồm chi phí mỗi lượt click. Chi phí chuyển đổi khách truy cập thường được đo bằng giá mỗi nhấp chuột (CPC) cụ thể cho một kênh truyền thông marketing số cụ thể, chẳng hạn như marketing qua công cụ tìm kiếm trả tiền cho mỗi lần nhấp chuột.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: “Chi  phí cho mỗi hành  động  hoặc  chuyển  đổi.”  là thước  đo gì?
+['A. Các thước  đo khối lượng', 'B. Các thước  đo chất lượng', 'C. Các thước đo  chi phí truyền  thông', 'D. Các thước  đo chi phí chuyển  đổi']
+Đáp án đúng: D. Các thước  đo chi phí chuyển  đổi
+Giải thích: Các thước đo chi phí chuyển đổi: Bao gồm chi phí cho mỗi hành động hoặc chuyển đổi. Một chiến dịch marketing số sẽ không thành công nếu nó đáp ứng các mục tiêu thu hút khách hàng truy cập trang web nhưng chi phí để đạt được điều này là quá cao. Vì vậy, doa nh nghiệp cần có các mục 44 tiêu và thước đo chi phí sử dụng các kênh truyền thông marketing số khác nhau để thu hút khách hàng truy cập vào trang web và chuyển sổi sang giao dịch.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: “Các  đặc điểm  phân  khúc,  mức độ nhận  thức,  nhận  thức và thái độ đối với thương hiệu hoặc  tổ chức,  trình  độ, nhận  thức  về rủi ro và khả năng  bị ảnh hưởng  bởi người  khác trong  việc đưa ra quyết  định.”  là bối cảnh  nào trong  insight  chiến  dịch?
+['A. Bối cảnh  khách  hàng', 'B. Bối cảnh  kinh doanh', 'C. Bối cảnh  nội bộ', 'D. Bối cảnh  bên ngoài']
+Đáp án đúng: A. Bối cảnh  khách  hàng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 13: “Chiến  lược và kế hoạch  marketing  cho doanh  nghiệp,  phân  tích thương  hiệu/tổ  chức và phân  tích đối thủ cạnh  tranh.”  là bối cảnh  nào trong  insight  chiến  dịch?
+['A. Bối cảnh  khách  hàng', 'B. Bối cảnh  kinh doanh', 'C. Bối cảnh  nội bộ', 'D. Bối cảnh  bên ngoài']
+Đáp án đúng: B. Bối cảnh  kinh doanh
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 14: “Các  hạn chế về tài chính,  bản sắc tổ chức,  văn hoá, giá trị và niềm  tin, chuyên  môn marketing,  khả năng  của marketing  agency.”  là bối cảnh  nào trong  insight  chiến  dịch?
+['A. Bối cảnh  khách  hàng', 'B. Bối cảnh  kinh doanh', 'C. Bối cảnh  nội bộ', 'D. Bối cảnh  bên ngoài']
+Đáp án đúng: C. Bối cảnh  nội bộ
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 15: “Các  bên liên quan  chính,  thông  tin liên lạc và nhu cầu, các cơ hội và rủi ro về xã hội, chính  trị, kinh  tế, luật pháp  và công  nghệ.”  là bối cảnh  nào trong  insight  chiến  dịch?
+['A. Bối cảnh  khách  hàng', 'B. Bối cảnh  kinh doanh', 'C. Bối cảnh  nội bộ', 'D. Bối cảnh  bên ngoài']
+Đáp án đúng: D. Bối cảnh  bên ngoài
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 16: Yếu tố nào sau đây không  là yếu tố chính  làm nên một chân  dung  khách  hàng  cho một chiến  dịch?
+['A. Hồ sơ khách  hàng', 'B. Hồ sơ nhu cầu', 'C. Hồ sơ số 45', 'D. Hồ sơ cá nhân']
+Đáp án đúng: B. Hồ sơ nhu cầu
+Giải thích: Wertime và Fenwick (2008) đã đề xuất một kỹ thuật tương tự để phác hoạ  một “chân dung khách hàng” cho các chiến dịch. Các yếu tố chính làm nên một chân dung khách hàng cho một chiến dịch là: - Hồ sơ chung  (general  profile) - Hồ sơ số (digital  profile): + Thói  quen  sử dụng  các phương  tiện số (Digital  usage habit) + Sở thích  tiêu thụ nội dung  (Content  consumption  preference) + Hồ sơ tạo nội dung  (Content  creation  profile) - Hồ sơ cá nhân
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 17: Mô hình  AIDA  là gì?
+['A. Nhận  thức – Hứng  thú – Khao  khát – Hành  động', 'B. Quan  tâm - Nhận  thức – Hứng  thú – Hành  động', 'C. Quan  tâm - Nhận  thức – Khao  khát – Hành  động', 'D. Nhận  thức – Hứng  thú – Quan  tâm – Hành  động']
+Đáp án đúng: A. Nhận  thức – Hứng  thú – Khao  khát – Hành  động
+Giải thích: Thông  điệp ngắn  gọn và mạnh  mẽ để tiếp cận khách  hàng  nhanh  chóng Thông điệp quảng cáo nên đi theo mô hình AIDA AIDA  là viết tắt của 4 bước: A  (Attention)  – I (Interest)  – D (Desire)  – A (Action)  tương  ứng với Nhận thức – Hứng thú – Khao khát – Hành động. Các kênh  truyền  thông  cần đạt được  những  yêu cầu: Hình  thành  ý tưởng,  Xây dựng  mối quan hệ, Kích hoạt bán hàng, Hỗ trợ khách hàng, Tăng trải nghiệm sản phẩm.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 18: Marketing  nào phải là trọng  tâm của hoạt động  marketing  số cho tất cả các loại thương  hiệu?
+['A. Marketing  truyền  thống', 'B. Marketing  căn bản', 'C. Marketing  nội dung', 'D. Marketing  chiến  dịch']
+Đáp án đúng: C. Marketing  nội dung
+Giải thích: 46 Marketing  nội dung  (Content  Marketing)  phải là trọng  tâm - Nội dung đóng vai trò quan trọng như một phương pháp thu hút khán giả và tạo ra nhu cầu, cho dù đây là nội dung có tính chất giáo dục hay nội dung video giải trí - Ma trận marketing nội dung giải thích cách doanh nghiệp có thể lự a chọn loại nội dung và hình thức thể hiện phù hợp gắn với mục tiêu chiến dịch của doanh nghiệp.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 19: Tóm  tắt 4C các đặc điểm  của truyền  thông  marketing  tích hợp Pickton  và Broderick (2001)  là gì?
+['A. Tính  tiện lợi – Tính liên kết – Tính  liên tục – Nhất  quán', 'B. Tính liên kết – Nhất  quán  – Tính liên tục – Tính bổ sung', 'C. Tính  liên kết – Tính  tiện lợi – Tính  liên tục – Nhất  quán', 'D. Tính  tiện lợi – Tính bổ sung – Nhất  quán  – Tính  liên tục']
+Đáp án đúng: B. Tính liên kết – Nhất  quán  – Tính liên tục – Tính bổ sung
+Giải thích: Các đặc điểm  của truyền  thông  marketing  tích hợp đã được Pickton và Broderick  (2001)  tóm tắt dưới dạng 4C là: + Tính  liên kết: Các thông  tin liên lạc khác nhau  được  kết nối một cách hợp lý. + Nhất  quán:  Các thông  điệp hỗ trợ và củng  cố lẫn nhau,  không  tạo mâu thuẫn + Tính  liên tục: Thông  tin liên lạc được  kết nối và nhất quán  theo thời gian + Tính  bổ sung:  Các kênh  truyền  thông  bổ sug cho nhau.                    47
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: Có bao nhiêu  giai đoạn  quản  lý hiệu quả các kênh  e-marketing?
+['A. 5', 'B. 3', 'C. 7', 'D. 6']
+Đáp án đúng: B. 3
+Giải thích: Có 3 giai đoạn Giai đoạn  1: Tạo hệ thống  quản  lý hiệu suất và hiệu quả Giai đoạn 2: Xác định khung chỉ số các kết quả Giai đoạn 3: Các công cụ và kỹ thuật để thu thập insight, chạy các quy trình và tổng kết các kết quả
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Nguyên  nhân  nào sau đây làm cho một doanh  nghiệp không  có hệ thống  quản  lý hiệu suất và hiệu quả?
+['A. Sự thiển  cận của quản  lý cấp cao', 'B. Trách  nhiệm  không  rõ ràng', 'C. Các vấn đề về nguồn  lực, dữ liệu', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích: Phép đo hiệu quả là quá trình định lượng hiệu suất và hiệu quả của  các hoạt động doanh nghiệp trong quá khứ thông qua việc thu thập, đối chiếu, sắp xếp, phân tích, giải thích và phổ biến những dữ liệu thích hợp Nguyên  nhân  một doanh  nghiệp  không  có hệ thống  quản  lý hiệu suất và hiệu quả: +Sự thiển cận của quản lý cấp cao: việc đo lường hiệu quả không được coi là ưu tiên, không được hiểu rõ hoặc nhắm mục tiêu sai, muốn giảm chi phí thay vì cải thiện hiệu quả hoạt động kinh doanh/hoạt động marketing + Trách  nhiệm  không  rõ ràng:  trong  việc ti ến hành  và cải thiện  hệ thống  đo lường. + Các vấn đề về nguồn lực: thiếu thời gian (hoặc thiếu động lực của nhân viên), thiếu công nghệ cần thiết và các hệ thống tích hợp.   48 + Các vấn đề về dữ liệu: dữ  liệu quá tải hoặc chất lượng kém,  hoặc dữ liệu hạn chế để có thể đo điểm chuẩn.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Quá trình  đo lường  hiệu quả có bao nhiêu  giai đoạn?
+['A. 3', 'B. 4', 'C. 5', 'D. 6']
+Đáp án đúng: B. 4
+Giải thích: 4 giai đoạn  chính  trong  quy trình  đo lường Giai đoạn 1: Thiết lập mục tiêu Giai đoạn 2: Đo lường hiệu suất Giai đoạn  3: Chuẩn đoán hiệu suất Giai đoạn 4: Hành động khắc phục
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Nhóm  chỉ số nào sau đây không  là nhóm  chỉ số điển hình  trong  xác định  khung  chỉ số các kết quả (mức  độ tương  tác với các mạng  xã hội)?
+['A. Nhóm  chỉ số quảng  bá kênh, nhóm  chỉ số hành  vi người mua', 'B. Sự hài lòng của kênh,  kết quả đầu  ra của kênh', 'C. Nhóm  chỉ số hiệu quả công  nghệ', 'D. Khả năng  sinh lời của kênh']
+Đáp án đúng: C. Nhóm  chỉ số hiệu quả công  nghệ
+Giải thích: Nhóm chỉ số quảng bá kênh: Các chỉ số quảng bá kênh: được đo lường để đánh giá lý do tại sao khách  hàng  truy cập một trang  web – họ đã xem quảng  cáo nào, họ đã được  giới thiệu  từ trang 49  web nào. VD: Tỷ lệ của tất cả các lần giới thiệu/số  lượt mua hàng,  CPA  (cost -per- acquisition),  CPS (cost -per-sale), Số tiền đóng góp vào doanh thu chung Nhóm chỉ số hành vi người mua kênh: Bounce rate, Home page views/all page views, Stickiness: page views/visitor sessions, Repeats: visitor sessions/visitors. Sự hài lòng của kênh: Sự hài lòng của khách hàng với trải nghiệm trực tuyến giúp đạt được kết quả kênh mong muốn. Các phương pháp nghiên cứu trực tuyến như bảng hỏi trực tuyến, nhóm tập trung và phỏng vấn có thể được sử dụng để đánh giá ý kiến của khách hàng về kênh cũng như cách nó ảnh hưởng đến nhận thức về thương hiệu. VD: Tính dễ sử dụng (easy of u se), Tính khả dụng (site availability), Hiệu suất của trang web (performance), Phản hồi email (email response) Kết quả đầu ra của kênh: Các mục tiêu marketing truyền thống như số lượng đơn hàng, số lượng khách hàng tiềm năng, tỷ lệ chuyển đổi, số lượng khá ch hàng đã thu hút và tỷ lệ giữ chân khách hàng nên được đặt ra và sau đó so sánh với các kênh khác lẫn mục tiêu marketing số như Số lượt đăng ký tài khoản trên trang web hoặc đăng ký nhận email thông báo, Số lượt phản hồi một chương trình khuyến mãi, Tỷ l ệ tiêu hao (attrition rate) Khả năng sinh lời của kênh: mỗi kênh cần có đóng góp và đạt được một tỷ lệ doanh số nhất định cũng như đánh giá tỷ lệ hoàn vốn theo thời gian.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Smart  Insights  (2010)  đã xác định  bao nhiêu  loại công  cụ thu thập  phản  hồi trực tuyến của khách  hàng?
+['A. 4', 'B. 5', 'C. 6', 'D. 7']
+Đáp án đúng: B. 5
+Giải thích: Smart Insights (2010) đã xác định 5 loại công cụ thu thập phản hồi trực tuyến của khách hàng như sau: - Công cụ phản hồi website: Cung cấp phương án lâu dài để thu thập phản hồi bằng lời nhắc chạy liên tục trên mỗi trang. - Khảo sát sự hài lòng của người dùng trang web: Công cụ này đo lường khoảng cách giữa kỳ vọng của người dùng và những gì họ thực sự trải nghiệm. - Phần  mềm  lấy ý kiến sản phẩm  từ cộng  đồng:  Phần  mềm  này có phạm  vi rộng hơn phản  hồi trên web, cho phép khách hàng nhận xét về các dịch vụ mới tiềm năng. - Công cụ phản  hồi về khái  niệm  hoặc  những page  đơn giản: Một hình  thức cung  cấp dịch vụ cộng đồng bằng những công cụ giúp nêu phản hồi từ bảng điều khiển về mọi thư, như bố cục  page, dịch vụ hay chức năng nhắn tin 50 - Tổng  hợp các công  cụ khảo  sát trực tuyến
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Có bao nhiêu  giai đoạn  chính  liên quan  đến việc xuất bản một trang?
+['A. 3', 'B. 5', 'C. 6', 'D. 7']
+Đáp án đúng: C. 6
+Giải thích: 6 giai đoạn  chính  liên quan  đến việc xuất  bản một trang: 1. Viết:  Giai đoạn này liên quan đến việc viết nội dung marketing và, nếu cần thiết, thiết kế bố cục của nội dung và hình ảnh liên quan. 2. Đánh  giá: Một đánh giá độc lập về bản sao là cần thiết để kiểm tra lỗi trước khi tài liệu được xu ất bản. Tùy thuộc vào quy mô của công ty, có thể cần một người hoặc nhiều người đánh gía các khía cạnh khác nhau của chất lượng nội dung như hình ảnh công ty, lỗi ngữ pháp, bản sao marketing, thương hiệu và tính hợp pháp. 3. Chính  xác: Giai đoạn  này đơn giản và liên quan  đến các bản cập nhật cần thiết 4. Xuất  bản để thử nghiệm:  Giai đoạn xuất bản thử nghiệm liên quan đến việc đưa bản sao đã sửa chữa lên một trang web để được kiểm tra thêm. Đây sẽ là một môi trường thử nghiệm chỉ có thể được xem từ bên trong công ty. 5. Kiểm  tra: Trước khi trang web hoàn chỉnh được tải trên World Wide Web, một bài kiểm tra cuối cùng sẽ  được yêu  cầu đối  với các  sự cố kỹ thuật,  chẳng  hạn như liệu trang  có tải thành công trên các trình duyệt khác nhau hay không. 6. Xuất  bản chính  thức:  Sau khi tài liệu đã được xem xét, kiểm tra và được xác nhận là đạt yêu cầu, nó sẽ được xuất bản lên trang web chính và khách hàng có thể truy cập được.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Điền  từ còn thiếu  vào chỗ trống:  “Bản  chất của việc bảo trì thành  công  là ….. đối với các khía cạnh khác  nhau  của việc cập nhật  trang  web.”
+['A. Xác định rõ trách  nhiệm', 'B. Thu hút nhiều  khách  hàng', 'C. Làm mới', 'D. Cập nhật']
+Đáp án đúng: A. Xác định rõ trách  nhiệm
+Giải thích: Sterne (2001) gợi ý rằng bản chất của việc bảo trì thành công là xác định rõ trách nhiệm đối với các khía  cạnh khác nhau của việc cập nhật trang web. Các câu hỏi cần hỏi là: 51 - Ai sở hữu quy trình? - Ai sở hữu nội dung? - Ai sở hữu định dạng? - Ai sở hữu công  nghệ?
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: “Công  cụ phần  mềm  để tạo, chỉnh  sửa và cập nhật  tài liệu được  truy cập bằng  mạng nội bộ, mạng  mở rộng  hoặc  Internet.”  là gì?
+['A. Hệ thống  quản  lí công  nghê', 'B. Hệ thống  quản  lí nội dung', 'C. Hệ thống  phân  phối', 'D. Hệ thống  kiểm  soát truy cập']
+Đáp án đúng: B. Hệ thống  quản  lí nội dung
+Giải thích: Hệ thống quản lý nội dung (CMS) là một công cụ phần mềm để tạo, chỉnh sửa và cập nhật tài liệu được truy cập bằng mạng nội bộ, mạng mở rộng hoặc Internet. CMS  cung  cấp những  cơ sở sau: - Cấp quyền  cấu trúc - Quản  lý liên kết - Khả năng  hiển thị của công  cụ tìm kiếm - Đầu vào và phân  phối - Lập phiên  bản - Kiểm  soát truy cập và bảo mật - Quy trình  đăng  bài - Theo  dõi và giám  sát - Điều  hướng  và trực quan  hóa           52
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: SEM  là gì?
+['A. Marketing  qua các phương  tiện truyền  thông  xã hội', 'B. Marketing  trên công  cụ tìm kiếm', 'C. Quảng  cáo trực tuyến', 'D. PR trực tuyến']
+Đáp án đúng: B. Marketing  trên công  cụ tìm kiếm
+Giải thích: Marketing trên công cụ tìm kiếm (Search engine marketing hay SEM) là một kỹ thuật quan trọng để tạo ra những khách truy cập có chất lượng vào một trang web. Các công  cụ tìm kiếm  chính  bao gồm Google,  Bing,  YouTube.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: “Hoạt  động  tối ưu thứ hạng  từ khóa  (keyword  ranking)  của một ngành  nghề,  dịch vụ, sản phẩm,…  trên các công  cụ tìm kiếm.”  là gì?
+['A. SEM', 'B. SEO', 'C. PPC', 'D. IRM']
+Đáp án đúng: B. SEO
+Giải thích: Khái  niệm  của SEO:  SEO (Search Engine Optimization) là hoạt động tối ưu thứ hạng từ khóa (keyword  ranking)  của một ngành  nghề, dịch  vụ, sản  phẩm,... trên  các công  cụ tìm kiếm. Vị  trí càng cao sẽ có tỷ lệ khách hàng có khả năng vào trang web của doanh nghiệp càng lớn. Ứng dụng  SEO: Kỹ thuật SEO là gì? Kỹ thuật SEO đề cập đến quá trình tối ưu hóa trang web của doanh nghiệp ch o giai đoạn thu thập thông tin và lập đầu mục. SEO Onpage là tập hợp những kỹ thuật tối ưu hóa website để cải thiện xếp hạng cao hơn và kiếm  được lưu lượng  truy cập  website phù  hợp hơn trong  những công cụ tìm kiếm.  SEO on -page đề cập đến cả content lẫn mã code HTML SEO Offpage là tập hợp những thủ thuật tối ưu các yếu tố bên ngoài của một website, gồm xây dựng việc các backlink dẫn về website để đẩy mạnh từ khóa giúp cho website lên top trên các công cụ tìm kiếm, hay là sự tương tác, chia sẻ trên các trang mạng xã hội như Facebook, Twitter...
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: Đâu không  phải ưu điểm  của SEO?
+['A. Tăng  truy cập của website 53', 'B. Khả năng  nhắm  mục tiêu cao', 'C. Năng  động', 'D. Tăng  doanh  thu nhanh']
+Đáp án đúng: D. Tăng  doanh  thu nhanh
+Giải thích: Những  lợi ích chính  của SEO là: - Tăng  truy cập của website:  Marketing  qua công  cụ tìm kiếm  nếu được  triển khai thành  công có thể giúp thu hút một tỷ lệ đáng kể khách truy cập vào trang web. - Khả năng nhắm mục tiêu cao: Khách  truy cập trang  web là những người đang tìm kiếm các sản phẩm hoặc dịch vụ cụ thể n ên thường có ý định mua hàng cao. Họ là những khách truy cập đủ tiêu chuẩn.  Doanh  nghiệp  không  cần trả chi phí để hiển thị quảng  cáo mà vẫn thu được  những  khách hàng có khả năng mua cao. - Năng động: Các rô bốt của công cụ tìm kiếm sẽ thu thập dữ liệu trang chủ của các trang web phổ biến hàng ngày, vì vậy nội dung mới được đưa vào tương đối nhanh chóng cho các trang phổ biến nhất của trang web.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Nhược  điểm  của SEO  là gì?
+['A. Thiếu  khả năng  dự đoán,  mất thời gian để nhìn  thấy kết quả', 'B. Tính  chất phức  tạp và năng  động', 'C. Ít có tác động  đến nhận  thức của  khách  hàng  so với các kênh  truyền  thông  khác', 'D. Tất cả đáp án trên']
+Đáp án đúng: D
+Giải thích: - Thiếu khả năng dự đoán: So với các phương tiện truyền thông khác, SEO rất không đáng tin cậy về lợi tức đầu tư. Doanh nghiệp rất khó để dự đoán kết quả cho một khoản đầu tư nhất định và có tính cạnh tranh cao. - Thời gian để nhìn thấy kết quả: Kết quả từ SEO có thể mất nhiều tháng để đạt được, đặc biệt là đối với các trang web  mới. - Tính chất phức tạp và năng động: Các công cụ tìm kiếm tính đến hàng trăm yếu tố,nhưng trọng số tương đối không được công bố, vì vậy không có mối tương quan trực tiếp giữa hoạt động marketing và kết quả. Hơn nữa các yếu tố xếp hạng này thay đổi theo t hời gian. Doanh nghiệp khi tham gia vào hoạt động SEO cần thực hiện đầu tư để phát triển nội dung mới và tạo ra các liên kết mới. - Ít có tác động đến  nhận  thức của khách hàng so với  các kênh truyền  thông khác: Người tìm kiếm thường đã phải quen thuộc với mộ t thương hiệu hoặc dịch vụ để tìm kếm thông tin về thương  54
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: “Hình  thức  marketing  mà doanh  nghiệp  trả tiền cho công  cụ tìm kiếm  để mua  vị trí quảng  cáo trên trang  kết quả”  là gì?
+['A. SEM', 'B. SEO', 'C. PPM', 'D. IRM']
+Đáp án đúng: C. PPM
+Giải thích: PSM là hình thức marketing mà doanh nghiệp trả tiền cho công cụ tìm kiếm để mua vị trí quảng cáo trên trang kết quả Google AdWords (Google Ads) thường được các doanh nghiệp sử dụng để áp dụng Paid search trong chiến dịch marketing.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Ưu điểm  của PPM  là gì?
+['A. Nhà quảng cáo không trả tiền cho quảng cáo được hiển thị; Quảng cáo PPC được nhắm mục tiêu cao; Có khả năng đo lường kết quả tốt; Có thể dự đoán trước được', 'B. Về mặt kỹ thuật  đơn giản hơn SEO;  Marketing  bám đuôi', 'C. Tìm kiếm  khách  hàng  phù hợp; Xây dựng  thương  hiệu', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Nhược  điểm  của PPM  là gì?
+['A. Cạnh  tranh  và tốn kém chi phí; Không  phù hợp', 'B. Yêu cầu kiến thức chuyên  môn', 'C. Mất thời gian;  Không  liên quan', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: e-PR là gì?
+['A. Quan  hệ công  chúng  trực tuyến', 'B. Marketing  qua các phương  tiện truyền  thông  xã hội', 'C. Marketing  trên công  cụ tìm kiếm', 'D. Quảng  cáo trực tuyến']
+Đáp án đúng: A. Quan  hệ công  chúng  trực tuyến
+Giải thích:   55 Quan hệ công chúng trực tuyến (e -PR) tận dụng hiệu ứng mạng của Internet và mạng xã hội vào hoạt động quan hệ công chúng thông thường Tối đa hóa các đề cập thuận  lợi về một tổ chức,  thương  hiệu,  sản phẩm  hoặc  trang  web của tổ chức đó trên các trang web của bên thứ ba mà đối tượng mục tiêu của web đó cũng truy cập -> Sử dụng  những  người  có sức ảnh hưởng  này để tiếp cận lượng  khán  giả của họ (Influencer  Relationship Management - IRM)
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: Ưu điểm  của e-PR là gì?
+['A. Khả năng  tiếp cận (Reach);  Chi phí', 'B. Sự uy tín; Tối ưu hóa công  cụ tìm kiếm', 'C. Nâng  cao và bảo vệ thương  hiệu', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 10: Nhược  điểm  của e-PR là gì?
+['A. Không  kiểm  soát được  kỹ', 'B. Thu hút các bình luận tiêu cực', 'C. Cả A và B', 'D. Không  đáp án nào đúng']
+Đáp án đúng: C. Cả A và B
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 11: “Cá nhân/công  ty sẽ quảng  bá sản phẩm/dịch  vụ cho nhiều  người  có nhu cầu quảng cáo và sẽ được  hưởng  hoa hồng  từ phương  thức  này thông  qua lượng  truy cập, doanh  số bán hàng  hoặc  mức độ thành  công  của đơn hàng”  là gì?
+['A. Marketing  qua các phương  tiện truyền  thông  xã hội', 'B. Marketing  liên kết', 'C. Marketing  trên công  cụ tìm kiếm', 'D. Quảng  cáo trực tuyến']
+Đáp án đúng: B. Marketing  liên kết
+Giải thích: Marketing liên kết (Affliate marketing): cá nhân/công ty sẽ quảng bá sản phẩm/dịch vụ cho nhiều  người có  nhu cầu  quảng cáo  và sẽ được hưởng  hoa hồng  từ phương thức này thông  qua lượng truy cập, doanh số bán hàng hoặc mức độ thành công của đơn hàng Ứng dụng  marketing  liên kết: + Mạng  liên kết: tìm kiếm  đơn vị liên kết, cập nhật thông  tin sản phẩm,  theo dõi số lần nhấp chuột và thanh toán   56 + Phí hoa  hồng:  tiền hoa hồng  phải được  đặt ở mức sao cho nó thúc đẩy các chi nhánh liên kết quảng cáo ưu đãi sản phẩm của người bán, đồng thời vẫn sinh lời cho doanh nghiệp + Quản lý các đường link liên kết: quảng cáo cần  phải được cập nhật phù hợp với các chương trình khuyến mãi khác nhau, trang web liên kết cần được xem xét cẩn thận + Tài trợ online  (online  sponsorship):  liên kết thương  hiệu với nội dung  hoặc  ngữ cảnh có liên quan nhằm mục đích tạo nhận thức và tăng cường sức hấp dẫn của thương hiệu.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 12: Ưu điểm  của marketing  liên kết là gì?
+['A. Khả năng  hiển thị trên các trang  kết quả tìm kiếm;  Tiếp cận các đối tượng  khác nhau', 'B. Khả năng  đáp ứng với những  thay đổi của thị trường;  Tăng  phạm  vi tiếp cận của kết quả tìm kiếm', 'C. Tạo ra nhận  thức;  Giảm  rủi ro; Trả tiền cho mỗi lần thực hiện', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 13: Nhược  điểm  của marketing  liên kết là gì?
+['A. Sử dụng không đúng tên thương hiệu và gây sự nhầm lẫn về tên thương hiệu; Tổn hại đến danh tiếng thương hiệu', 'B. Chi phí quản  lý chương  trình  liên kết tốn kém', 'C. Cần nhiều  thời gian để xây dựng  mối quan  hệ với các liên kết', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 14: “Việc  nhà quảng  cáo trả tiền cho một vị trí quảng  cáo trên các trang  web của bên thứ ba” là gì ?
+['A. Marketing  qua các phương  tiện truyền  thông  xã hội', 'B. Marketing  trên công  cụ tìm kiếm', 'C. Quảng  cáo hiển thị tương  tác', 'D. PR trực tuyến']
+Đáp án đúng: C. Quảng  cáo hiển thị tương  tác
+Giải thích: Quảng cáo hiển thị tương tác là việc nhà quảng cáo trả tiền cho một vị trí quảng cáo trên các trang web  của bên thứ ba, chẳng hạn như nhà xuất bản hoặc các trang mạng xã hội.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 15: Ưu điểm  của quảng  cáo hiển thị tương  tác là gì?
+['A. Tiếp cận để nâng  cao nhận  thức;  Phản  hồi trực tiếp', 'B. Nhắm  mục tiêu lại; Quảng  cáo hiện có sẵn cho các doanh  nghiệp  nhỏ hơn 57', 'C. Phản  ứng gián tiếp; Hiệu  ứng hào quang', 'D. Tất cả đáp trên']
+Đáp án đúng: D. Tất cả đáp trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 16: Nhược  điểm  của quảng  cáo hiển thị tương  tác là gì?
+['A. Tỷ lệ nhấp  chuột  tương  đối thấp', 'B. Danh  tiếng  thương  hiệu có thể bị ảnh hưởng', 'C. Cả A và B', 'D. Không  đáp án nào đúng']
+Đáp án đúng: C. Cả A và B
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 17: “Chiến  dịch email  marketing  được  sử dụng  như một hình  thức  marketing  trực tiếp để khuyến  khích  dùng  thử và mua hàng  cũng  như thực  hiện hoạt động  CRM.”  là gì?
+['A. Outbound  marketing', 'B. Inbound  marketing', 'C. PR trực tuyến', 'D. Marketing  trên công  cụ tìm kiếm']
+Đáp án đúng: A. Outbound  marketing
+Giải thích: Outbound marketing: Marketing ra bên ngoài, trong đó các chiến dịch email marketing được sử dụng như một hình thức marketing trực tiếp để khuyến khích dùng thử và mua hàng cũng như thực hiện hoạt động CRM.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 18: “Quản  lý email  từ khách  hàng”  là gì?
+['A. Outbound  marketing', 'B. Inbound  marketing', 'C. PR trực tuyến', 'D. Marketing  trên công  cụ tìm kiếm']
+Đáp án đúng: B. Inbound  marketing
+Giải thích: Inbound  marketing: Quản lý email từ  khách hàng,  chẳng hạn như  các email thắc  mắc về dịch vụ.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 19: Ưu điểm  của email  marketing  là gì?
+['A. Chi phí thực hiện tương  đối thấp;  Phương  tiện phản  hồi trực tiếp khuyến  khích hành động ngay lập tức', 'B. Triển  khai chiến  dịch nhanh  hơn; Dễ dàng  cá nhân  hóa', 'C. Dễ dàng  kiểm  tra trước;  Khả năng  tích hợp 58', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 20: Nhược  điểm  của email  marketing  là gì?
+['A. Khả năng  cung  cấp; Khả năng  kết xuất', 'B. Phản  hồi email  giảm  dần', 'C. Sở thích  giao tiếp; Nguồn  lực chuyên  sâu', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 21: Ưu điểm  của marketing  qua phương  tiện truyền  thông  xã hội và marketing  lan truyền  là gì?
+['A. Tiếp cận một lượng  lớn khán  giả một cách hiệu quả về chi phí', 'B. Giúp  truyền  bá thông  điệp rộng rãi hơn', 'C.Một kênh tiếp cận hiệu quả và cũng hiệu quả để quảng cáo; Nhắm mục tiêu lại', 'D.	Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 22: Nhược  điểm  của marketing  qua phương  tiện truyền  thông  xã hội và marketing  lan truyền  là gì?
+['A. Rủi ro cao, vì nó đòi hỏi đầu tư ban đầu đáng  kể vào tác nhân  lan truyền', 'B. Khó khăn  trong  việc thu hút khách  hàng;  Rất khó để tìm đúng  loại nội dung  thu hút khách hàng', 'C. Cảm nhận  tiêu cực về thương  hiệu cũng  có thể bị lan truyền  một cách nhanh  chóng', 'D. Tất cả đáp án trên']
+Đáp án đúng: D. Tất cả đáp án trên
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 23: Chiến  thuật  nào sau đây không  phải  chiến  thuật  nâng  cao hiệu quả viral  marketing là?
+['A. Công  nghệ  cao', 'B. Sử dụng  chất liệu sáng tạo', 'C. Gieo  hạt (Seeding)', 'D. Theo  dõi (Tracking)         59']
+Đáp án đúng: A. Công  nghệ  cao
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 1: “Quá  trình  quản  lý các cuộc  trò chuyện  giữa  khách  hàng  với khách  hàng  để thu hút khách  hàng  hiện tại, khách  hàng  tiềm năng  và các bên liên quan  với thương  hiệu,  từ đó tăng cường  quản  lý quan  hệ khách  hàng.”  là gì?
+['A. CRM  xã hội', 'B. Trí tuệ nhân  tạo', 'C. Quy trình  quản  lý', 'D. Lọc cộng  tác']
+Đáp án đúng: A. CRM  xã hội
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 2: Có bao nhiêu  loại dữ liệu khách  hàng  chính?
+['A. 3', 'B. 4', 'C. 5', 'D. 6']
+Đáp án đúng: B. 4
+Giải thích: Công  nghệ  cơ sở dữ liệu là trái tim của việc cung  cấp các ứng dụng  CRM 4 loại dữ liệu khách hàng chính: +Dữ liệu cá nhân  và hồ  sơ + Dữ liệu giao dịch + Dữ liệu tương  tác truyền  thông + Dữ liệu hành  vi
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 3: “Phần  mềm  và dịch vụ thực  hiện các tác vụ mà trước  đây yêu cầu sự phân  tích và tương  tác của con người”  là gì?
+['A. CRM  xã hội', 'B. Trí tuệ nhân  tạo', 'C. Quy trình  quản  lý', 'D. Lọc cộng  tác  ']
+Đáp án đúng: B. Trí tuệ nhân  tạo
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 4: Dữ liệu lớn (Big Data)  là thuật  ngữ được  sử dụng  để mô tả gì?
+['A. Các kỹ thuật  và hệ thống  phân  tích dữ liệu', 'B. Các kỹ thuật  và hệ thống  lưu trữ dữ liệu', 'C. Các kỹ thuật  và hệ thống  xử lý dữ liệu', 'D. Các kỹ thuật  và hệ thống  thu thập dữ liệu']
+Đáp án đúng: A. Các kỹ thuật  và hệ thống  phân  tích dữ liệu
+Giải thích: Dữ liệu lớn (Big Data) là một thuật ngữ cấp cao được sử dụng để mô tả các kỹ thuật và hệ thống phân tích khai thác khối lượng lớn dữ liệu hiện được các doanh nghiệp thu thập
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 5: Big Data  có những  lợi ích chính  nào cho marketing?
+['A. Xác định insight  về xu hướng  và lộ trình;  xác định yếu tố thành  công  trong  việc truyền  thông', 'B. Cải thiện  quy trình  sản xuất;  xác định yếu tố thành  công  trong  việc truyền  thông', 'C. Tối ưu hóa hệ thống  lưu trữ  dữ liệu; phát triển sản phẩm  mới', 'D. Phát triển sản phẩm  mới; xác định insight  về xu hướng  và lộ trình']
+Đáp án đúng: A. Xác định insight  về xu hướng  và lộ trình;  xác định yếu tố thành  công  trong  việc truyền  thông
+Giải thích: 2 lợi ích chính  của Big Data  cho marketing: + Xác định những insight  về xu hướng và lộ trình thông qua phân tích các tập dữ liệu lớn, phức tạp có liên quan đến nhau, điều này có thể cung cấp thông tin cho các chiến lược và chiến thuật trong tương lai + Xác định các yếu tố thành công để làm cho việc truyền thông trở nên phù  hợp hơn bằng cách cải thiện thông điệp – ví dụ: bằng cách chọn thời điểm hoặc ưu đãi tốt nhất.
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 6: Để tối đa hóa lợi ích từ việc sử dụng  thông  tin cá nhân  của khách  hàng,  nhà quảng  cáo nên làm gì?
+['A. Giới hạn quyền  kiểm  soát của khách  hàng  đối với thông  tin của họ', 'B. Trao  cho khách  hàng  quyền  kiểm soát hơn đối với thông  tin của họ', 'C. Tăng  cường  kiểm  soát thông  tin cá nhân  của khách  hàng', 'D. Lọc cộng  tác truy cập của khách  hàng  vào trang  web  ']
+Đáp án đúng: B. Trao  cho khách  hàng  quyền  kiểm soát hơn đối với thông  tin của họ
+Giải thích: Để thu được lợi ích tối đa từ  việc sử dụng thông tin cá nhân của khách hàng, nhà quảng cáo nên xem xét trao cho họ nhiều quyền kiểm soát hơn đối với cách thông tin của họ được sử dụng Lọc cộng tác (Collaborative filtering) là một phương pháp triển khai cá nhân hóa trong đó khách truy cập trang web được đề xuất nội dung hoặc ưu đãi bằng cách so sánh họ với khách hàng trong cơ sở dữ liệu của doanh nghiệp, do AI điều khiển
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 7: Lòng  trung  thành  của khách  hàng  đề cập đến gì?
+['A. Sự mong  muốn  của khách  hàng  tiếp tục làm kinh doanh  với một nhà cung  cấp cụ thể', 'B. Sự hài lòng của khách  hàng  với sản phẩm  hoặc  dịch vụ', 'C. Sự tương  tác xã  hội của khách  hàng  với doanh  nghiệp', 'D. Sự chia sẻ trải  nghiệm  của khách  hàng  trên mạng  xã hội']
+Đáp án đúng: A. Sự mong  muốn  của khách  hàng  tiếp tục làm kinh doanh  với một nhà cung  cấp cụ thể
+Giải thích: Lòng trung thành của khách hàng là mong muốn từ phía khách hàng tiếp tục làm kinh doanh với một nhà cung cấp nhất định theo thời gian. CRM  Xã hội khuyến  khích  ủng hộ trực tuyến  và hạn chế truyền  miệng  tiêu cực
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 8: Lòng  trung  thành  nhờ 2 động  lực nào tạo nên?
+['A. Suy nghĩ và cảm xúc', 'B. Niềm  tin và cảm xúc', 'C. Cảm  xúc và hành  vi', 'D. Suy nghĩ và hành  động ']
+Đáp án đúng: C. Cảm  xúc và hành  vi
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
+Câu 9: “Cách  tiếp cận đánh  giá các đặc điểm  và hành  vi của khách  hàng  và sau đó đưa ra khuyến  nghị  cho các sản phẩm  trong  tương  lai.” là gì?
+['A. Đánh  giá', 'B. Mô hình xu hướng', 'C. Lọc cộng  tác', 'D. Quy trình  quản  lý                                   ']
+Đáp án đúng: B. Mô hình xu hướng
+Giải thích:
+________________________________________________________________________________________________________________________________________________________________________________________________________
