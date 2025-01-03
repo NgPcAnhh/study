@@ -1,0 +1,37 @@
+📋 Giới thiệu
+Ứng dụng này là một hệ thống trắc nghiệm trực tuyến được xây dựng trên nền tảng web với backend sử dụng Python Flask và frontend sử dụng HTML, CSS, JavaScript. Hệ thống cho phép người dùng nhập vào một bộ câu hỏi từ file PDF hoặc Word, sau đó xử lý dữ liệu để tạo thành một bộ câu hỏi trắc nghiệm ngẫu nhiên.
+
+🔧 Các chức năng chính
+Scan và sắp xếp dữ liệu câu hỏi:
+
+Tự động phân tích nội dung file PDF hoặc Word được tải lên.
+Tách riêng từng câu hỏi, các lựa chọn phương án (A, B, C, D), đáp án đúng, và phần giải thích.
+Lưu trữ dữ liệu trong cấu trúc chuẩn hóa để dễ dàng sử dụng.
+Trắc nghiệm ngẫu nhiên:
+
+Hệ thống tạo bộ câu hỏi trắc nghiệm ngẫu nhiên từ dữ liệu đã được xử lý.
+Mỗi lần tải lại trang hoặc bắt đầu bài kiểm tra mới, câu hỏi sẽ được chọn ngẫu nhiên.
+Xây dựng trang web giao diện đơn giản, dễ sử dụng:
+
+Trang chủ hiển thị hướng dẫn sử dụng và nút bắt đầu.
+Màn hình bài kiểm tra hiển thị câu hỏi cùng các lựa chọn, đáp án và giải thích sau khi hoàn thành.
+⚙️ Cách chạy ứng dụng
+Chạy ứng dụng bằng Terminal:
+
+bash
+Sao chép mã
+cd (thư mục chứa ứng dụng)
+python app.py
+Chạy ứng dụng trong VSCode:
+
+Mở file app.py và nhấn nút Run (hoặc sử dụng tổ hợp phím F5).
+Chạy ứng dụng trong Sublime Text:
+
+Mở file app.py và nhấn tổ hợp phím Ctrl + B.
+Truy cập ứng dụng:
+
+Mở trình duyệt và nhập địa chỉ: http://localhost:5000
+🛠 Công nghệ sử dụng
+Backend: Python Flask
+Frontend: HTML, CSS, JavaScript
+Xử lý file: Thư viện Python như PyPDF2, python-docx để đọc file PDF và Word.
