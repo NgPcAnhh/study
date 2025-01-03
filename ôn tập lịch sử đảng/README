@@ -1,0 +1,33 @@
+📋 Giới thiệu
+Đây là chương trình ôn tập trắc nghiệm được thiết kế để chạy trên terminal. Chương trình cho phép người dùng nhập vào một bộ câu hỏi từ file PDF hoặc Word, sau đó xử lý và sắp xếp dữ liệu thành các câu hỏi trắc nghiệm với lựa chọn ngẫu nhiên. Mỗi lần chạy chương trình, người dùng có thể trả lời các câu hỏi, xem đáp án đúng và phần giải thích để ôn tập hiệu quả.
+
+🔧 Các chức năng chính
+  Scan và xử lý dữ liệu từ file PDF/Word:
+  Đọc dữ liệu từ file PDF hoặc Word sử dụng thư viện Python.
+  Tự động phân tích, tách riêng câu hỏi, các lựa chọn, đáp án đúng và giải thích.
+  Lưu trữ dữ liệu đã xử lý để dễ dàng sử dụng cho các lần chạy tiếp theo.
+  
+  Ôn tập câu hỏi trắc nghiệm:
+  Lấy ngẫu nhiên các câu hỏi từ bộ đề đã xử lý.
+  Hiển thị câu hỏi cùng các lựa chọn trên terminal.
+  Hiển thị đáp án đúng và giải thích sau mỗi câu hỏi.
+  
+  Cấu trúc câu hỏi rõ ràng:
+  Gồm câu hỏi, các phương án trả lời (A, B, C, D) và phần giải thích chi tiết.
+  Người dùng nhập đáp án bằng cách chọn ký tự (A, B, C, D).
+
+⚙️ Cách chạy chương trình
+  Chạy chương trình bằng Terminal:
+  cd (thư mục chứa chương trình)
+  python xuly.py
+
+Các bước sử dụng:
+  Bước 1: Nhập tên file PDF/Word chứa bộ câu hỏi.
+  Bước 2: Chương trình sẽ xử lý và hiển thị lần lượt các câu hỏi.
+  Bước 3: Trả lời câu hỏi bằng cách nhập ký tự A, B, C hoặc D.
+  Bước 4: Xem đáp án đúng và giải thích.
+
+🛠 Công nghệ sử dụng
+Xử lý file PDF: Thư viện PyPDF2
+Xử lý file Word: Thư viện python-docx
+Ngôn ngữ lập trình: Python
