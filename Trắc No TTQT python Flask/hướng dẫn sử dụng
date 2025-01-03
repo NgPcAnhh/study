@@ -18,10 +18,10 @@ Màn hình bài kiểm tra hiển thị câu hỏi cùng các lựa chọn, đá
         python server.py
     
     Chạy ứng dụng trong VSCode:
-        Mở file app.py và nhấn nút Run (hoặc sử dụng tổ hợp phím F5).
+        Mở file server.py và nhấn nút Run (hoặc sử dụng tổ hợp phím F5).
     
     Chạy ứng dụng trong Sublime Text:
-        Mở file app.py và nhấn tổ hợp phím Ctrl + B.
+        Mở file server.py và nhấn tổ hợp phím Ctrl + B.
 
 Truy cập ứng dụng:
 Mở trình duyệt và nhập địa chỉ: http://localhost:5000
