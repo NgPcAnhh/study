@@ -15,7 +15,7 @@ Màn hình bài kiểm tra hiển thị câu hỏi cùng các lựa chọn, đá
 ⚙️ Cách chạy ứng dụng
     Chạy ứng dụng bằng Terminal:
         cd (thư mục chứa ứng dụng)
-        python server.py
+        python app.py
     
     Chạy ứng dụng trong VSCode:
         Mở file app.py và nhấn nút Run (hoặc sử dụng tổ hợp phím F5).
